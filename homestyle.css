@@ -4,6 +4,7 @@ header {
    padding: 20px;
    color: #FFFFFF;
    background-color: #000000;
+   font-size: 2vw;
    font-family: Helvetica;
 }
 /*creating the two-column layout*/
@@ -15,6 +16,7 @@ nav {
    text-align: center;
    word-spacing: 30px;
    font-size: medium;
+   font-size: 2vw;
    Padding: 10px;
    background-image: url("https://d2w9rnfcy7mm78.cloudfront.net/29217871/original_25c1a4f29a3e13e71d77420f58cb72b7.png?1720036900?bc=0");
    background-color: #FFFFFF;
@@ -29,6 +31,7 @@ main {
    word-spacing: 5px;
    Padding: 2px;
    font-size: smaller;
+   font-size: 2vw;
    color: #101010;
    background-image: url("https://d2w9rnfcy7mm78.cloudfront.net/29217871/original_25c1a4f29a3e13e71d77420f58cb72b7.png?1720036900?bc=0");
    background-color: #000000;
@@ -40,6 +43,7 @@ body {
    word-spacing: 30px;
    margin-left: 5px;
    font-size:medium;
+   font-size: 2vw;
    padding: 10px;
    background-image: url("https://d2w9rnfcy7mm78.cloudfront.net/29217871/original_25c1a4f29a3e13e71d77420f58cb72b7.png?1720036900?bc=0");
    background-color: #000000;
@@ -51,6 +55,7 @@ nav a {
    color: #000000;
    text-decoration: none;
    font-size: larger;
+   font-size: 2vw;
 }
 a {
    color: #800080;
@@ -58,11 +63,13 @@ a {
 .profile h1 {
    text-align: center;
    background-color: #f5f5dc;
+   font-size: 2vw;
 }
 /*footer style*/
 footer {
    text-align: left; 
    font-size: smaller;
+   font-size: 2vw;
    padding: 20px;
    color: #000000;
    font-family: Helvetica;
