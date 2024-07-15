@@ -1,0 +1,70 @@
+/*header style*/
+header {
+   text-align: left; 
+   padding: 20px;
+   font-size: 2vw;
+   font-family: Fira Code;
+}
+/*creating the two-column layout*/
+*{
+   box-sizing: border-box;
+}
+/*navigation menu style*/
+nav {
+   text-align: left;
+   word-spacing: 30px;
+   font-size: medium;
+   font-size: 2vw;
+   Padding: 10px;
+   font-family: Fira Code;
+}
+/*main style*/
+main {
+   text-align: left;
+   margin-left: 5px;
+   word-spacing: 5px;
+   Padding: 2px;
+   font-size: smaller;
+   font-size: 2vw;
+   font-family: Fira Code;
+}
+/*body style*/
+body {
+   text-align: left;
+   word-spacing: 30px;
+   margin-left: 5px;
+   font-size:medium;
+   font-size: 2vw;
+   padding: 10px;
+   font-family: Fira Code;
+}
+/*alert style*/
+alert {
+   text-align: left;
+   word-spacing: 30px;
+   margin-left: 5px;
+   font-size:medium;
+   font-size: 2vw;
+   padding: 10px;
+   font-family: Fira Code;
+}
+   /*navigation bar button style*/
+}
+nav a {
+   color: #000000;
+   text-decoration: none;
+   font-size: larger;
+   font-size: 2vw;
+}
+.profile h1 {
+   text-align: center;
+   font-size: 2vw;
+}
+/*footer style*/
+footer {
+   text-align: left; 
+   font-size: smaller;
+   font-size: 2vw;
+   padding: 20px;
+   font-family: Fira Code;
+}
