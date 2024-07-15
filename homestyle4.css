@@ -1,0 +1,87 @@
+/*header style*/
+header {
+   text-align: center; 
+   padding: 20px;
+   color: #FFFFFF;
+   background-color: #000000;
+   font-size: 2vw;
+   font-family: Helvetica;
+}
+/*creating the two-column layout*/
+*{
+   box-sizing: border-box;
+}
+/*navigation menu style*/
+nav {
+   text-align: center;
+   word-spacing: 30px;
+   font-size: medium;
+   font-size: 2vw;
+   Padding: 10px;
+   background-image: url("https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyOTIxNzg2Ni9vcmlnaW5hbF8zMGJlMGQ3MDU2NWQ0ZmNkMzc0YzFlNjYxMjAzMTVjMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjYwMCwiaGVpZ2h0Ijo2MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NjV9LCJmbGF0dGVuIjp7ImJhY2tncm91bmQiOnsiciI6MjAzLCJnIjoyMDMsImIiOjIwM319LCJqcGVnIjp7InF1YWxpdHkiOjY1fSwicm90YXRlIjpudWxsfX0=");
+   background-color: #FFFFFF;
+   font-family: Helvetica;
+   color: #000000;
+   accent-color: #000000;
+}
+/*main style*/
+main {
+   text-align: left;
+   margin-left: 5px;
+   word-spacing: 5px;
+   Padding: 2px;
+   font-size: smaller;
+   font-size: 2vw;
+   color: #101010;
+   background-image: url("https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyOTIxNzg2Ni9vcmlnaW5hbF8zMGJlMGQ3MDU2NWQ0ZmNkMzc0YzFlNjYxMjAzMTVjMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjYwMCwiaGVpZ2h0Ijo2MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NjV9LCJmbGF0dGVuIjp7ImJhY2tncm91bmQiOnsiciI6MjAzLCJnIjoyMDMsImIiOjIwM319LCJqcGVnIjp7InF1YWxpdHkiOjY1fSwicm90YXRlIjpudWxsfX0=");
+   background-color: #000000;
+   font-family: Helvetica;
+}
+/*body style*/
+body {
+   text-align: left;
+   word-spacing: 30px;
+   margin-left: 5px;
+   font-size:medium;
+   font-size: 2vw;
+   padding: 10px;
+   background-image: url("https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyOTIxNzg2Ni9vcmlnaW5hbF8zMGJlMGQ3MDU2NWQ0ZmNkMzc0YzFlNjYxMjAzMTVjMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjYwMCwiaGVpZ2h0Ijo2MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NjV9LCJmbGF0dGVuIjp7ImJhY2tncm91bmQiOnsiciI6MjAzLCJnIjoyMDMsImIiOjIwM319LCJqcGVnIjp7InF1YWxpdHkiOjY1fSwicm90YXRlIjpudWxsfX0=");
+   background-color: #000000;
+   font-family: Helvetica;
+}
+/*alert style*/
+alert {
+   text-align: left;
+   word-spacing: 30px;
+   margin-left: 5px;
+   font-size:medium;
+   font-size: 2vw;
+   padding: 10px;
+   background-color: #000000;
+   font-family: Helvetica;
+}
+   /*navigation bar button style*/
+}
+nav a {
+   color: #000000;
+   text-decoration: none;
+   font-size: larger;
+   font-size: 2vw;
+}
+a {
+   color: #013220;
+}
+.profile h1 {
+   text-align: center;
+   background-color: #f5f5dc;
+   font-size: 2vw;
+}
+/*footer style*/
+footer {
+   text-align: left; 
+   font-size: smaller;
+   font-size: 2vw;
+   padding: 20px;
+   color: #000000;
+   font-family: Helvetica;
+}
