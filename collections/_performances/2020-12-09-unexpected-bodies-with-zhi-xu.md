@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Unexpected Bodies with Zhi Xu at Artaud Performance Centre"
+date:   2020-12-09 22:23:35 +0100
+categories: blog
+---
+
+[*Unexpected Bodies - Trailer*][unexpected] is multimedia dance work created by artist [Zhi Xu][zhi]
+
+Choreography, Performance & Programming: [Zhi Xu][zhi]
+Music: [Kat Macdonald][otherkat]
+Camera: [Johannes Birringer][johan], Eve Gabarre, Graeme Shaw
+Technical Advisor: Graeme Shaw
+Technicians: Bill Forbes, Phil Maguire, Daniel O'Riordan; Photography: Yifan Li
+
+Premiere: December 9, 2020, Artaud Performance Centre, London.
+
+<img src="/assets/img/unexpectedbodies/zhivr.png" height="375" width="500"/>
+<img src="/assets/img/unexpectedbodies/facevr.png" height="375" width="500"/>
+<img src="/assets/img/unexpectedbodies/eatvr.png" height="375" width="500"/>
+<img src="/assets/img/unexpectedbodies/spacevr.png" height="375" width="500"/>
+
+[unexpected]: https://www.youtube.com/watch?v=02x_DQMUdp8&embeds_referring_euri=https%3A%2F%2Fzhixu.org%2F&source_ve_path=Mjg2NjY
+[johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
+[zhi]: https://zhixu.org/
+[otherkat]: https://otherkat.com/

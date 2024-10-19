@@ -1,0 +1,283 @@
+---
+layout: writings
+title:  "Your Post Goes Against Our Community Guidelines: an I Love Or Hate Everyday (2022-2023) retrospective"
+date:   2023-11-27 22:23:35 +0100
+categories: blog
+---
+
+**Your Post Goes Against Our Community Guidelines: an I Love Or Hate Everyday (2022-2023) retrospective**
+
+
+**by Kat Macdonald**
+(27/11/2023)
+
+
+
+**0 - Oversharing: an opening plea**
+
+
+Hi! 
+
+Welcome to a look at a piece that took up over a full year of my life. I’ve tried to make this document fun to read while also following a vaguely academic format while I explore my thoughts on I Love Or Hate Everyday, a durational art piece that took place on Instagram throughout 2022-2023.
+
+This document will likely be updated and revised multiple times before I decide enough is enough and just post the thing to my website. It’s worth noting, much of this is unfiltered. I wanted a very honest and direct account of the work, that takes into account elements of its creation that can be rather heavy. If you’d rather avoid that level of insight then it’s best not to keep reading.
+
+If you are reading this, thank you. If you supported the work during its creation, thank you. If you click off this, admittedly overlong, explanation of my Instagram selfies, thank you.
+
+A variable amount of love,
+Kat
+
+
+
+<u><b>1 - Family tree</b></u>
+
+
+To start, the piece was heavily inspired and based on the work One Year Performance 1980-1981 by Tehching Hsieh in so far as I would be happy to see it described as a pastiche. The aesthetic similarities are obvious with both works revolving around documenting, via photography, the development of a person over the course of a year. The twist of I Love Or Hate Everyday is the modernised element of hosting the piece ‘live’, using Instagram as my digital art gallery, following elements of the trends of social media platforms. Much of the early thinking around the work was a series of what-if statements sprouting off from Hseih’s work. What does the introduction of a live day-by-day viewing of the work add to the piece? What does it mean to be performed by a white, trans-feminine lesbian? What does my body say in this space? What does it mean if the aesthetics evolve with the piece? What do I wear (if anything) and what does that say that’s different from the original work? From these questions, much of the early piece was born.
+
+Another inspiration was the work of Hito Steyerl in Duty Free Art (2015). Speaking around the topic of pattern recognition, the politics of photography and algorithmic censorship on online platforms, she writes [“Undesirable body parts thus become elements of a new machine-readable image-based grammar that might usually operate in parallel to reputational and control networks”](## "Hito Steyerl, Duty Free Art: Art in the Age of Planetary Civil War (Verso, 2017)"). Within this context, I wanted to explore my status as a reputationally “undesirable body” creating art on a social media platform and how through this lens, I could analyse how algorithmic censorship models and users self-flag queer and trans bodies as unacceptable for their platform, when nudity can no longer be used as the excuse. What is the edge between acceptable queer bodies, and what is not and could I bring that into the textural nature of the work. This point became more convoluted by subjective ideas of an ‘undesirable body’ as the work went on but this will be covered later in the paper.
+
+The final underpinning of the work, to keep it at an easy three, was that of gender and social scholar Julia Serano in her rallying cry of a book, Sexed Up (2022). In a more generalised exploration of the sexualisation of trans-feminine bodies, I wanted to explore the boundary of sexualised art as it applies to the transness of my body. If a ‘female’ nipple is unacceptable (for Instagram’s nudity policy), but a ‘male’ nipple is allowed on the platform, where does that leave my body and how much, if at all, does it come into the censoring of the work? Additionally, how would the sexualisation of my body play into the work, with particular regard to its general audience?
+
+
+
+<u><b>2 - Under the surface</b></u>
+
+
+In April 2022, I had just finished the final performance of a river of no one with the Design and Performance (DAP) lab, a piece that had exhausted me and reignited old wounds and insecurities. The piece, a Brighton University-funded research project into the creation of art under COVID-19 constraints, had been not only artistically challenging but emotionally exhausting. From being misgendered every rehearsal by an indifferent tech team to having to adapt my entire approach to live sound, due to the delay and compression of the live audio on the round trip it did during rehearsals to the United States and back again, my enthusiasm for creation was spent.
+
+Additionally, I have always been uncomfortable under the glare of a camera and a work necessitating a ‘panoptic’ approach to rehearsals didn’t aid my already faulting body image issues. Old insecurities had festered and my way of dealing with discomfort has always been a somewhat misguided approach of tackling the issue directly until I feel comfortable with it. 
+
+And so this work was born, a somewhat over-intellectualised ‘fuck you’ to society, family and systems that had told me I was ‘unphotogenic’ and ‘undesirable’.
+
+
+
+<u><b>3 - Making art during a cognitive strike</b></u>
+
+
+Another consideration of the work was its reflection on my period of artistic slump. Coming off the back of a river of no one (2022) and having felt mostly burnt out balancing job hunting, a low-paying but physically exhaustive job working at a local supermarket and my struggles with chronic pain, I needed to carve out time for art in my life. With no space to work on large, labour-intensive projects and having only a handful of hours to devote in a given week, I thought the challenge of a work that took no more than an hour (on average) every evening, was perfect to foster creative energy in my own dwindling reserves.
+
+At the same time, my confidence dipped. To put it in blunt terms, I felt my voice wasn’t worth hearing and that there were people more qualified/ diverse/ clever/ privileged (/ insert excuse as to how I was lesser) who had more interesting perspectives on art than my own. I became afraid of my voice and its impact. While this project didn’t always have the best outcomes for me, one thing I will say is that, at a time when most of my life went through huge social and emotional changes, this work picked me up, dusted me off and showed me I am valuable and my voice is worth hearing.
+
+
+
+<u><b>4 - The method</b></u>
+
+
+The project began involving 6 basic core rules: 
+
+1. the taking a live photo (taken within approximately 5 hours of being posted) of myself, nude or semi-nude, including at least either my face or my chest. 
+2. a censor bar in the image (usually censoring the chest) with a written statement of either “love” or “hate”.
+3. the written statement in the censor bar will attempt (where possible) to be based upon a summation of subjective feelings towards my body within a given day.
+4. a photo will be posted each and every day.
+5. the project will end after a full 365 days of photos.
+6. if the piece begins to enable harmful behaviours, the piece will be cancelled.
+
+These rules would change throughout the project for both artistic and subjective reasons. I Love Or Hate Everyday would be carried out with a malleability towards elements of the work to prevent from the project causing emotional duress and harm.
+
+These rules evolved over time, eventually landing on the following: 
+
+1. the taking a live photo (taken within approximately 5 hours of being posted) of myself, nude or semi-nude, including at least either my face or my chest. 
+2. a censor bar in the image (usually censoring the chest) with a written statement of either “love”, or “hate” and two occasions of “???” with the intensity, size and capitalisation varying.
+3. the written statement in the censor bar will attempt (where possible) to be based upon a summation of subjective feelings towards my body within a given day.
+4. a photo will be posted each and every day, where possible, with rest days included to allow for mental health breaks.
+5. the project will go on for as long as is manageable, or until Instagram flags enough images to remove the art piece from the platform.
+6. if the piece begins to enable harmful behaviours, the piece will be placed on hiatus or cancelled.
+
+
+
+<u><b>5 - The ritual</b></u>
+
+
+The action of the piece went as follows; every evening I would start with setting the lighting and stripping off, testing several poses in the camera before setting on a style or rough position I would like to explore. From there I would begin taking photos, setting a timer of normally 5-10 seconds to allow me to get into position each time. Following an average of 3-6 photos, I would review what I had and see if anything stood out to me. This would repeat until I had a photo I was happy with, that conveyed the emotional value I believed was representative of my current mood. 
+
+I would then edit the photo to add a sensor bar, add my daily emotion and adjust the brightness of the photo to add depth and play with contrast. Once settled, this would then be added to an Instagram post with the following text:
+
+Day (number): (emotion between ‘love’ or ‘hate’)
+
+#iloveorhateeveryday #art #body #transfemme #transgender #durational #performance #lgbt #dyke #queer #love 
+
+
+The main post would then be shared to my ‘story’ with the addition of a song and lyrical choice that reflected either of the following conditions:
+
+- Deliberated: Resonated with me emotionally that day.
+- Conveyance: Resonated with the current mood I was looking to amplify in the image.
+- Holistic: This happened to be the song I was listening to while taking the photo.
+
+If the photo was flagged by Instagram, a screenshot would be taken of the “Your post goes against our community guidelines” alert and posted in its sted.
+
+
+
+<u><b>6 - Spoilt for choice</b></u>
+
+
+The choice to allow me to curate the image I chose to post, taking multiple and making a choice as to which I preferred, was an early decision that saved a host of insecurity, even if it did require further time devoted to it each evening. I originally considered its overall impact on the authenticity of each image but having the capability to curate each evening felt like something too important to give up. Playing into the themes of modernising, to hold myself to standards likely set due to the point-shoot-develop nature of photography during the 80’s I believed the curational process of each evening to be in keeping with the modern trends of self-portraits on platforms such as Instagram.
+
+Social spaces seem to critique the ‘artificiality’ of a curated existence portrayed on platforms such as Instagram, however, who are we to judge? To curate is a human instinct and is far from a retrospective act. If I spent every evening, testing poses, doing my makeup, preening and double-checking before taking my photo, what stops that from slipping into a real-time form of curation? Am I not just front-loading the process? If I, even subconsciously, chose to eat foods that don’t leave me bloated or spend too much time in the rain for fear my makeup might run for the evening, is that not just as artificial? I felt the sacrifice was worth any costs towards authenticity.
+
+
+
+<u><b>7 - Pretentious phases</b></u>
+
+
+The work quickly fell into several distinct phases that can neatly be cut into Underconsidered (days 1-99), Experimental (days 100-153), Reactive (days 154-216), Naturalistic (days 217-303), Comfort (days 304-374) and Coda (days 375-400), forgive me my pretension. Rather than looking at this from a purely aesthetic distinction, I would rather consider the mindset I had in creating the work as a boundary line between each of its phases. Obviously, elements of this changed day by day, but broadly speaking I feel it can be easier to surmise from this perspective.
+
+Underconsidered - days 1-99
+
+This period of the piece is characterised by a naive consideration of the piece and its wider impact. To start, all photos during this period were taken in a room with minimal to no lighting, with only the flash of the camera to capture the image and while I’m sure somewhere in the world this would be a flattering angle to view yourself from, that was very much not my feelings at the time. The intent was to capture a rawness to the work which I believe was successful, however, the damage this began causing to my sense of self and body image, likely stuck with me for the rest of the work. 
+
+An interesting addition to this phase was my own physical limitations as a performer. During the course of day 2 of the piece, I dislocated my shoulder and broke several ribs in a fall, leaving me limited in my ability to interact with any more dynamic posing and giving a lasting strain that carried through for at least the first 30 days. 
+
+Experimental - days 100-153
+
+Bored with the consistency present in the aesthetic of the Underconsidered era, I wanted to experiment further with the imagery of the piece and give myself some relief from the harsh flashes of my camera. During this phase I took a more adaptive and creative approach to lighting within the work, playing with shadow and full-body photos to try to create a work that was more visually distinctive, however, ultimately diluting the naturalised nature of the piece. Creating something that felt rather vapid and shallow to me now.
+
+Reactive - days 154-216
+
+Having endured a major breakup and several other effecting incidents, this period is accented by my lesbian itinerant living situation (swapping between the sofa and the bed) causing a lack of consistency in my ability to replicate the lighting conditions of the Experimental era. This forced a sense of realism back into the imagery that ended up fostering a return to form for the piece that I feel now better characterises the overarching theme of a piece following someone's development over a year.
+
+In some ways, the isolation of the work grounded me. The breakup severed several core social connections in my life and after being kicked from a local art show I was working on (including an in-progress showing of I Love Or Hate Everyday) I felt adrift without the previous community of artists I had found a home in. I took comfort in the small consistencies and rituals of the piece.
+
+Naturalistic - days 217-303
+
+Empowered by the accidental naturalism of the Reactive phase, I wanted to take that further into the work and embrace the work's secondary position in my life. It was during this period that I began taking rest days to try to improve my mental health and give the work less impact on my life. Bouncing between staying with friends and people I was sleeping with, the social tax was exhausting, 1-2 am bedtimes followed by 6 am wake-ups for work and I burnt out. Adding even 10 minutes (minimum) extra to take, edit and upload a photo began to drain both my confidence and my constitution.
+
+Comfort - days 304-374
+
+Having long since sunk into the routine of the piece, and making a move towards correcting my circadian rhythms, the Comfort stage was an almost overly familiar segment of the piece, where it had sunk into a nightly routine that felt as natural as brushing my teeth. During this era, I made the choice to extend the work for as long as it could go, a decision likely reached due to a dependency on the work for stability. 
+
+Coda - days 375-400
+
+Realising and fixating on some of the uncomfortable connotations and damaging effects the work had on me, spurred on by a comment from an audience member, I began trying to bring the work to a close deliberately. This was attempted by dropping censorship in a dare for Instagram to remove the work from its platform. Towards its close, I made the choice that it would be best to end the piece at day 400 to allow the start of the healing process at a more set date.
+
+
+
+<u><b>8 - Seasonings: the obligatory food analogy section</b></u>
+
+
+The introduction of music to the piece became something that added a sense of self-determination to my own process. Prior to day 60, my process had felt a little dry as a performer, highly limited with regards to what I could convey. Too much salt, too little sugar. Beginning from there, I decided I would add an emotional dimension to the piece that allowed me to be more expressive, ask more questions of my audience and convey a wider sense of my emotional state. I have always loved a backing track.
+
+It became a fun task, adding a little extra layer to each performance (photo). I gravitated to a few of the same songs (see the playlist linked here, be gentle it was a tough year) but my favourite will always be Okay Kaya’s Fake It. The lyric “I take semi-nude self-portraits, I'm a satanist with a God complex, I fake it till I feel okay” summarised so many of my feelings around the piece and my life at the time.
+
+
+
+<u><b>9 - Location, location, location</b></u>
+
+
+Since day 3 of the piece, the setting shifts raised some interesting concerns for the work. A new environment meant new lighting, new space constraints and new considerations around privacy. If I slept at someone's house, stayed in a hotel or didn’t go home till the next day, where would I take my photo, how would it impact the overall aesthetic and how would it encourage playfulness?
+
+What originally began as a project devised as photos taken in my bedroom, quickly became an exploration of all the places one can sleep (or doesn’t sleep) in a year. Bathrooms, alleyways, fields, canals, friends' bedrooms, a lover's bedroom, sofas, futons, blow-up beds, bathtubs, green screens, the definition of a bedroom became anywhere.
+
+
+
+<u><b>10 - A round of applause from all the wrong places</b></u>
+
+
+Throughout the piece, the intended audience was almost entirely in the minority. This was expected but the onslaught of penis portraits, phallocentric videos, sexual comments and fetishised remarks was perhaps more regular than I’d initially conceived. While during the work, I had believed this to have left little lasting effect on me, looking back I think this has looped into an objectification of my body that became unhelpful in navigating my internal worth.
+
+This fed into the work's wider aesthetics and considerations, with the sexualisation of my body being more and more present within the piece. While I think this became integral, important and valuable to the work in general, I wish it would have had less impact on my personal life and view towards my body. It would be wrong to label this as entirely negative, my confidence has been refounded, I just wish it was less tied to the sexual desirability of my body.
+
+
+
+<u><b>11 - I take semi-nude, self-portraits</b></u>
+
+
+Beginning on day 34, I had my first of many “Your post has been removed” alerts from Instagram, taking down my post and forcing me to rethink how I deal with platform censoring. While it wasn’t entirely unexpected, it left me with a gentle cocktail of frustration and fear. If my posts were getting flagged this early in the piece, I could be left with absolutely nothing to show for my efforts. 
+
+Briefly, I considered co-hosting the piece on multiple platforms. If I had the security of knowing that the work would continue regardless of further takedown notices, then I would have peace of mind in knowing that I wouldn’t wake up the next morning and it wouldn’t all be gone. However, I believe this invalidated the authenticity of the piece. Trans and queer bodies are consistently censored from both physical and online spaces. Our bodies deemed sexual objects as default, regardless of their presentation. If I couldn’t embrace that theme, over the fear of platform rejection, I’d be selling the piece on a false promise. I picked my gallery, I should lie in it.
+
+As a perceivably white, able-bodied, thin, transgender, passing, woman my body holds a complex social value as to its intersections with eroticism, exoticism and privilege. I won’t pretend my body holds some othered state as, while my transness isn’t hidden, my body doesn’t look vastly dissimilar to the societal norm expected of a woman in her late 20s, however, it does occupy a fetishised commodity. While I’ve already gone over the response I received, it’s worth noting here that my body does afford me a level of privilege on Instagram as a platform.
+
+Instagram as a platform vastly discriminates in its [censorship bias](## "Anonymous, Censorship on Instagram and the Ethics of Instagram’s Policy and Algorithm (Berkeley Data Science Blog, 2021)"). I’ve linked to an article exploring this topic in further detail but it would be remiss of me not to mention, that my place as a white, thin, youthful body, is far from the worst affected by the marginalisation and censorship systems in effect on Instagram and I’d like to signpost that here.
+
+
+
+<u><b>12 - Rebuilding from social collapse</b></u>
+
+
+CW: Transphobia / Transmisogyny 
+
+Inspired heavily by my own experience and surmised perfectly by the video essayist Lily Alexandra’s, stark but comforting piece on metastability: [Girls Own The Void](## "Lily Alexandre, Girls Own The Void: Trans Woman, Alienation and Metastability (YouTube, 2021)"), trans feminine individuals face a unique social fragility than that of most women. Due to unconscious bias, societal messaging and general distrust, we face a far lower social barrier to abandonment. A one-strike (if that) and you’re out mentality to social missteps. Life can feel deeply unstable and entirely isolating.
+
+My own most recent social collapse came part way through this project and whether I wished it to or not, it became an unavoidable theme of the piece. This gave the interaction of the work with censorship, shadowbanning (the process by which your work is hidden from a social media network without the account holder's notice) and audience ‘participation’ further metaphorical meaning in the form of enduring social rejection.
+
+An early trend I noticed within the first 200 days of the piece was the shyness with which people would interact with the piece. Those who would watch it every day, tuning into the stories or referencing specific days of the piece, but would also never interact, always on the periphery of the work, became fascinating to me. People’s fear (other than the previously mentioned bolder cis men) in interacting with sexually charged works is interesting. It’s likely I’m reading into things but would people's interactions have been different if I were cis? Am I projecting my insecurities onto something that was never really an issue?
+
+
+
+<u><b>13 - Social rabbit warrens</b></u>
+
+
+I began noticing a worrying trend at the bleed between my social life and the work. What started as a personal anxiety, became real upon discussions with a friend, asking me if they’d made me feel bad about my body during an evening together. It seemed that my emotional state for that day was bleeding into people’s anxieties with how I felt spending time with them on a given day. The people pleaser in me would worry that if I posted a ‘hate’ label for the day, they would take an inaccurate social responsibility towards the judgement. As if they had impacted my thoughts on my body. In honesty, maybe sometimes they did. Either way, it felt like an uncomfortable level of intimacy, letting people into a side of me that I keep strictly private. 
+
+
+
+<u><b>14 - Uncomfortable connotations</b></u>
+
+
+CW: Body dysphoria/weight loss
+
+It would be remiss of me to avoid the obvious impact of the work. When viewed as a whole, you can see my weight loss pretty clearly throughout the piece. With a mixture of life circumstances, I Love Or Hate Everyday and new dietary concerns, my weight plummeted pretty significantly in a very unhealthy way. Towards the end of the piece, a friend brought up the similarities of the work to an eating disorder monitoring technique, which shocked me and left me feeling uncomfortable about the work as a whole. 
+
+When viewed in conjunction with the messages I’ve received throughout the work as to the importance and empowerment other trans people were getting from the work, I worry my piece is threaded with the wrong messaging. Having grown up with unhealthy and damaging body standards and representations, the idea that I have contributed to that in someone else, even slightly, has me feeling deeply uncomfortable.
+
+In addition, I feel the considerations set out during the earlier parts of the work as to the ‘undesirability’ of my trans body, faded as my body became more akin to the standards set by society. It becomes harder to justify an exploration of marginalised bodies in digital space when you are white, unhealthily skinny and (only visibly) able-bodied. 
+
+While I am still recovering from the implications this piece has had on me, I feel my attempts at meeting my rule of “if the piece begins to enable harmful behaviours, the piece will be placed on hiatus or cancelled” was a failure.
+
+
+
+<u><b>15 - Dancing around the areola of it all</b></u>
+
+
+So far I’ve avoided the question a little, but why censor my breasts? Why insist on these images being topless, only to censor the primarily visual image? Initially, it was a platform censorship issue. I’d wanted to co-host a version of the piece that was uncensored on an alternate platform but that quickly became trite and undesirable (as discussed in I take semi-nude, self-portraits). The interaction with the platform was so integral to the dialogue of the work that it made no sense to remove it from its platform, therefore the censorship was integral to the piece.
+
+My nipples hold an interesting social space. As a trans feminine person, the cultural value of my nipples lies in a censorship grey zone. For my gender to be respected, my nipple must be flagged as erotic but at what boundary point does my breast become a sexually explicit object? While this will be the focus of a future durational work of mine, I thought it an interesting consideration here and wanted to acknowledge it, as it may seem weirdly juxtaposed to both insisting on a level of nudity including my breasts but then having to censor them.
+
+
+
+<u><b>16 - Affordability</b></u>
+
+
+When One Year Performance (1980-1981) was conceived it was done within the confines of one home, one year and a static process that went largely unchanged through its run time. In some ways, this was my ideological opposite. For one, I don’t have the safety net to ensure there is one home for the piece, I have to be working, keeping myself fed, alive, socially sane, etc. I couldn’t waylay a year of my life for this piece, for its very conceptual interest, I must exist outside it. In agreement with my desires, sometimes life just happens to you and you are a passive observer in its machinations. I’d feel vastly uncomfortable if I had the privilege to present it as anything but.
+
+Far from me to suggest or compare my privilege to that of Tehching Hsieh, in 1980’s New York, however, socially, times have changed with regard to how far you can untangle yourself from current capitalist systems. In London, the cost of living is high. If I can’t generate a stable income, I’m out of a home and without the same safety nets as others have built, an entanglement with capitalist systems has become a necessity in 2020's culture. If Hsieh’s work centres itself as a metaphor for [“the hard slog of a working-class life”](## "Demie Kim, The Performance Artist Who Went To Impossible Extremes (Artsy.net, 2017)"), then what does that look like in 2020’s England? 
+
+During the early parts of this piece, I began an OnlyFan account. I was horny, already taking plenty of nudes and struggling to balance rent while still trying to ‘live’ some kind of life in London. I had other options and never made more than enough to last an occasional, fairly tame, night out with friends and some art supplies, but it helped me afford London life. My point here is not to pontificate or make any larger statement on sex work, beyond suggesting that soft photo-based, seems to represent a more accurate look at the working-class culture of the 2020s than a punch clock.
+
+
+
+<u><b>17 - Needs further development</b></u>
+
+
+A more personal aim of this work was a fixation I have with the emotional cost of art on a performer. Often people view the toll art makes on its artist from a position of extremes. Either the artist should be allowed total freedom in ‘speaking their truth’, or their work clearly only had a ‘negative effect’ on them and therefore, shouldn’t have been undertaken. This binarism is an infection in most forms of societal thinking (specifically around moralistic debates), seemingly pervading from most religions practising an oppositional dualism-based approach to spiritual praxis.
+
+My own thoughts on this are somewhat more individual responsibility-focused. While I don’t believe that we should limit the work we create to any kind of sanitised standard, I do believe we have a responsibility as artists and humans to our own health that isn’t overridden by the pursuit of an artistic vision. I think any approach that asks performers to limit the scope of their work or avoid certain performance methods, will always arrive at failure. 
+
+In an attempt at making myself unbearable for a few years, I wish for this work to act as a first case study in a PhD exploration into the way trauma-centred art can necessitate a re-traumatisation period for the artist that can cause incompatibility with the process of healing from those very wounds. 
+
+To make clear, I wish to break from moralistic absolutist takes of the late 90s to now, that defined works as ‘immoral’ simply due to their existence as work that explores difficult subject matter. These sanitisation efforts only seek to de-platform and generate more reactive work that exacerbates the actual issues at play here. I say with conviction that often these responses do not come from a place of concern for the artists but rather a concern for some other nebulous third party they wish to ‘protect’ from what they consider ‘explicit’ art.
+
+I would rather propose an examination of how to make such work sustainable without placing creative and moralistic limitations on performers. What if we, as creators, held our broader lives to the same standards to which our work aspires?
+
+
+
+<u><b>18 - Life lessons and conclusions</b></u>
+
+
+Covering one of the most turbulent years of my life, it’s difficult to summarise this work with any distance, even several months after completing the piece. I’ve mostly put off this retrospective with the hope of my thoughts finally falling into place somewhat, however, I still feel a weirdly personal, pessimistic view of the piece, that blinds me to its positive connotations and clouds me from a fair acknowledgement of its lessons.
+
+This piece has necessitated taking some time to properly recover from the impacts it had on both my body and my psyche. It has taken me till mid-November to acknowledge my post-work achievements but I can comfortably say that I’m taking meaningful steps in getting my issues around eating under control, my reliance on my body for self-worth has diminished as I’ve formed better attachments to the people around me, that have helped me feel valued and truly seen and my general reliance on it through routine has disappeared, to be replaced with healthier nightly rituals. Although I’m still feeling some discomfort with having my photo taken, I’m less hard on myself than I was during this project.
+
+To end with the positives, throughout this piece, my artistic confidence has been restored. After a few years of feeling a sense of imposter syndrome around my work as an artist, carried by a strong disconnect between my creative voice and the day-to-day hubbub of living to afford a semi-manageable life in London. I started the piece plagued with questions as to what my work could be, brought on by years of surviving on the edge of low-paying jobs, employment prejudice and the general bias people have towards women with strong morals. After spending a few years trying to make work that felt conformist and stretched away from my artistic sensibilities, this piece (over time) felt like a return to form, empowering me to step forward with a renewed artistic vision and brashness towards my practice.
+
+While I spent much of the last year feeling entirely disparate from my prior self-concepts, I’ve come out the other side of the work recovering but also far closer to the aspiration self I set out to be when I first began working in visual and sound art. The confidence I hold in my vision, work and manifesto as an artist has returned and for that I hold a deep tenderness towards this work going forward into the future.
+
+
+
+<u><b>19 - Audience participation</b></u>
+
+
+It would be unacceptable for me to view this document as anything but a dialogue with the reader. Many of these points have spun out of conversations or feedback from friends or colleagues, so I’d like to invite the reader, you, to ask me some questions you might have:
+
+Send me questions via my social media platforms and email.
+

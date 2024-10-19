@@ -1,0 +1,87 @@
+/*header style*/
+header {
+   text-align: center; 
+   padding: 20px;
+   color: #FFFFFF;
+   background-color: #000000;
+   font-size: 2vw;
+   font-family: Helvetica;
+}
+/*creating the two-column layout*/
+*{
+   box-sizing: border-box;
+}
+/*navigation menu style*/
+nav {
+   text-align: center;
+   word-spacing: 30px;
+   font-size: medium;
+   font-size: 2vw;
+   Padding: 10px;
+   background-image: url("https://d2w9rnfcy7mm78.cloudfront.net/29217871/original_25c1a4f29a3e13e71d77420f58cb72b7.png?1720036900?bc=0");
+   background-color: #FFFFFF;
+   font-family: Helvetica;
+   color: #000000;
+   accent-color: #000000;
+}
+/*main style*/
+main {
+   text-align: left;
+   margin-left: 5px;
+   word-spacing: 5px;
+   Padding: 2px;
+   font-size: smaller;
+   font-size: 2vw;
+   color: #FFFFFF;
+   opacity: 0.75;
+   background-color: #000000;
+   font-family: Helvetica;
+}
+/*body style*/
+body {
+   text-align: left;
+   word-spacing: 15px;
+   margin-left: 2px;
+   font-size:smaller;
+   font-size: 2vw;
+   padding: 5px;
+   background-image: url("https://d2w9rnfcy7mm78.cloudfront.net/29217871/original_25c1a4f29a3e13e71d77420f58cb72b7.png?1720036900?bc=0");
+   background-color: #000000;
+   font-family: Helvetica;
+}
+/*alert style*/
+alert {
+   text-align: left;
+   word-spacing: 30px;
+   margin-left: 5px;
+   font-size:medium;
+   font-size: 2vw;
+   padding: 10px;
+   background-color: #000000;
+   font-family: Helvetica;
+}
+   /*navigation bar button style*/
+}
+nav a {
+   color: #000000;
+   text-decoration: none;
+   font-size: larger;
+   font-size: 2vw;
+}
+a {
+   color: #800080;
+}
+.profile h1 {
+   text-align: center;
+   background-color: #f5f5dc;
+   font-size: 2vw;
+}
+/*footer style*/
+footer {
+   text-align: left; 
+   font-size: smaller;
+   font-size: 2vw;
+   padding: 20px;
+   color: #000000;
+   font-family: Helvetica;
+}
