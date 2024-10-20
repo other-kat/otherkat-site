@@ -25,3 +25,12 @@ permalink: /works/
 		{% for post in performances limit:100  %}
 <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br>
 		{% endfor %}
+
+<h2>software</h2>
+ <div id="post">
+		{% assign software = site.software | sort: date | reverse %}
+		{% if post.status == 'published' %}
+		{% endif %}
+		{% for post in software limit:100  %}
+<a href="{{ post.url }}">{{ post.title }}</a><br>
+		{% endfor %}

@@ -4,11 +4,6 @@ title: gallery
 permalink: /gallery/
 ---
 
-Me!
-
-<img src="/assets/img/me/closeup.jpeg" height="256px" width="205px"/>
-<img src="/assets/img/me/wideshot.jpeg" height="256px" width="205px"/>
-
 Shedding at Gallery Puzić (2024)
 
 <p><img src="/assets/img/shedding/performance.jpg" height="375" width="500"/>
@@ -30,6 +25,11 @@ a river of no one with the DAP Lab (2022)
 <img src="/assets/img/ariverofnoone/intheriver.png" height="385" width="756"/>
 <img src="/assets/img/ariverofnoone/paintingtheriver.png" height="385" width="756"/>
 <img src="/assets/img/ariverofnoone/tracingtheriver.png" height="385" width="756"/>
+
+I Love Or Hate Everyday (2022-2023)
+
+<img src="/assets/img/iloveorhateeveryday/instagram1.png" height="415" width="539"/>
+<img src="/assets/img/iloveorhateeveryday/instagram2.png" height="415" width="539"/>
 
 shedding femme at Detritus, Tension Fine Art Gallery (2021)
 
@@ -53,6 +53,13 @@ Mourning For A Dead Moon with the DAP Lab (2019)
 X-Body with Zhi Xu (2019)
 
 <img src="/assets/img/xbody/zhitwist.png" height="375" width="500"/>
+
+Shedding at Gallery Puzić (2024)
+
+<p><img src="/assets/img/shetheyhim/movement1.jpeg" height="375" width="500"/>
+<img src="/assets/img/shetheyhim/screen1.jpeg" height="375" width="500"/></p>
+<img src="/assets/img/shetheyhim/screen2.jpeg" height="200" width="150"/>
+<img src="/assets/img/shetheyhim/scorepost1.jpeg" height="200" width="150"/> 
 
 Gendered Viewing (2018)
 

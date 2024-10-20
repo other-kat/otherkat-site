@@ -4,7 +4,7 @@ title: writings
 permalink: /writings/
 ---
 
-<h2><a href="/writings">writings</a></h2>
+<h2>writings</h2>
  <div id="post">
 		{% assign writings = site.writings | sort: date | reverse %}
 		{% if post.status == 'published' %}
