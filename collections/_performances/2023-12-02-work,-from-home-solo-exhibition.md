@@ -5,6 +5,8 @@ date:   2023-12-02 22:23:35 +0100
 categories: blog
 ---
 
+<h2><i>Work, From Home</i> Solo Exhibition (2023)</h2>
+
 Containing the works:
 
 <a href="/works/2023-08-01-i-love-or-hate-everyday">I Love Or Hate Everyday</a>

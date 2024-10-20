@@ -5,6 +5,8 @@ date:   2023-12-02 22:23:35 +0100
 categories: blog
 ---
 
+<h2><i>i'll never look this good again</i> (2023)</h2>
+
 Work in progress page.
 
 <img src="/assets/img/illneverlookthisgoodagain/clothed1.jpeg" height="200" width="150"/>

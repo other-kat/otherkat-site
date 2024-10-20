@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Patch Mixer"
+title:  "patch mixer"
 date:   2024-01-01 22:23:35 +0100
 categories: blog
 ---
+
+<h2>patch mixer</h2>
 
 This software is a 12 channel mixing desk for routing and controlling different patches, complete with a test tone and recording device.
 

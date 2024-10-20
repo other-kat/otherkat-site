@@ -5,6 +5,8 @@ date:   2019-06-19 22:23:35 +0100
 categories: blog
 ---
 
+<h2><i>mourning for a dead moon</i> - rehearsal with the DAP Lab</h2>
+
 *Mourning for a dead moon* was multimedia dance work addressing the climate crisis, performed by [Design and Performance lab (DAP-Lab)][dap].
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I2TZJEaLtPE?si=cdgY0btn5dGWFMbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

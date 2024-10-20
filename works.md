@@ -14,7 +14,7 @@ permalink: /works/
 		{% if post.status == 'published' %}
 		{% endif %}
 		{% for post in works limit:100  %}
-<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br>
+<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
 		{% endfor %}
 
 <h2>performance list</h2>
@@ -23,7 +23,7 @@ permalink: /works/
 		{% if post.status == 'published' %}
 		{% endif %}
 		{% for post in performances limit:100  %}
-<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br>
+<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
 		{% endfor %}
 
 <h2>software</h2>
@@ -32,7 +32,7 @@ permalink: /works/
 		{% if post.status == 'published' %}
 		{% endif %}
 		{% for post in software limit:100  %}
-<a href="{{ post.url }}">{{ post.title }}</a><br>
+<a href="{{ post.url }}">{{ post.title }}</a><br><br>
 		{% endfor %}
 
 <h2>rehearsals</h2>
@@ -41,5 +41,5 @@ permalink: /works/
 		{% if post.status == 'published' %}
 		{% endif %}
 		{% for post in rehearsals limit:100  %}
-<a href="{{ post.url }}">{{ post.title }}</a><br>
+<a href="{{ post.url }}">{{ post.title }}</a><br><br>
 		{% endfor %}

@@ -5,6 +5,8 @@ date:   2021-10-23 22:23:35 +0100
 categories: blog
 ---
 
+<h2><i>shedding femme</i> at Detritus, Tension Fine Art Gallery (2021)</h2>
+
 Work in progress page.
 
 <img src="/assets/img/sheddingfemme/midperformance.jpeg" height="200" width="150"/>

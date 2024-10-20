@@ -5,6 +5,8 @@ date:   2024-07-14 22:23:35 +0100
 categories: blog
 ---
 
+<h2><i>shedding</i> at Gallery Puzić, Saarbruken (2024)</h2>
+
 *shedding* is a reworking of the piece *shedding femme* from 2021 in collaboration with artist [Agnes Cameron][agnes_cameron]. An examination of the ways in which feminine archetypes around fashion and presentation can entangle and constrain us, even lead us to a lost concept of the self. This piece was currated by [Johannes Birringer][johan] at [Gallery Puzić][galleryp] in Saarbruken, Germany.
 
 Fashion and cloth are an amplification of the persona. They hide and shape our forms to present us the way we ideally would want to be viewed. They are the perfect tools for an artist looking to explore a break from the persona and the pursuit of freedom. As both an artist and a human being - I look for routes away from constricting and limiting myself. I want to be seen beyond the deceptions of projected personalities.

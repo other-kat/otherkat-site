@@ -5,6 +5,8 @@ date:   2017-05-24 22:23:35 +0100
 categories: blog
 ---
 
+<h2><i>Breathe Easy: I</i> (2017)</h2>
+
 A exploration of body and the use of breathing as an instrument.  The first of a series of works involving breathing and body.  Intended as a live performance.
 
 <img src="/assets/scores/breatheeasy/breatheeasy1score.png" height="324" width="506"/>

@@ -5,6 +5,8 @@ date:   2019-01-05 22:23:35 +0100
 categories: blog
 ---
 
+<h2><i>matsutake</i> - rehearsal with the DAP Lab</h2>
+
 A sequence of dance scenes, in preparation of the new kimosphere installation "Transparent Eclipse" by [DAP-Lab][dap], to be premiered at ISEA 2019 in Gwangju, Korea.
 
 It explores impressions of the 2018 moon eclipse and the foraging

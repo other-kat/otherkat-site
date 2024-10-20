@@ -5,6 +5,8 @@ date:   2019-04-11 22:23:35 +0100
 categories: blog
 ---
 
+<h2><i>X-Body</i> with Zhi Xu at The Place Theatre, London (2019)</h2>
+
 "[X-Body][xbody]" is the first large-scale dance work completed for [Zhi Xu’s][zhi] practice-led PhD at Brunel University London. It explores choreographically the qualities that constitute a ‘Chinese dancer-body’, and therefore experiments with how a Chinese dancer-body inhabits/constructs digital/technological environments. X-Body focuses on codified movements, but also links up with live camera, real-time processing in Max/MSP/Jitter and Isadora, and live sound synthesis. Sound direction by [Kat Macdonald][otherkat].
 
 Choreographer: [Zhi Xu][zhi]

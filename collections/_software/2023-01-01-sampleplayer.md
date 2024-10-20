@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Sample Player"
+title:  "sample player"
 date:   2023-01-01 22:23:35 +0100
 categories: blog
 ---
+
+<h2>sample player</h2>
 
 This software is a 4 channel sample player with a built in randomiser function that randomises the direction and speed of playback. - best used with field recordings.
 

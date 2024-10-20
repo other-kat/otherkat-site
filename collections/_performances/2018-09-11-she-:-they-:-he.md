@@ -5,6 +5,8 @@ date:   2018-09-11 22:23:35 +0100
 categories: blog
 ---
 
+<h2><i>She / They / He</i> at Metafizikel, Artaud Performance Centre (2018)</h2>
+
 She / They / Him (2018) was proposed as an installation piece, taking ideas from Gendered Viewing / Radio and expanding them into a complete and longer work. The piece focused on my personal identity, with my body being an integral part of the work.
 
 For this piece, I worked alongside choreographer Zhi Xu, acting as a consultant for the movements in the piece rather than as an active participant in the performance. I collaborated with Zhi to create a choreographed set of movements that deliberately caused the acceleration of my breathing and heartbeat throughout the piece. This idea was drawn from endurance art and task-based/ritual performance.

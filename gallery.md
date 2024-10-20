@@ -25,6 +25,7 @@ a river of no one with the DAP Lab (2022)
 <img src="/assets/img/ariverofnoone/intheriver.png" height="385" width="756"/>
 <img src="/assets/img/ariverofnoone/paintingtheriver.png" height="385" width="756"/>
 <img src="/assets/img/ariverofnoone/tracingtheriver.png" height="385" width="756"/>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/690708304?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The river of no one"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 I Love Or Hate Everyday (2022-2023)
 
@@ -54,7 +55,13 @@ X-Body with Zhi Xu (2019)
 
 <img src="/assets/img/xbody/zhitwist.png" height="375" width="500"/>
 
-Shedding at Gallery Puzić (2024)
+Wave Movements (2019)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNLEU5at_k8?si=xo4vgdt3IoN4OWcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img src="/assets/img/waves/wave1.png" height="446" width="756"/>
+<img src="/assets/img/waves/wave2.png" height="446" width="756"/> 
+
+She / They / Him (2018)
 
 <p><img src="/assets/img/shetheyhim/movement1.jpeg" height="375" width="500"/>
 <img src="/assets/img/shetheyhim/screen1.jpeg" height="375" width="500"/></p>
@@ -69,6 +76,11 @@ Breathe Easy: II - Score (2017)
 
 <img src="/assets/scores/breatheeasy/breatheeasy2score2017.png" height="750" width="842"/>
 
+Insights with Olivia Golding (2017)
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/219016960?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Insights"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 Breathe Easy: I - Score (2017)
 
 <img src="/assets/scores/breatheeasy/breatheeasy1score.png" height="324" width="506"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9s_cLCeQpCA?si=3S6Dvsqj95uyYcVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

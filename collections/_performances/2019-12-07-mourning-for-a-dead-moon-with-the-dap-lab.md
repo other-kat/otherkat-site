@@ -5,6 +5,8 @@ date:   2019-12-07 22:23:35 +0100
 categories: blog
 ---
 
+<h2><i>mourning for a dead moon</i> with the DAP Lab at Artaud Performance Centre (2019)</h2>
+
 [*Mourning for a dead moon*][moon] is multimedia dance work addressing the climate crisis, performed by [Design and Performance lab (DAP-Lab)][dap], 
 
 Directed by [Johannes Birringer][johan], with 

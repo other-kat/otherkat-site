@@ -17,10 +17,10 @@ layout: home
 		{% if post.status == 'published' %}
 		{% endif %}
 		{% for post in performances limit:3  %}
-<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br>
+<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
 		{% endfor %}
-
-<a href="/performances">see more...</a>
+<br><br>
+<b><a href="/performances">see more...</a></b>
 
 <h2>works</h2>
  <div id="post">
@@ -28,10 +28,10 @@ layout: home
 		{% if post.status == 'published' %}
 		{% endif %}
 		{% for post in works limit:3  %}
-<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br>
+<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
 		{% endfor %}
-
-<a href="/works">see more...</a>
+<br><br>
+<b><a href="/works">see more...</a></b>
 
 <h2>writings</h2>
  <div id="post">
@@ -39,7 +39,7 @@ layout: home
 		{% if post.status == 'published' %}
 		{% endif %}
 		{% for post in writings limit:3  %}
-<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br>
+<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
 		{% endfor %}
-
-<a href="/writings">see more...</a>
+<br><br>
+<b><a href="/writings">see more...</a></b>
