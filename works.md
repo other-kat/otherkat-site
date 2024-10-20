@@ -34,3 +34,12 @@ permalink: /works/
 		{% for post in software limit:100  %}
 <a href="{{ post.url }}">{{ post.title }}</a><br>
 		{% endfor %}
+
+<h2>rehearsals</h2>
+ <div id="post">
+		{% assign rehearsals = site.rehearsals | sort: date | reverse %}
+		{% if post.status == 'published' %}
+		{% endif %}
+		{% for post in rehearsals limit:100  %}
+<a href="{{ post.url }}">{{ post.title }}</a><br>
+		{% endfor %}
