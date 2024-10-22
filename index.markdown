@@ -43,8 +43,3 @@ layout: home
 		{% endfor %}
 <br><br>
 <b><a href="/writings">see more...</a></b>
-
-<h2>blog</h2>
-<div id="blog"></div>
-<br><br>
-<b><a href="http://blog.otherkat.com">see more...</a></b><br>
