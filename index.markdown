@@ -23,6 +23,7 @@ layout: home
 <b><a href="/performances">see more...</a></b>
 
 <h2>works</h2>
+<a href="https://docs.google.com/spreadsheets/d/1JqpBOtxf0bm9doWVSXUzWrlF9gB2g6pVTU80cvIqGaI/edit?gid=0#gid=0"><img src="/assets/img/decs/fra.png" height="50" width="50" align="right"/>
  <div id="post">
 		{% assign works = site.works | sort: date | reverse %}
 		{% if post.status == 'published' %}
