@@ -13,6 +13,8 @@ main {
 
 /*header style*/
 header {
+  position: sticky;
+  top: 0;
   text-align: left;
   font-size: smaller;
   font-size: 2vw;
