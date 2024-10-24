@@ -55,6 +55,10 @@ nav a {
   font-size: 2vw;
 }
 
+a:hover {
+  color: #add8e6;
+}
+
 a {
   color: #add8e6;
 }

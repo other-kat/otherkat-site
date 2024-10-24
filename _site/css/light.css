@@ -8,8 +8,8 @@ main {
    Padding: 2px;
    font-size: smaller;
    font-size: 2vw;
-   color: #FFFFFF;
-   background-color: #1e1e1e;
+   color: #1e1e1e;
+   background-color: #CCCCCC;
    font-family: Helvetica;
 }
 /*header style*/
@@ -20,7 +20,7 @@ header {
    font-size: smaller;
    font-size: 2vw;
    padding: 2px;
-   color: #FFFFFF;
+   color: #1e1e1e;
    font-family: Helvetica;
 }
 /*body style*/
@@ -31,7 +31,7 @@ body {
    font-size:medium;
    font-size: 2vw;
    padding: 10px;
-   background-color: #1e1e1e;
+   background-color: #CCCCCC;
    font-family: Helvetica;
 }
 /*alert style*/
@@ -42,7 +42,7 @@ alert {
    font-size:medium;
    font-size: 2vw;
    padding: 10px;
-   background-color: #1e1e1e;
+   background-color: #CCCCCC;
    font-family: Helvetica;
 }
    /*navigation bar button style*/
@@ -53,14 +53,14 @@ nav a {
    font-size: 2vw;
 }
    a:hover {
-    color:#add8e6;
+    color:#ff0000;
 }
 a {
-   color: #add8e6;
+   color: #ff0000;
 }
 .profile h1 {
    text-align: center;
-   background-color: #f5f5dc;
+   background-color: #CCCCCC;
    color: #FFFFFF;
    font-size: 2vw;
 }
@@ -70,7 +70,7 @@ footer {
    font-size: smaller;
    font-size: 2vw;
    padding: 20px;
-   color: #FFFFFF;
+   color: #1e1e1e;
    font-family: Helvetica;
 }
 article {
@@ -80,7 +80,7 @@ article {
    Padding: 2px;
    font-size: smaller;
    font-size: 2vw;
-   color: #FFFFFF;
-   background-color: #1e1e1e;
+   color: #1e1e1e;
+   background-color: #CCCCCC;
    font-family: Helvetica;
 }
