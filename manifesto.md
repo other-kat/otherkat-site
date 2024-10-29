@@ -4,14 +4,19 @@ title:  manifesto
 permalink: /manifesto/
 ---
 
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/30080931/original_2a2ae269144e6dcaa6ff0f89e2cc2a08.jpg?1724019981?bc=0" height="512px" width="410px" ALIGN="right"/>
+<img src="/assets/img/me/closeup.jpeg" height="512px" width="410px" ALIGN="right"/>
 
-kat macdonald’s work pulls upon a complex tapestry of experience with trauma, queerness, heartache, social structures and gender, exploring what it means to exist as a life intertwined with different forms of loss. through the medium of performance, sound, visual and written art, her work challenges an audience to contemplate their own relation to the art by decoupling traditional presentational formats, allowing an audience to get a tactile sense of a work and its creation.
+kat macdonald’s work draws upon a complex tapestry of experiences with trauma, queerness, heartache, social structures, and gender, exploring what it means to exist in a life intertwined with various forms of loss. through performance, sound, visual, and written art, her work challenges audiences to contemplate their own relationship to the art by breaking traditional presentational formats, allowing them a tactile sense of the work and its creation.
 
-kat’s current work focuses on how we, as artists, both heal and hurt ourselves, with a particular focus on the ways in which we can create engaging and raw work while holding ourselves accountable for the perpetuation of self-damaging behaviours through our art. she hopes that through accountability, we can develop healthier systems of developing trauma-informed work, without limiting the content of the work, to sanitised ‘moralistic’ ideals. 
+kat’s current work focuses on exploring the politics of art, both through its creation and its interaction with audiences, using an adapted theatre of the oppressed framework. by challenging conventional dynamics between performer and audience, she aims to provoke agency and engagement, enabling the audience to fully realise and engage with a piece’s themes through a dialogical model of performance. through this approach, she hopes to create work that critiques current commercial trends of the artist-as-commodity, striving instead for revolutionary art centred on an understanding of the inevitability of [sympoiesis][symp].
 
-for the past 6 years, she has worked as the resident sound designer and composer for the Design and Performance Lab under the direction of choreographer and designer Johannes Birringer. during this period kat worked in a variety of different roles, often providing and utilising custom software (and occasionally hardware) of her own design to create adaptive and reactive soundscapes. 
+for the past six years, she has served as the resident sound designer and composer for the [design and performance lab][dap] under the direction of choreographer and designer [johannes birringer][johan]. during this period, she has developed and utilised custom software (and occasionally hardware) of her own design to create adaptive and reactive soundscapes. currently, kat leads the [london community laptop orchestra][lclo], an all-abilities, community-organised laptop orchestra, rehearsing in public spaces around london.
 
 [collaborators][collabs]
 
 [collabs]: /collaborators/
+[lclo]: https://lclo.otherkat.com/
+[johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
+[dap]: https://dap-lab.brunel.ac.uk/arch.html
+[symp]: https://en.wiktionary.org/wiki/sympoiesis
+
