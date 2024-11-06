@@ -32,7 +32,7 @@ but beyond connection, what does this look like? how do we manifest love within 
 
 if, as Ursula K Le Guin puts it in [*Telling Is Listening*][til] (extrapolating on a quote by Walter Ong); <mark>"life exists only as it is going out of existence"</mark>[⚇][til], then maybe the part of life i should be focusing on is whats existing in the current, but with a soft but clear and separate revervance (and certain acknowledgement) for what existed in the past and the ways it continues to shape me. **focusing on living in *what is*, rather than obsessed with depicting *what was*.**
 
-[my of beautiful collaborators][collabs]
+[my beautiful collaborators][collabs]
 
 [collabs]: /collaborators/
 [boal]: https://en.wikipedia.org/wiki/Augusto_Boal
