@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link id="stylesheet" rel="stylesheet" href="/css/light.css">
+	<meta charset="utf-8">
+	<title>kat</title>
+</head>
+<header>
+  	<h1>kat<a href="/about/">⚇</a>
+  <nav>
+      <a href="/">home</a>
+  	 <a href="/manifesto/">manifesto</a>
+  	 <a href="/sounds/">sounds</a>
+      <a href="/writings/">writings</a>
+      <a href="/works/">work_list</a>
+      <a href="/gallery/">gallery</a>
+      <a href="https://blog.otherkat.com/">blog</a>
+  </nav>
+</header>
+<body>
+    <main>
+      <article>
+        <p>new <a href="https://lclo.otherkat.com/">lclo</a> stickers have arrived, get them on the 12th at the British Library!</p>
+
+      </article>
+    </main>
+</body>
+<footer>
+      <p>_______________________________</p>
+      <img src="/assets/img/me/kattext.png" height="54px" width="108px" ALIGN="right"/>
+      <p><a href="/contact">contact</a></p>
+      <p><span id="datetime"></span>
+
+      <script>
+       // create a function to update the date and time
+       function updateDateTime() {
+            // create a new 'Date' object
+            const now = new Date();
+
+            //get the current date and time as a string
+            const currentDateTime = now.toLocaleString();
+
+            // update the 'textContent' property of the 'span' element with the 'id' of 'datetime'
+            document.querySelector('#datetime').textContent = currentDateTime;
+       }
+
+            //call the 'updateDateTime' function every second
+            setInterval(updateDateTime, 1000);
+      </script>
+</footer>
+</html>

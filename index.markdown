@@ -8,7 +8,7 @@ layout: home
 		{% if post.status == 'published' %}
 		{% endif %}
 		{% for post in updates limit:2  %}
-		⚇ {{ post.title }} ⚇ - {{ post.content }}
+		⚇<b> {{ post.title }}</b> ⚇ - {{ post.content }}
 		{% endfor %}
 
 <h2>recent performances</h2>
