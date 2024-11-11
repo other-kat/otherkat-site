@@ -7,7 +7,7 @@ categories: blog
 
 <h2><i>Unexpected Bodies</i> with Zhi Xu at Artaud Performance Centre (2020)</h2>
 
-[*Unexpected Bodies - Trailer*][unexpected] is multimedia dance work created by artist [Zhi Xu][zhi]
+[*Unexpected Bodies*][unexpected] is multimedia dance work created by artist [Zhi Xu][zhi]
 
 Choreography, Performance & Programming: [Zhi Xu][zhi]
 Music: [Kat Macdonald][otherkat]
