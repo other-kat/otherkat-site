@@ -14,6 +14,8 @@ permalink: /collaborators/
 
 [Johannes Birringer][johan]
 
+[Laura Bradley][laura]
+
 [Michéle Danjoux][michele]
 
 [Niamh Bennett][niamh]
@@ -34,3 +36,4 @@ permalink: /collaborators/
 [jess]: https://vimeo.com/jesscrooksfilm
 [niamh]: https://www.instagram.com/niamhdidwhat/
 [olivia]: https://vimeo.com/258986529
+[laura]: https://www.instagram.com/laura_bradley_/
