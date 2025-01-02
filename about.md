@@ -14,9 +14,12 @@ for the past six years, i've worked as the resident sound designer and composer 
 
 <a href="https://docs.google.com/spreadsheets/d/1JqpBOtxf0bm9doWVSXUzWrlF9gB2g6pVTU80cvIqGaI/edit?gid=0#gid=0">(kat)hleen macdonald - cv</a>
 
+[portfolio][portf]
+
 [kat-website]:https://otherkat.com
 [lclo]:https://lclo.otherkat.com
 [collabs]: /collaborators/
 [johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
 [dap]: https://dap-lab.brunel.ac.uk/arch.html
 [toto]: http://actingnow.co.uk/what-is-theatre-of-the-oppressed/
+[portf]: /portfolio/

@@ -7,7 +7,9 @@ categories: blog
 
 <h2><i>Work, From Home</i> Solo Exhibition (2023)</h2>
 
-Containing the works:
+A one night solo show of my work, taking place in my home in Hackney, London, UK.
+
+The show contained retrospective exhibition of <a href="/works/2023-08-01-i-love-or-hate-everyday">I Love Or Hate Everyday</a>.
 
 <a href="/works/2023-08-01-i-love-or-hate-everyday">I Love Or Hate Everyday</a>
 
