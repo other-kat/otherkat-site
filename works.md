@@ -35,7 +35,7 @@ permalink: /works/
 <a href="{{ post.url }}">{{ post.title }}</a><br><br>
 		{% endfor %}
 
-<h2>rehearsals/ workshops</h2>
+<h2>rehearsals / workshops</h2>
  <div id="post">
 		{% assign rehearsals = site.rehearsals | sort: date | reverse %}
 		{% if post.status == 'published' %}

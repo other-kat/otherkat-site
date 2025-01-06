@@ -6,9 +6,9 @@ permalink: /mares/
 
 **Mares - Residency Application**
 
-**_Entropy in Flux_**
+**_Entropies in Flux_**
 
-I care deeply about the politics of art, methodologies of art making and audience / performer dynamics. By challenging conventional dynamics between performer and audience, I aim to provoke agency and engagement, enabling the audience to fully realise and interact with a piece’s themes through a ‘dialogical’(<mark>1</mark>) model of performance. My practice ranges across sound, performance and visual art, with a strong focus on adaptive and generative soundscapes and visuals using sensors.
+I care deeply about the politics of art, methodologies of art making and audience / performer dynamics. By challenging conventional roles of audience and performer, I aim to provoke agency and engagement, enabling the audience to fully realise and interact with a piece’s themes through a ‘dialogical’(<mark>1</mark>) model of performance. My practice ranges across sound, performance and visual art, with a strong focus on adaptive and generative soundscapes and visuals using sensors.
 
 Currently, my work is exploring the theme of degradation and entropy, through sound and sculptural work, with my most recent piece, _shedding_ (2024) being a durational performance involving the slow disintegration of a 14-metre dress, by both performer and audience in collaboration. For this residency I would like to develop this concept further by creating an ‘audio/ sculptural map’ of areas of Alessandria, combining my current practice, with an archival method, to build a sonic portrait of the local ecological and social landscape.
 
