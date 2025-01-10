@@ -2,8 +2,9 @@
 
 /*main style*/
 main {
-   text-align: left;
-   margin-left: 5px;
+   text-align: center;
+   justify-content: center;
+   margin: 5px;
    word-spacing: 5px;
    Padding: 2px;
    font-size: smaller;
