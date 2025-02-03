@@ -9,6 +9,7 @@ layout: home
 		{% endif %}
 		{% for post in updates limit:2  %}
 		⚇<b> {{ post.title }}</b> ⚇ {{ post.content }}
+		<br>
 		{% endfor %}
 
 <h2>recent performances</h2>
