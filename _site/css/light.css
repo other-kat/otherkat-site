@@ -107,6 +107,9 @@ article {
   nav a {
    font-size: 4vw;
   }
+  a {
+   font-size: 4vw;
+  }
   main {
    font-size: 4vw;
   }
@@ -117,5 +120,5 @@ article {
    font-size: 4vw;
   }
   img {
-    width:50%;
+    max-width:50%;
 }
