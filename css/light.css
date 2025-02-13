@@ -97,7 +97,7 @@ article {
    font-family: Helvetica;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
   body {
     font-size: 4vw;
   }
@@ -116,3 +116,6 @@ article {
   header {
    font-size: 4vw;
   }
+  img {
+    width:50%;
+}
