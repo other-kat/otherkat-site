@@ -29,6 +29,7 @@ header {
    font-size: smaller;
    font-size: 2vw;
    padding: 2px;
+   margin: 2px;
    color: #1e1e1e;
    font-family: Helvetica;
 }
@@ -95,3 +96,23 @@ article {
    background-color: #CCCCCC;
    font-family: Helvetica;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 4vw;
+  }
+  h1 {
+   font-size: 6vw;
+  }
+  nav a {
+   font-size: 4vw;
+  }
+  main {
+   font-size: 4vw;
+  }
+  article {
+   font-size: 4vw;
+  }
+  header {
+   font-size: 4vw;
+  }
