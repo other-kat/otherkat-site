@@ -9,22 +9,14 @@
 @font-face { font-family: Work-Regular; src: url('WorkSans-Regular.otf'); } 
  @font-face { font-family: Work-Regular; font-weight: bold; src: url('WorkSans-Regular.otf');}
 
-/*main style*/
 main {
-   text-align: left;
    margin-left: 5px;
-   word-spacing: 5px;
    Padding: 2px;
-   font-size: smaller;
-   font-size: 2vw;
-   color: #1e1e1e;
-   background-color: #CCCCCC;
-   font-family: Helvetica;
 }
-/*header style*/
 header {
    position: sticky;
    top: 0;
+   word-spacing: 30px;
    text-align: left; 
    font-size: smaller;
    font-size: 2vw;
@@ -33,29 +25,11 @@ header {
    color: #1e1e1e;
    font-family: Helvetica;
 }
-/*body style*/
 body {
-   text-align: left;
-   word-spacing: 30px;
    margin-left: 5px;
-   font-size:medium;
-   font-size: 2vw;
    padding: 10px;
    background-color: #CCCCCC;
-   font-family: Helvetica;
 }
-/*alert style*/
-alert {
-   text-align: left;
-   word-spacing: 30px;
-   margin-left: 5px;
-   font-size:medium;
-   font-size: 2vw;
-   padding: 10px;
-   background-color: #CCCCCC;
-   font-family: Helvetica;
-}
-   /*navigation bar button style*/
 nav a {
    color: #FFFFFF;
    text-decoration: none;
@@ -76,7 +50,6 @@ a {
    color: #FFFFFF;
    font-size: 2vw;
 }
-/*footer style*/
 footer {
    text-align: left; 
    font-size: smaller;
@@ -96,7 +69,16 @@ article {
    background-color: #CCCCCC;
    font-family: Helvetica;
 }
-
+.dark-mode {
+   color: #FFFFFF;
+   background-color: #1e1e1e;
+}
+imageContainer {
+   position: fixed;
+   max-height: 40vh;
+   top: 100px;
+   left: 50vw;
+}
 @media only screen and (max-width: 700px) {
   body {
     font-size: 4vw;
@@ -117,7 +99,9 @@ article {
    font-size: 4vw;
   }
   header {
+   text-align: center;
    font-size: 4vw;
+   background-color: #CCCCCC;
   }
   img {
     max-width:50%;

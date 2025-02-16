@@ -4,10 +4,6 @@ title: works
 permalink: /works/
 ---
 
-<h2>academic writing</h2>
-
-<a href="/writings/2023-11-27-Your-Post-Goes-Against-Our-Community-Guidelines">Your Post Goes Against Our Community Guidelines: an I Love Or Hate Everyday (2022-2023) - Autoethnography</a>
-
 <h2>collected works</h2>
  <div id="post">
 		{% assign works = site.works | sort: date | reverse %}
@@ -43,3 +39,7 @@ permalink: /works/
 		{% for post in rehearsals limit:100  %}
 <a href="{{ post.url }}">{{ post.title }}</a><br><br>
 		{% endfor %}
+
+<h2>academic writing</h2>
+
+<a href="/writings/2023-11-27-Your-Post-Goes-Against-Our-Community-Guidelines">Your Post Goes Against Our Community Guidelines: an I Love Or Hate Everyday (2022-2023) - Autoethnography</a>
