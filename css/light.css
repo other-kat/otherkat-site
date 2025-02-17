@@ -22,13 +22,10 @@ header {
    font-size: 2vw;
    padding: 2px;
    margin: 2px;
-   color: #1e1e1e;
-   font-family: Helvetica;
 }
 body {
    margin-left: 5px;
    padding: 10px;
-   background-color: #CCCCCC;
 }
 nav a {
    color: #FFFFFF;
@@ -56,7 +53,6 @@ footer {
    font-size: 2vw;
    padding: 20px;
    color: #1e1e1e;
-   font-family: Helvetica;
 }
 article {
    text-align: left;
@@ -65,9 +61,6 @@ article {
    Padding: 2px;
    font-size: smaller;
    font-size: 2vw;
-   color: #1e1e1e;
-   background-color: #CCCCCC;
-   font-family: Helvetica;
 }
 .dark-mode {
    color: #FFFFFF;
@@ -79,6 +72,38 @@ imageContainer {
    top: 100px;
    left: 50vw;
 }
+
+:root {
+   font-family: Helvetica;
+   color: #1e1e1e;
+   background-color: #CCCCCC;
+}
+.dark-mode {
+   color: #FFFFFF;
+   background-color: #1e1e1e;
+}
+
+@media (prefers-color-scheme: dark) {
+   :root {
+   color: #FFFFFF;
+   background-color: #1e1e1e;
+   }
+   a {
+      color: #a4dd00;
+   }
+   nav a {
+   color: #FFFFFF;
+   text-decoration: none;
+   font-size: larger;
+   font-size: 2vw;
+}
+   a:hover {
+    color:#a4dd00;
+    text-shadow: 0 0 1vw white;
+    text-
+}
+}
+
 @media only screen and (max-width: 700px) {
   body {
     font-size: 4vw;
@@ -101,8 +126,8 @@ imageContainer {
   header {
    text-align: center;
    font-size: 4vw;
-   background-color: #CCCCCC;
   }
   img {
     max-width:50%;
+}
 }

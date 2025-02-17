@@ -5,8 +5,3 @@ const now = new Date();
 const currentDateTime = now.toLocaleString();
 
 console.log(currentDateTime); // output: "10/22/2024, 2:28:15 PM" (will vary depending on your time zone)
-
-function myFunction() {
-  var element = document.article;
-  element.classList.toggle("dark-mode");
-} 
