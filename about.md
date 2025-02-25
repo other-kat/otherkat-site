@@ -6,9 +6,15 @@ permalink: /about/
 
 [<img src="/assets/img/me/cuteme.jpeg" height="255px" width="192px" ALIGN="right"/>](## "hi! :), this is me!")
 
-hi! i'm [kat][kat-website], i make sound, performance and visual art. my current work focuses on exploring the politics of art, both through its creation and its interaction with audiences, using an adapted [theatre of the oppressed][toto] framework. by challenging conventional dynamics between performer and audience, i aims to provoke agency and engagement, enabling the audience to fully realise and engage with a piece’s themes through a dialogical model of performance.
+hi! i'm [kat][kat-website], i care deeply about the politics of art, methodologies of art making and audience / performer dynamics. by challenging conventional roles of audience and performer, i aim to provoke agency and engagement, enabling the audience to fully realise and interact with a piece’s themes through a ‘dialogical’ model of performance. my practice ranges across sound, performance and visual art, with a strong focus on adaptive and generative soundscapes and visuals using sensors.
 
-for the past six years, i've worked as the resident sound designer and composer for the [design and performance lab][dap] under the direction of choreographer and designer [johannes birringer][johan]. during this period, i developed and utilised custom software (and occasionally hardware) of my own design to create adaptive and reactive soundscapes. currently, i run the [london community laptop orchestra][lclo], an all-abilities, community-organised laptop orchestra, rehearsing in public spaces around london.
+i've worked as the resident sound designer and composer for the [design and performance lab][dap] under the direction of choreographer and designer [johannes birringer][johan], designing custom software and working with wearable sensors.
+
+my current practice explores themes of degradation and entropy, through sound and sculptural work, with my most recent performance piece, [shedding (2024)][shed], being a durational performance involving the slow disintegration of a 14-metre dress, by both performer and audience in collaboration.
+
+additionally, i have been exploring methods and techniques for scoring and choreography, investigating ways of communicating musical ideas in ways that allow for broader creative interpretations.
+
+i run the [london community laptop orchestra][lclo], an all-abilities, community-organised laptop orchestra, rehearsing in public spaces around london.
 
 [collaborators][collabs]
 
@@ -17,6 +23,7 @@ for the past six years, i've worked as the resident sound designer and composer 
 [portfolio][portf]
 
 [kat-website]:https://otherkat.com
+[shed]: /performances/2024-07-14-shedding-at-gallery-puzić.html
 [lclo]:https://lclo.otherkat.com
 [collabs]: /collaborators/
 [johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
