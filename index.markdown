@@ -8,7 +8,7 @@ layout: home
 		{% if post.status == 'published' %}
 		{% endif %}
 		{% for post in updates limit:3  %}
-		⚇<b> {{ post.title }}</b> ⚇ {{ post.content }}
+		⚇<b> {{ post.title }} ( {{ post.postdate }} )</b> ⚇ {{ post.content }}
 		<br>
 		{% endfor %}
 

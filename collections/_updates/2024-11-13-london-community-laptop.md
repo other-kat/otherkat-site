@@ -2,6 +2,7 @@
 layout: post
 title:  "london community laptop orchestra first rehearsal"
 date:   2024-11-13 13:23:35 +0100
+postdate: Nov 2024
 categories: blog
 ---
 

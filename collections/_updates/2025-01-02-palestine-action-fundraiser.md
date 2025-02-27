@@ -2,6 +2,7 @@
 layout: post
 title:  "palestine action fundraiser"
 date:   2025-01-02 09:23:35 +0100
+postdate: Jan 2025
 categories: blog
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "next lclo rehearsal"
 date:   2024-10-17 22:23:35 +0100
+postdate: Oct 2024
 categories: blog
 ---
 

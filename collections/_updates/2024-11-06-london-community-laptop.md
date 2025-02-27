@@ -2,6 +2,7 @@
 layout: post
 title:  "london community laptop orchestra stickers"
 date:   2024-11-06 22:23:35 +0100
+postdate: Nov 2024
 categories: blog
 ---
 
