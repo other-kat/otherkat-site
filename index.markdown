@@ -7,7 +7,7 @@ layout: home
 		{% assign updates = site.updates | sort: date | reverse %}
 		{% if post.status == 'published' %}
 		{% endif %}
-		{% for post in updates limit:2  %}
+		{% for post in updates limit:3  %}
 		⚇<b> {{ post.title }}</b> ⚇ {{ post.content }}
 		<br>
 		{% endfor %}
