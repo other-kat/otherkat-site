@@ -1,0 +1,139 @@
+@charset "utf-8";
+
+@font-face { font-family: Cotham; src: url('CothamSans.otf'); } 
+ @font-face { font-family: Cotham; font-weight: bold; src: url('CothamSans.otf');}
+
+ @font-face { font-family: Bagnard; src: url('BagnardSans.otf'); } 
+ @font-face { font-family: Bagnard; font-weight: bold; src: url('BagnardSans.otf');}
+
+@font-face { font-family: Work-Regular; src: url('WorkSans-Regular.otf'); } 
+ @font-face { font-family: Work-Regular; font-weight: bold; src: url('WorkSans-Regular.otf');}
+
+/*main style*/
+main {
+   text-align: center;
+   justify-content: center;
+   margin: 5px;
+   word-spacing: 5px;
+   Padding: 2px;
+   font-size: smaller;
+   font-size: 2vw;
+   color: #000000;
+   background-color: #FFFFFF;
+   font-family: Cotham;
+}
+h1 {
+   text-align: center;
+   justify-content: center;
+   margin: 5px;
+   word-spacing: 5px;
+   Padding: 2px;
+   font-size: smaller;
+   font-size: 5vw;
+   color: #000000;
+   background-color: #FFFFFF;
+   font-family: Cotham;
+}
+/*header style*/
+header {
+   position: sticky;
+   top: 0;
+   text-align: center; 
+   font-size: smaller;
+   font-size: 2vw;
+   padding: 2px;
+   color: #000000;
+   font-family: Cotham;
+}
+/*body style*/
+body {
+   text-align: center;
+   word-spacing: 30px;
+   margin-left: 5px;
+   font-size:medium;
+   font-size: 2vw;
+   padding: 10px;
+   background-color: #FFFFFF;
+   font-family: Cotham;
+}
+/*alert style*/
+alert {
+   text-align: center;
+   word-spacing: 30px;
+   margin-left: 5px;
+   font-size:medium;
+   font-size: 2vw;
+   padding: 10px;
+   background-color: #000000;
+   font-family: Cotham;
+}
+   /*navigation bar button style*/
+nav a {
+   color: #000000;
+   text-decoration: none;
+   font-size: larger;
+   font-size: 2vw;
+}
+   a:hover {
+    color: #000000;
+    text-shadow: 0 0 1vw black;
+    text-
+}
+a {
+   color: #000000;
+}
+.profile h1 {
+   text-align: center;
+   background-color: #f5f5dc;
+   color: #000000;
+   font-size: 2vw;
+}
+/*footer style*/
+footer {
+   text-align: left; 
+   font-size: smaller;
+   font-size: 2vw;
+   padding: 20px;
+   color: #000000;
+   font-family: Cotham;
+}
+article {
+   text-align: center;
+   margin-left: 5px;
+   word-spacing: 5px;
+   Padding: 2px;
+   font-size: smaller;
+   font-size: 2vw;
+   color: #000000;
+   background-color: #FFFFFF;
+   font-family: Cotham;
+}
+
+@media only screen and (max-width: 700px) {
+  body {
+    font-size: 4vw;
+  }
+  h1 {
+   font-size: 8vw;
+  }
+  nav a {
+   font-size: 4vw;
+  }
+  a {
+   font-size: 4vw;
+  }
+  main {
+   font-size: 4vw;
+  }
+  article {
+   font-size: 4vw;
+  }
+  header {
+   text-align: center;
+   font-size: 4vw;
+   background-color: #000000;
+  }
+   footer {
+   text-align: center;
+   font-size: 4vw;
+  }
