@@ -1,7 +1,9 @@
 ---
 layout: score
-title: /whatexistsafter/
+title: What exists after...
+postdate: 2025
 permalink: /whatexistsafter/
+status: easy
 ---
 
 <h1><i>What exists after...</i></h1>
@@ -18,7 +20,7 @@ Accessibility - <mark>Easy</mark>
 
 The piece looks to amplify the awkward endings, the abruptness with which something becomes nothing. The stumbles and applause, the click of the stop button. The decision that enough has been recorded, that its time for something new.
 
-Performers should be distributed amongst the audience to encourage participation. Spread the word.
+Performers should be distributed amongst the audience to encourage participation. <b>Spread the word.</b>
 
 If you do not have a sound ready (or in mind) you can either:
 
@@ -28,9 +30,11 @@ or
 
 <mark>Find a sound on <a href="https://freesound.org">https://freesound.org</a> - just make sure to say thank you.</mark>
 
-Your chosen recording must last longer than the played ending. Aim to capture the intension to end the recording, rather than the intension of the recording.
+Your chosen recording must last longer than the played ending. <b>Aim to capture the intension to end the recording,</b> rather than the intension of the recording.
 
 If your sound is connected to visual content - you are encourage to include the footage on screen for people to see. 
+
+<a href="/scores/">return?</a>
 
 [kat]:https://otherkat.com
 [lclo]:https://lclo.otherkat.com

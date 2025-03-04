@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link id="stylesheet" rel="stylesheet" href="/css/score.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>kat</title>
+</head>
+<body>
+    <main>
+      <article>
+        <h1>kat<a href="/manifesto/">⚇</a>
+  <nav>
+      <a href="/">home</a>
+  	 <a href="/about/">about</a>
+  	 <a href="/sounds/">sounds</a>
+  </nav>
+
+<article>
+<p>collection of my scores for ensembles.</p>
+<p>i'm happy for my work to be played, <a href="/contact/">just let me know!</a></p>
+<p>categorised by how accessible they are to play.</p>
+</article>
+
+<h1><i>easy</i></h1>
+<br />
+ <div id="post">
+		
+		
+		
+<a href="/whatexistsafter/">What exists after... - 01/01/1970</a><br /><br />
+		
+
+<h1><i>medium</i></h1>
+<br />
+<p>to be written... </p>
+<br />
+
+<h1><i>hard</i></h1>
+<br />
+<p>to be written... </p>
+<br />
+</div></h1>
+
+      </article>
+    </main>
+</body>
+<footer>
+      <p>_______________________________</p>
+      <p><a href="/contact">contact</a></p>
+      <p><span id="datetime"></span>
+
+      <script>
+       // create a function to update the date and time
+       function updateDateTime() {
+            // create a new 'Date' object
+            const now = new Date();
+
+            //get the current date and time as a string
+            const currentDateTime = now.toLocaleString();
+
+            // update the 'textContent' property of the 'span' element with the 'id' of 'datetime'
+            document.querySelector('#datetime').textContent = currentDateTime;
+       }
+
+            //call the 'updateDateTime' function every second
+            setInterval(updateDateTime, 1000);
+      </script>
+</footer>
+</html>
