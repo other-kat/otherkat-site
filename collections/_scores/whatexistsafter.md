@@ -1,7 +1,7 @@
 ---
 layout: score
 title: What exists after...
-postdate: 2025
+postdate: March 2025
 permalink: /whatexistsafter/
 status: easy
 ---

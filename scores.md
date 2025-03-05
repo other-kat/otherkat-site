@@ -24,7 +24,7 @@ permalink: /scores/
 		{% if post.status == 'easy' %}
 		{% endif %}
 		{% for post in scores limit:100  %}
-<a href="{{ post.url }}">{{ post.title }} - {{ post.postdate | date: "%d/%m/%Y" }}</a><br><br>
+<a href="{{ post.url }}">{{ post.title }} - {{ post.postdate | date: "%Y" }}</a><br><br>
 		{% endfor %}
 
 <h1><i>medium</i></h1>
