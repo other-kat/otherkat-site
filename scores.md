@@ -14,25 +14,13 @@ permalink: /scores/
 <article>
 <p>collection of my scores for ensembles.</p>
 <p>i'm happy for my work to be played, <a href="/contact/">just let me know!</a></p>
-<p>categorised by how accessible they are to play.</p>
 </article>
 
-<h1><i>easy</i></h1>
 <br>
  <div id="post">
 		{% assign scores = site.scores | sort: date | reverse %}
-		{% if post.status == 'easy' %}
-		{% endif %}
 		{% for post in scores limit:100  %}
+		{% if scores.status == 'Easy' %}
+		{% endif %}
 <a href="{{ post.url }}">{{ post.title }} - {{ post.postdate | date: "%Y" }}</a><br><br>
 		{% endfor %}
-
-<h1><i>medium</i></h1>
-<br>
-<p>to be written... </p>
-<br>
-
-<h1><i>hard</i></h1>
-<br>
-<p>to be written... </p>
-<br>

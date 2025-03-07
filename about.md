@@ -16,14 +16,17 @@ additionally, i have been exploring methods and techniques for scoring and chore
 
 i run the [london community laptop orchestra][lclo], an all-abilities, community-organised laptop orchestra, rehearsing in public spaces around london.
 
-[collaborators][collabs]
-
 <a href="https://docs.google.com/spreadsheets/d/1JqpBOtxf0bm9doWVSXUzWrlF9gB2g6pVTU80cvIqGaI/edit?gid=0#gid=0">(kat)hleen macdonald - cv</a>
 
 [portfolio][portf]
 
+[scores][scores] - in progress
+
+[collaborators][collabs]
+
 [kat-website]:https://otherkat.com
 [shed]: /performances/2024-07-14-shedding-at-gallery-puzić.html
+[scores]: /scores/
 [lclo]:https://lclo.otherkat.com
 [collabs]: /collaborators/
 [johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
