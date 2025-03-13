@@ -4,7 +4,7 @@ title: works
 permalink: /works/
 ---
 
-<h2>collected works</h2>
+<h2>standalone works</h2>
  <div id="post">
 		{% assign works = site.works | sort: date | reverse %}
 		{% if post.status == 'published' %}
@@ -13,13 +13,22 @@ permalink: /works/
 <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
 		{% endfor %}
 
-<h2>performance list</h2>
+<h2>performance's</h2>
  <div id="post">
 		{% assign performances = site.performances | sort: date | reverse %}
 		{% if post.status == 'published' %}
 		{% endif %}
 		{% for post in performances limit:100  %}
 <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
+		{% endfor %}
+
+<h2>scores</h2>
+<div id="post">
+		{% assign scores = site.scores | sort: date | reverse %}
+		{% for post in scores limit:100  %}
+		{% if scores.status == 'Easy' %}
+		{% endif %}
+<a href="{{ post.url }}">{{ post.title }} - {{ post.postdate | date: "%Y" }}</a><br><br>
 		{% endfor %}
 
 <h2>software</h2>
@@ -31,7 +40,7 @@ permalink: /works/
 <a href="{{ post.url }}">{{ post.title }}</a><br><br>
 		{% endfor %}
 
-<h2>rehearsals / workshops</h2>
+<h2>experiments / workshops</h2>
  <div id="post">
 		{% assign rehearsals = site.rehearsals | sort: date | reverse %}
 		{% if post.status == 'published' %}
@@ -40,6 +49,6 @@ permalink: /works/
 <a href="{{ post.url }}">{{ post.title }}</a><br><br>
 		{% endfor %}
 
-<h2>academic writing</h2>
+<h2>writing</h2>
 
 <a href="/writings/2023-11-27-Your-Post-Goes-Against-Our-Community-Guidelines">Your Post Goes Against Our Community Guidelines: an I Love Or Hate Everyday (2022-2023) - Autoethnography</a>

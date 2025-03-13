@@ -8,6 +8,8 @@ put some headphones on
 
 <a href="https://freesound.org/people/other_kat/">samples</a>
 
+<a href="https://other-kat.bandcamp.com/">bandcamp</a>
+
 <iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=2733794760/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/track=2618356861/transparent=true/" seamless><a href="https://porchcollapse0000.bandcamp.com/album/noise-drones-palestine-action-fundraiser">Noise&gt;Drones: Palestine Action Fundraiser by Chemical Sisters</a></iframe>
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3755397469/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/track/digital-forestry-wav">digital_forestry.wav by kat</a></iframe>
