@@ -14,13 +14,11 @@ permalink: /bio/
 
 **Her current practice explores** themes of degradation and entropy, through sound and sculptural work, looking at the act of collective unmaking as a form of liberatory vulnerability. 
 
-**She runs the [London Community Laptop Orchestra][lclo] (2024 - ),** an all-abilities, community-organised laptop orchestra, inspired by groups such as the 1969 - 1974 [Scratch Orchestra][scratch], with a focus on [guerrilla performances][guerrilla] and the laptop as a tool with the potential for collective creative engagement.
+**She runs the [London Community Laptop Orchestra][lclo] (2024 - ),** an all-abilities, community-organised laptop orchestra, inspired by groups such as the 1969 - 1974 [Scratch Orchestra][scratch], with a focus on [guerrilla performances][guerrilla], using the laptop as a tool for collective creative engagement.
 
 <a href="https://docs.google.com/spreadsheets/d/1JqpBOtxf0bm9doWVSXUzWrlF9gB2g6pVTU80cvIqGaI/edit?gid=0#gid=0">(kat)hleen macdonald - cv</a>
 
 [portfolio][portf]
-
-[scores][scores] - in progress
 
 [collaborators][collabs]
 
