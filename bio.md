@@ -14,7 +14,7 @@ permalink: /bio/
 
 **Her current practice explores** themes of degradation and entropy, through sound and sculptural work, looking at the act of collective unmaking as a form of liberatory vulnerability. 
 
-**She run's the [London Community Laptop Orchestra][lclo] (2024 - ),** an all-abilities, community-organised laptop orchestra, inspired by groups such as the 1969 - 1974 Scratch Orchestra, with a focus on graphic and text based scores.
+**She runs the [London Community Laptop Orchestra][lclo] (2024 - ),** an all-abilities, community-organised laptop orchestra, inspired by groups such as the 1969 - 1974 [Scratch Orchestra][scratch], with a focus on [guerrilla performances][guerrilla] and the laptop as a tool with the potential for collective creative engagement.
 
 <a href="https://docs.google.com/spreadsheets/d/1JqpBOtxf0bm9doWVSXUzWrlF9gB2g6pVTU80cvIqGaI/edit?gid=0#gid=0">(kat)hleen macdonald - cv</a>
 
@@ -33,3 +33,5 @@ permalink: /bio/
 [dap]: https://dap-lab.brunel.ac.uk/arch.html
 [toto]: http://actingnow.co.uk/what-is-theatre-of-the-oppressed/
 [portf]: /portfolio/
+[scratch]: https://en.wikipedia.org/wiki/Scratch_Orchestra
+[guerrilla]: https://en.wikipedia.org/wiki/Guerrilla_theatre
