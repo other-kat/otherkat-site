@@ -8,7 +8,7 @@ categories: blog
 
 i've been making max tutorials for the upcoming [lclo][lclo] rehearsal check them out on the repo [here!][repo]
 
-<img src="/assets/img/updates/tutorials.jpeg" height="101px" width="200px"/>
+<a href="/assets/img/updates/tutorials.jpeg"><img src="/assets/img/updates/tutorials.jpeg" height="101px" width="200px"/>
 
 [repo]: https://github.com/other-kat/tools-toys-workshop-patches
 [lclo]: https://lclo.otherkat.com/

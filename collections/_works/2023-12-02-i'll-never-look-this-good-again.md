@@ -7,7 +7,7 @@ categories: blog
 
 <h2><i>i'll never look this good again</i> (2023)</h2>
 
-Work in progress page.
+The piece involved the artist inviting the audience to slowly rip away at her dress, before revealing grey hand prints covering her body. The audience was then invited to slowly, one hand print at a time, wash the artist. Dubbed a "hosting" piece the work interwove aspects of domestic labour, with the artist performing the role of a host to the audience.
 
 <img src="/assets/img/illneverlookthisgoodagain/clothed1.jpeg" height="200" width="150"/>
 <img src="/assets/img/illneverlookthisgoodagain/unclothed1.jpeg" height="200" width="150"/> 

@@ -4,9 +4,25 @@ title:  manifesto
 permalink: /oldmanifesto/
 ---
 
+**On Sounds**
+
+Sound as a textural space, in which sounds weave complex tapestries of interwoven textures, touches and meanings, leading to a Baudrillardian understanding of interlinked relational points, formed within adolecents that identifies sounds as *felt* textures, rather than just structured notes.
+
+Cardew, Cage, Terry Riley, Baudrillard
+
+**On Collective Making/unMaking**
+
+Donna J. Haraway, Augusto Boal, Paulo Friere, Ursula K Le Guin, Walter Ong
+
+**On Gender, Movement and Sex**
+
+Judith Butler, Andrea Long Chu, 
+
+**On The Importance Of Art Under Hypercapitalism**
+
+Friere, Marx, Choamski
 
 **--LONG FORM BIO IN REVISION, PLEASE COME BACK LATER--**
-
 
 [<img src="/assets/img/me/closeup.jpeg" height="512px" width="410px" ALIGN="right"/>](## "photo by Niamh Bennett")
 
