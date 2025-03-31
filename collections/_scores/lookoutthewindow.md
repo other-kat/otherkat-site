@@ -1,7 +1,8 @@
 ---
 layout: score
 title: Look out the window...
-postdate: January 2025
+date:   2025-01-18 09:23:35 +0100
+postdate: Jan 2025
 permalink: /look-out-the-window/
 status: easy
 ---

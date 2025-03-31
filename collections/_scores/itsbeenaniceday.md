@@ -1,7 +1,8 @@
 ---
 layout: score
 title: It's been a nice day
-postdate: January 2025
+date:   2025-01-02 09:23:35 +0100
+postdate: Jan 2025
 permalink: /It's been a nice day/
 status: Easy
 ---

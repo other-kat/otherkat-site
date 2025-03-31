@@ -1,7 +1,8 @@
 ---
 layout: score
 title: We are sitting in a room (adaptation)
-postdate: March 2025
+date:   2025-03-13 09:23:35 +0100
+postdate: Mar 2025
 permalink: /We are sitting in a room (adaptation)/
 status: easy
 ---

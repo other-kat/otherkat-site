@@ -1,7 +1,8 @@
 ---
 layout: score
 title: Concerned with deconstructions
-postdate: March 2025
+date:   2025-03-20 09:23:35 +0100
+postdate: Mar 2025
 permalink: /Deconstructions/
 status: Medium
 ---

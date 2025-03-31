@@ -1,7 +1,8 @@
 ---
 layout: score
 title: Breathe Easy - Variation 2
-postdate: March 2017
+date:   2017-03-02 09:23:35 +0100
+postdate: Mar 2017
 permalink: /Breathe Easy - Variation 2/
 status: Easy
 ---
