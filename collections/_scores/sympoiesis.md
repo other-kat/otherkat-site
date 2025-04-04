@@ -23,7 +23,7 @@ Sympoiesis refers to the word coined by [Beth Dempster][sbd] (2000), to describe
 
 The original piece was set to text, matching the rest of the piece, however, this format is presented without the text. Additionally it is presented without precise instructions of entry times and, this is up to the performers but it is generally recommended to stagger entries by at least 1 full repetition.
 
-A full write up of Peter And The Wolf And The Hedgehog will be published on [blog.otherkat.com][blog], detailing the full piece, process and the instrumentation we settled on, however, it's recommended to explore playing the work without this reference point.
+A full write up of Peter And The Wolf And [The Hedgehog][mr] will be published on [blog.otherkat.com][blog], detailing the full piece, process and the instrumentation we settled on, however, it's recommended to explore playing the work without this reference point.
 
 <a href="/assets/scores/music/symp-clear.png"><img src="/assets/scores/music/symp-clear.png" height="1033.5" width="620"/></a>
 
@@ -36,3 +36,4 @@ A full write up of Peter And The Wolf And The Hedgehog will be published on [blo
 [sbd]:https://www.researchgate.net/publication/228566588_Sympoietic_and_autopoietic_systems_A_new_distinction_for_self-organizing_systems
 [djh]:https://en.wikipedia.org/wiki/Donna_Haraway
 [ssasaswt]: https://www.jstor.org/stable/10.5749/j.ctt1qft070
+[mr]: https://more-roar.agnescameron.info/index.html
