@@ -6,7 +6,7 @@ postdate: Feb 2025
 categories: blog
 ---
 
-i've been making max tutorials for the upcoming [lclo][lclo] rehearsal check them out on the repo [here!][repo]
+i've been making max tutorials for the upcoming [LCLO][lclo] rehearsal check them out on the repo [here!][repo]
 
 <a href="/assets/img/updates/tutorials.jpeg"><img src="/assets/img/updates/tutorials.jpeg" height="101px" width="200px"/>
 
