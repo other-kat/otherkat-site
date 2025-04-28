@@ -13,7 +13,9 @@ status: easy
 
 By [Kat Macdonald][kat]
 
-Written in response to the Supreme Court ruling and statements made by the UK government with regards to trans+ peoples access to bathrooms.
+Written in response to the UK Supreme Court ruling and statements made by the UK government with regards to trans+ peoples access to bathrooms.
+
+<mark>Open Call</mark>
 
 Stage works in the public bathrooms with a focus on institutions that refuse to make statements or make their bathrooms accessible to transgender people.
 
@@ -35,11 +37,21 @@ Hold an exhibition in a bathrooms.
 
 Gather people within a bathroom.
 
-<mark>Reminders</mark>
+<mark>Why?</mark>
 
-Make sure that distruptive actions in public bathrooms, don't affect access to those who need it. 
+I believe art has the potentital to reject two dimensional concerns of 'representing' society but can, in the write circumstances, enact social change through its application. The role of political art is vital to any social movement, specifically those opposing systems of oppression.
+
+It's through this that I hope these works encourage an engagement with public space (particularly those of public restrooms), to encourage people to challenge regulations that choose to prohibit who is allowed in space and who isn't. 
 
 It's key to these acts that the institution and the state should be the targets. Not the people, who should be encourage to be co-conspirator, participants and allies in our actions.
+
+<mark>Should We Work With Institutions?</mark>
+
+(Regards just as it applies to this work, rather than a broader consideration)
+
+I am inclinded to say yes but <i>only</i> within specific terms. The work should not absolve the institution. Instead a dynamic should exist that the artist works as an educator for the institution on the importance of accessibility within their public spaces. 
+
+The insitution must not extract finanical profits from the work. Profit is not an educator but an excuse for engagements with political behavour that creates a threadbare relationship to the ethical and the profitable, that forever favours the profitable. Our work must not (to borrow from artist <a href="https://taniabruguera.com/political-art-statement/">Tania Bruguera</a>), become a "quote" but rather it must represent a "political gesture".
 
 I encourage reaching out to institutions prior to an action, asking them to make a statement on the accessibility of their bathrooms. See a pre-written example <a href="/bathroomsletter/">here</a>.
 
