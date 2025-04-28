@@ -51,7 +51,9 @@ It's key to these acts that the institution and the state should be the targets.
 
 I am inclinded to say yes but <i>only</i> within specific terms. The work should not absolve the institution. Instead a dynamic should exist that the artist works as an educator for the institution on the importance of accessibility within their public spaces. 
 
-The insitution must not extract finanical profits from the work. Profit is not an educator but an excuse for engagements with political behavour that creates a threadbare relationship to the ethical and the profitable, that forever favours the profitable. Our work must not (to borrow from artist <a href="https://taniabruguera.com/political-art-statement/">Tania Bruguera</a>), become a "quote" but rather it must represent a "political gesture".
+The institution must not extract finanical profits from the work. Profit is not an educator but an excuse for engagements with political behavour that creates a threadbare relationship to the ethical and the profitable, that forever favours the profitable. Our work must not (to borrow from artist <a href="https://taniabruguera.com/political-art-statement/">Tania Bruguera</a>), become a "quote" but rather it must represent a "political gesture".
+
+Institutions should not be directly antonistic towards the goal of the study (ie. must have spaces that are inaccessible to trans+ people).
 
 I encourage reaching out to institutions prior to an action, asking them to make a statement on the accessibility of their bathrooms. See a pre-written example <a href="/bathroomsletter/">here</a>.
 
