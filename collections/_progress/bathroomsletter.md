@@ -7,7 +7,7 @@ permalink: /bathroomsletter/
 status: easy
 ---
 
-<h1><i>letter</i></h1>
+<h1><i>Letter</i></h1>
 
 To Whom It May Concern, 
 

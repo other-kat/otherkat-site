@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link id="stylesheet" rel="stylesheet" href="/css/light.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>kat</title>
+</head>
+<header>
+  <h1>kat<a href="/manifesto/">⚇</a>
+  <nav>
+      <a href="/">home</a>
+  	 <a href="/bio/">bio</a>
+  	 <a href="/sounds/">sounds</a>
+      <a href="/works/">work_list</a>
+      <a href="/gallery/">gallery</a>
+      <a href="https://blog.otherkat.com/">blog</a>
+  </nav>
+</header>
+<body>
+    <main>
+      <article>
+        <p>Stage works in the public bathrooms in response to the recent anti-trans UK Supreme Court <a href="https://www.bbc.co.uk/news/articles/cn7x66jvd34o">ruling</a>, statements made by the <a href="https://www.bbc.co.uk/news/articles/crldey0z00ro">UK Government</a> and the <a href="https://www.equalityhumanrights.com/media-centre/interim-update-practical-implications-uk-supreme-court-judgment">EHRC guidance</a>.</p>
+
+<p>See details <a href="/bathrooms/">here</a>.</p>
+
+<p><a href="/bathrooms/"><img src="/assets/img/updates/bathrooms.png" height="200" width="200" /></a></p>
+
+
+      </article>
+    </main>
+</body>
+<footer>
+      <p>_______________________________</p>
+      <img src="/assets/img/me/kattext.png" height="54px" width="108px" ALIGN="right"/>
+      <p><a href="/contact">contact</a></p>
+      <p><span id="datetime"></span>
+
+      <script>
+       // create a function to update the date and time
+       function updateDateTime() {
+            // create a new 'Date' object
+            const now = new Date();
+
+            //get the current date and time as a string
+            const currentDateTime = now.toLocaleString();
+
+            // update the 'textContent' property of the 'span' element with the 'id' of 'datetime'
+            document.querySelector('#datetime').textContent = currentDateTime;
+       }
+
+            //call the 'updateDateTime' function every second
+            setInterval(updateDateTime, 1000);
+      </script>
+</footer>
+</html>

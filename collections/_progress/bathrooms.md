@@ -13,7 +13,7 @@ status: easy
 
 By [Kat Macdonald][kat]
 
-Written in response to the UK Supreme Court ruling and statements made by the UK government with regards to trans+ peoples access to bathrooms.
+Written in response to the UK Supreme Court ruling and statements made by the UK government with regards to trans+ people's access to bathrooms.
 
 <mark>Open Call</mark>
 
@@ -23,7 +23,7 @@ These works can take the form of <u>photography</u>, <u>performance art</u>, <u>
 
 Anyone can partake in this study, with an encouragement for cis participants to focus on riskier disruptive actions, centering the institution as the core audience.
 
-Each work (post evaluation (carried out by an open committee of trans+ artists) that it meets criteria) will be catalogued and archived in the bathroom study archive.
+Each work will be catalogued and archived in a <i>bathroom study archive</i>. To get involved in the archive, reach out via <a href="/contact/">email</a>.
 
 <mark>Prompts</mark>
 
@@ -39,21 +39,21 @@ Gather people within a bathroom.
 
 <mark>Why?</mark>
 
-I believe art has the potentital to reject two dimensional concerns of 'representing' society but can, in the write circumstances, enact social change through its application. The role of political art is vital to any social movement, specifically those opposing systems of oppression.
+I believe art has the potential to reject two dimensional concerns of 'representing' society but can, in the right circumstances, enact social change through its application. The role of political art is vital to any social movement, specifically those opposing systems of oppression.
 
 It's through this that I hope these works encourage an engagement with public space (particularly those of public restrooms), to encourage people to challenge regulations that choose to prohibit who is allowed in space and who isn't. 
 
-It's key to these acts that the institution and the state should be the targets. Not the people, who should be encourage to be co-conspirator, participants and allies in our actions.
+It's key to these acts that the institution and the state should be the targets. Not the people, who should be encouraged to be co-conspirator, participants and allies in our actions.
 
 <mark>Should We Work With Institutions?</mark>
 
-(Regards just as it applies to this work, rather than a broader consideration)
+<a href="/bürger/">(Regarding only as it applies to this work, rather than a broader consideration)</a>
 
-I am inclinded to say yes but <i>only</i> within specific terms. The work should not absolve the institution. Instead a dynamic should exist that the artist works as an educator for the institution on the importance of accessibility within their public spaces. 
+I am inclined to say yes but only within specific terms. The work should not absolve the institution. Instead a dynamic should exist that the artist works as an educator for the institution on the importance of accessibility within their public spaces. 
 
-The institution must not extract finanical profits from the work. Profit is not an educator but an excuse for engagements with political behavour that creates a threadbare relationship to the ethical and the profitable, that forever favours the profitable. Our work must not (to borrow from artist <a href="https://taniabruguera.com/political-art-statement/">Tania Bruguera</a>), become a "quote" but rather it must represent a "political gesture".
+The institution must not extract financial profits from the work. Profit is not an educator but an excuse for engagements with political behavior that creates a threadbare relationship to the ethical and the profitable, that forever favours the profitable. Our work must not (to borrow from artist <a href="https://taniabruguera.com/political-art-statement/">Tania Bruguera</a>), become a "quote" but rather it must represent a "political gesture".
 
-Institutions should not be directly antonistic towards the goal of the study (ie. must have spaces that are inaccessible to trans+ people).
+Institutions that are directly antagonistic towards the goal of the study (ie. have spaces which are tranexculsionary), should not be worked with and instead works should wrestle with this within the piece.
 
 I encourage reaching out to institutions prior to an action, asking them to make a statement on the accessibility of their bathrooms. See a pre-written example <a href="/bathroomsletter/">here</a>.
 
