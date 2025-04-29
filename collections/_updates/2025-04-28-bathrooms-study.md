@@ -6,7 +6,7 @@ postdate: Apr 2025
 categories: blog
 ---
 
-Stage works in the public bathrooms in response to the recent anti-trans UK Supreme Court [ruling][scrule], statements made by the [UK Government][govt] and the [EHRC guidance][ehrc].
+Stage works in (and about) public bathrooms in response to the recent anti-trans UK Supreme Court [ruling][scrule], statements made by the [UK Government][govt] and the [EHRC guidance][ehrc].
 
 See details [here][bathroomslink].
 

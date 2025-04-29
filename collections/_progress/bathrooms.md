@@ -17,7 +17,7 @@ Written in response to the UK Supreme Court ruling and statements made by the UK
 
 <mark>Open Call</mark>
 
-Stage works in the public bathrooms with a focus on institutions that refuse to make statements or make their bathrooms accessible to transgender people.
+Stage works in (and about) public bathrooms with a focus on institutions that refuse to make statements or make their bathrooms accessible to transgender people.
 
 These works can take the form of <u>photography</u>, <u>performance art</u>, <u>concerts</u>, <u>digital art</u>, <u>web art</u>, <u>exhibitions</u>, <u>posters</u>, <u>literary works</u> and <u>fine art</u>. Within these works there must be a meaningful engagement with the space, either politically, architecturally or conceptually. I am less interested in works that don't present a conflict with these spaces. 
 
