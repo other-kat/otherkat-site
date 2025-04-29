@@ -39,9 +39,9 @@ Gather people within a bathroom.
 
 <mark>Why?</mark>
 
-I believe art has the potential to reject two dimensional concerns of 'representing' society but can, in the right circumstances, enact social change through its application. The role of political art is vital to any social movement, specifically those opposing systems of oppression.
+I believe art has the potential to reject two dimensional concerns of 'representing' society and can, in the right circumstances, enact social change through its application. The role of political art is vital to any social movement, specifically those opposing systems of oppression.
 
-It's through this that I hope these works encourage an engagement with public space (particularly those of public restrooms), to encourage people to challenge regulations that choose to prohibit who is allowed in space and who isn't. 
+It's through this that I hope these works encourage an engagement with public space (particularly those of public restrooms), to encourage people to challenge regulations that choose to prohibit who is allowed in a space and who isn't. 
 
 It's key to these acts that the institution and the state should be the targets. Not the people, who should be encouraged to be co-conspirators, participants and allies in our actions.
 
