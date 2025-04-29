@@ -43,7 +43,7 @@ I believe art has the potential to reject two dimensional concerns of 'represent
 
 It's through this that I hope these works encourage an engagement with public space (particularly those of public restrooms), to encourage people to challenge regulations that choose to prohibit who is allowed in space and who isn't. 
 
-It's key to these acts that the institution and the state should be the targets. Not the people, who should be encouraged to be co-conspirator, participants and allies in our actions.
+It's key to these acts that the institution and the state should be the targets. Not the people, who should be encouraged to be co-conspirators, participants and allies in our actions.
 
 <mark>Should We Work With Institutions?</mark>
 
