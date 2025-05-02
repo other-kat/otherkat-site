@@ -33,7 +33,7 @@ Turn a bathroom into an installation.
 
 Write speculative fiction about bathrooms.
 
-Hold an exhibition in a bathrooms.
+Hold an exhibition in a bathroom.
 
 Gather people within a bathroom.
 
