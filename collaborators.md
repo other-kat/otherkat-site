@@ -6,6 +6,8 @@ permalink: /collaborators/
 
 [Agnes Cameron][agnes_cameron] 
 
+[Benji Jeffrey][benji]
+
 [DAP Lab][dap]
 
 [Inflationary Assets][inflationary]
@@ -22,6 +24,8 @@ permalink: /collaborators/
 
 [Olivia Golding][olivia]
 
+[The Peckham Chamber Orchestra][pco]
+
 [Telepresence Stage][telepresencestage]
 
 [Zhi Xu][zhi]
@@ -37,3 +41,5 @@ permalink: /collaborators/
 [niamh]: https://www.instagram.com/niamhdidwhat/
 [olivia]: https://vimeo.com/258986529
 [laura]: https://www.instagram.com/laura_bradley_/
+[benji]: https://www.benjijeffrey.com/
+[pco]: https://peckhamchamberorchestra.co.uk/
