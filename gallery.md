@@ -4,9 +4,9 @@ title: gallery
 permalink: /gallery/
 ---
 
-<h2>drowning[possibly] - video test (2025)</h2>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UFqxAZg6pA4?si=G7SQYbi4w3mmsnGn&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>Live @ <a href="https://www.instagram.com/saom_ldn/">SAOM</a> 20 (2025) - <a href="/updates/2025-02-27-saom---live.md">◎</a></h2>
+<a href="/assets/img/live/saom-live.png"><img src="/assets/img/live/saom-live.png" height="336" width="270"/></a>
+<a href="/assets/img/live/saom-live2.png"><img src="/assets/img/live/saom-live2.png" height="336" width="270"/></a>
 
 <h2>Shedding at Gallery Puzić (2024) - <a href="/performances/2024-07-14-shedding-at-gallery-puzić.html">◎</a></h2>
 

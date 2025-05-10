@@ -54,6 +54,28 @@ footer {
    padding: 20px;
    color: #1e1e1e;
 }
+.accordion {
+  cursor: pointer;
+   color: #FFFFFF;
+   text-align: left;
+   font-size: 2vw;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  background-color: rgba(255, 255, 255, 0);
+}
+.active, .accordion:hover {
+  background-color: #FFFFFF;
+  color:#000000;
+}
+.panel {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
 article {
    text-align: left;
    margin-left: 5px;
@@ -116,6 +138,9 @@ imageContainer {
   }
   a {
    font-size: 4vw;
+  }
+  .accordion {
+   font-size: 6vw;
   }
   main {
    font-size: 4vw;

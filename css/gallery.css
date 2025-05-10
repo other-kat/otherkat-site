@@ -1,5 +1,14 @@
 @charset "utf-8";
 
+@font-face { font-family: Cotham; src: url('CothamSans.otf'); } 
+ @font-face { font-family: Cotham; font-weight: bold; src: url('CothamSans.otf');}
+
+ @font-face { font-family: Bagnard; src: url('BagnardSans.otf'); } 
+ @font-face { font-family: Bagnard; font-weight: bold; src: url('BagnardSans.otf');}
+
+@font-face { font-family: Work-Regular; src: url('WorkSans-Regular.otf'); } 
+ @font-face { font-family: Work-Regular; font-weight: bold; src: url('WorkSans-Regular.otf');}
+
 /*main style*/
 main {
    text-align: center;
@@ -9,9 +18,6 @@ main {
    Padding: 2px;
    font-size: smaller;
    font-size: 2vw;
-   color: #FFFFFF;
-   background-color: #000000;
-   font-family: Helvetica;
 }
 /*header style*/
 header {
@@ -21,8 +27,6 @@ header {
    font-size: smaller;
    font-size: 2vw;
    padding: 2px;
-   color: #FFFFFF;
-   font-family: Helvetica;
 }
 /*body style*/
 body {
@@ -32,8 +36,6 @@ body {
    font-size:medium;
    font-size: 2vw;
    padding: 10px;
-   background-color: #000000;
-   font-family: Helvetica;
 }
 /*alert style*/
 alert {
@@ -43,28 +45,24 @@ alert {
    font-size:medium;
    font-size: 2vw;
    padding: 10px;
-   background-color: #000000;
-   font-family: Helvetica;
 }
    /*navigation bar button style*/
 nav a {
-   color: #FFFFFF;
+   color: #000000;
    text-decoration: none;
    font-size: larger;
    font-size: 2vw;
 }
    a:hover {
-    color:#000000;
-    text-shadow: 0 0 1vw white;
+    color:#FFFFFF;
+    text-shadow: 0 0 1.5vw black;
     text-
 }
 a {
-   color: #FFFFFF;
+   color: #000000;
 }
 .profile h1 {
    text-align: center;
-   background-color: #f5f5dc;
-   color: #FFFFFF;
    font-size: 2vw;
 }
 /*footer style*/
@@ -73,8 +71,6 @@ footer {
    font-size: smaller;
    font-size: 2vw;
    padding: 20px;
-   color: #FFFFFF;
-   font-family: Helvetica;
 }
 article {
    text-align: left;
@@ -83,9 +79,43 @@ article {
    Padding: 2px;
    font-size: smaller;
    font-size: 2vw;
+}
+
+:root {
+   font-family: Helvetica;
+   color: #000000;
+   background-color: #FFFFFF;
+}
+
+@media (prefers-color-scheme: dark) {
+   :root {
    color: #FFFFFF;
    background-color: #000000;
-   font-family: Helvetica;
+   }
+   .accordion {
+  color:#FFFFFF;
+}
+   a {
+      color: #FFFFFF;
+   }
+   nav a {
+   color: #FFFFFF;
+   text-decoration: none;
+   font-size: larger;
+   font-size: 2vw;
+}
+.active, .accordion:hover {
+  background-color: #a4dd00;
+  color:#1e1e1e;
+}
+   a:hover {
+    color:#000000;
+    text-shadow: 0 0 1.5vw white;
+    text-
+}
+footer {
+   color: #FFFFFF;
+}
 }
 
 @media only screen and (max-width: 700px) {
@@ -110,5 +140,4 @@ article {
   header {
    text-align: center;
    font-size: 4vw;
-   background-color: #000000;
   }
