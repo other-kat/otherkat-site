@@ -69,15 +69,30 @@ permalink: /works/
 </div>
 </section>
 
-<section id="standalone-works" class="section">
-    <button class="accordion"><h2>standalone works ☈</h2></button>
+<section id="installations" class="section">
+    <button class="accordion"><h2>installations ☈</h2></button>
 <div class="panel">
 	<br>
  <div id="post">
-		{% assign works = site.works | sort: date | reverse %}
+		{% assign installation = site.installation | sort: date | reverse %}
 		{% if post.status == 'published' %}
 		{% endif %}
-		{% for post in works limit:100  %}
+		{% for post in installation limit:100  %}
+<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
+		{% endfor %}
+</div>
+</div>
+</section>
+
+<section id="video art" class="section">
+    <button class="accordion"><h2>video art ☈</h2></button>
+<div class="panel">
+	<br>
+ <div id="post">
+		{% assign video = site.video | sort: date | reverse %}
+		{% if post.status == 'published' %}
+		{% endif %}
+		{% for post in video limit:100  %}
 <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
 		{% endfor %}
 </div>
@@ -99,21 +114,6 @@ permalink: /works/
 </div>
 </section>
 
-<section id="software" class="section">
-    <button class="accordion"><h2>software ☈</h2></button>
-<div class="panel">
-	<br>
- <div id="post">
-		{% assign software = site.software | sort: date | reverse %}
-		{% if post.status == 'published' %}
-		{% endif %}
-		{% for post in software limit:100  %}
-<a href="{{ post.url }}">{{ post.title }}</a><br><br>
-		{% endfor %}
-</div>
-</div>
-</section>
-
 <section id="experiments" class="section">
     <button class="accordion"><h2>experiments / workshops ☈</h2></button>
 <div class="panel">
@@ -123,6 +123,21 @@ permalink: /works/
 		{% if post.status == 'published' %}
 		{% endif %}
 		{% for post in rehearsals limit:100  %}
+<a href="{{ post.url }}">{{ post.title }}</a><br><br>
+		{% endfor %}
+</div>
+</div>
+</section>
+
+<section id="software" class="section">
+    <button class="accordion"><h2>software ☈</h2></button>
+<div class="panel">
+	<br>
+ <div id="post">
+		{% assign software = site.software | sort: date | reverse %}
+		{% if post.status == 'published' %}
+		{% endif %}
+		{% for post in software limit:100  %}
 <a href="{{ post.url }}">{{ post.title }}</a><br><br>
 		{% endfor %}
 </div>

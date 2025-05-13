@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link id="stylesheet" rel="stylesheet" href="/css/plainwhite.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>kat</title>
+</head>
+<header>
+  <h1>kat<a href="/manifesto/">⚇</a>
+  <nav>
+    <a href="/">home</a>
+  	 <a href="/bio/">bio</a>
+     <a href="/upcoming/">upcoming</a>
+      <a href="/works/">work_list</a>
+      <a href="/gallery/">gallery</a>
+      <a href="https://blog.otherkat.com/">blog</a>
+  </nav>
+</header>
+<body>
+    <main>
+      <article>
+        <h2><i>Breathe Easy: I</i> (2017)</h2>
+
+<p>A exploration of body and the use of breathing as an instrument.  The first of a series of works involving breathing and body.  Intended as a live performance.</p>
+
+<p><img src="/assets/scores/breatheeasy/breatheeasy1score.png" height="324" width="506" /></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9s_cLCeQpCA?si=3S6Dvsqj95uyYcVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<p><a href="https://www.youtube.com/watch?v=9s_cLCeQpCA&amp;ab_channel=kat">link to recording of first performance</a></p>
+
+      </article>
+    </main>
+</body>
+<footer>
+      <p>_______________________________</p>
+      <img src="/assets/img/me/kattext.png" height="54px" width="108px" ALIGN="right"/>
+      <p><a href="/contact">contact</a></p>
+      <p><span id="datetime"></span>
+
+      <script>
+       // create a function to update the date and time
+       function updateDateTime() {
+            // create a new 'Date' object
+            const now = new Date();
+
+            //get the current date and time as a string
+            const currentDateTime = now.toLocaleString();
+
+            // update the 'textContent' property of the 'span' element with the 'id' of 'datetime'
+            document.querySelector('#datetime').textContent = currentDateTime;
+       }
+
+            //call the 'updateDateTime' function every second
+            setInterval(updateDateTime, 1000);
+      </script>
+</footer>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link id="stylesheet" rel="stylesheet" href="/css/plainwhite.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>kat</title>
+</head>
+<header>
+  <h1>kat<a href="/manifesto/">⚇</a>
+  <nav>
+    <a href="/">home</a>
+  	 <a href="/bio/">bio</a>
+     <a href="/upcoming/">upcoming</a>
+      <a href="/works/">work_list</a>
+      <a href="/gallery/">gallery</a>
+      <a href="https://blog.otherkat.com/">blog</a>
+  </nav>
+</header>
+<body>
+    <main>
+      <article>
+        <h2><i>shedding femme</i> at Detritus, Tension Fine Art Gallery (2021)</h2>
+
+<p>Cutting away pieces of a patchwork connecting old clothes, <i>shedding femme</i> introspectively invited us to consider the selves we are constructed from, and the process of snipping our way free.</p>
+
+<p>The piece took the form of two segments. The first involved the artists performing in solitude, slowly cutting away the fabric. Later in the evening the piece was revisited, allowing the audience to take part in aiding the performer to cut away the patchwork dress.</p>
+
+<p>Throughout the performance a microphone was hung from the ceiling, taking the sounds from the audience and the cuts being made and grandulating the sounds through a custom software called MagSpect built by myself.</p>
+
+<p><img src="/assets/img/sheddingfemme/midperformance.jpeg" height="200" width="150" />
+<img src="/assets/img/sheddingfemme/endofpart1.jpeg" height="200" width="150" /> 
+<img src="/assets/img/sheddingfemme/end.jpeg" height="200" width="150" />
+<img src="/assets/img/sheddingfemme/castoffs.jpeg" height="200" width="150" /></p>
+
+      </article>
+    </main>
+</body>
+<footer>
+      <p>_______________________________</p>
+      <img src="/assets/img/me/kattext.png" height="54px" width="108px" ALIGN="right"/>
+      <p><a href="/contact">contact</a></p>
+      <p><span id="datetime"></span>
+
+      <script>
+       // create a function to update the date and time
+       function updateDateTime() {
+            // create a new 'Date' object
+            const now = new Date();
+
+            //get the current date and time as a string
+            const currentDateTime = now.toLocaleString();
+
+            // update the 'textContent' property of the 'span' element with the 'id' of 'datetime'
+            document.querySelector('#datetime').textContent = currentDateTime;
+       }
+
+            //call the 'updateDateTime' function every second
+            setInterval(updateDateTime, 1000);
+      </script>
+</footer>
+</html>

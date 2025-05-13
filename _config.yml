@@ -33,7 +33,9 @@ collections_dir: collections
 collections:
   performances:
     output: true
-  works:
+  video:
+    output: true
+  installation:
     output: true
   writings:
     output: true
