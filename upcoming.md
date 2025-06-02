@@ -21,7 +21,7 @@ permalink: /upcoming/
 <br>
 <h2><a href="https://peckhamchamberorchestra.co.uk/">⚇ PECKHAM CHAMBER ORCHESTRA SUMMER CONCERT ⚇</a></h2>
 <p><b>Location: Copeland Park, 133 Copeland Rd, London SE15 3SN</b></p>
-<p><b>Date: TBC</b></p>
+<p><b>Date: 9th of July 2025</b></p>
 <p>I'm joining the <a href="https://peckhamchamberorchestra.co.uk/">Peckham Chamber Orchestra</a> for another term, both conducting and working with the artist <a href="https://www.benjijeffrey.com/">Benji Jeffrey</a> on something exciting. More info soon!</p>
 <br>
 <br>

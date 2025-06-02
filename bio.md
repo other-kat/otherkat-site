@@ -16,6 +16,8 @@ permalink: /bio/
 
 **She runs the [London Community Laptop Orchestra][lclo] (2024 - ),** an all-abilities, community-organised laptop orchestra, inspired by groups such as the 1969 - 1974 [Scratch Orchestra][scratch], with a focus on [guerrilla performances][guerrilla], using the laptop as a tool for collective creative engagement.
 
+**She has worked as** an artist, a technician, a chef, a sales assistant, a social media manager, a bartender, an art handler, a communications manager, in IT, in conveince stores, in cafes, in galleries, in nightclubs, in advertising, in offices, out of offices, in the field, in the studio, in the garden and internationally.
+
 <a href="https://docs.google.com/spreadsheets/d/1JqpBOtxf0bm9doWVSXUzWrlF9gB2g6pVTU80cvIqGaI/edit?gid=0#gid=0">(kat)hleen macdonald - cv</a>
 
 [portfolio][portf]
