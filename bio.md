@@ -10,7 +10,7 @@ permalink: /bio/
 
 **Having received her MA in Experimental Music** from Brunel University in 2018, she has gone on to make work both within collectives and independently, having worked as the resident sound and sensor artist for the [Design And Performance Lab][dap] between 2017 - 2022 under the direction of choreographer and designer [Johannes Birringer][johan] designing custom sound and visual software and working with wearable sensors.
 
-**Making between disciplines,** Kat works with sound, digital visuals, the web, scuptural work, choreography, scoring and performance, in addition to site-specific installations in both the UK and Europe. **Her work has been shown** at festivals such as DRNA, Intimidades Públicas, ICNOVA and more.
+**Making between disciplines,** Kat works with sound, digital visuals, the web, sculptural work, choreography, scoring and performance, in addition to site-specific installations in both the UK and Europe. **Her work has been shown** at festivals such as DRNA, Intimidades Públicas, ICNOVA and more.
 
 **Her current practice explores** our engagements with space, both public and private, looking at the ways in which privatisation has affected our capacity for self-expression and protest. 
 
