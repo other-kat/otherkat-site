@@ -4,7 +4,7 @@ title: bio
 permalink: /bio/
 ---
 
-[<img src="/assets/img/me/closeup.jpeg" height="512px" width="410px" ALIGN="right"/>](## "photo by Niamh Bennett")
+[<img src="/assets/img/me/closeup.jpeg" height="auto" width="50%" ALIGN="right"/>](## "photo by Niamh Bennett")
 
 **Kat Macdonald's** work focuses on the sympoeitic relations nested within both natural and technological systems, looking at the formation of agency within engagement with art, to create personal and intimate narratives.
 
@@ -17,6 +17,8 @@ permalink: /bio/
 **She runs the [London Community Laptop Orchestra][lclo] (2024 - ),** an all-abilities, community-organised laptop orchestra, inspired by groups such as the 1969 - 1974 [Scratch Orchestra][scratch], with a focus on [guerrilla performances][guerrilla], using the laptop as a tool for collective creative engagement.
 
 **She has worked as** an artist, a technician, a chef, a sales assistant, a social media manager, a bartender, an art handler, a communications manager, in IT, in convenience stores, in cafes, in galleries, in nightclubs, in advertising, in offices, out of offices, in the field, in the studio, in the garden and internationally.
+
+**Previously know** or made work under the following names: Dee Kathleen Egan, A-Kin, <s>Drew Egan</s> and <s>Andrew Egan</s>.
 
 <a href="https://docs.google.com/spreadsheets/d/1JqpBOtxf0bm9doWVSXUzWrlF9gB2g6pVTU80cvIqGaI/edit?gid=0#gid=0">(kat)hleen macdonald - cv</a>
 
