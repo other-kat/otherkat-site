@@ -1,12 +1,47 @@
 ---
-layout: page
+layout: score
 title:  portfolio
 permalink: /portfolio/
 ---
 
 <h2><mark>portfolio of notable works</mark></h2>
 
-<h2><i><a href="https://otherkat.com/performances/2024-07-14-shedding-at-gallery-puzi%C4%87.html">shedding</a></i> at Gallery Puzić, Saarbruken (2024)</h2>
+<h2><i><a href="https://otherkat.com/installation/2024-07-14-shedding-at-gallery-puzi%C4%87.html">Sympoiesis</a></i> with the <a href="https://peckhamchamberorchestra.co.uk/about">Peckham Chamber Orchestra</a> (2025)</h2>
+
+Originally conceived as a new ending to *Peter And The Wolf And The Hedgehog*, an adaptation of Sergei Prokofiev's Peter And The Wolf by myself and [Agnes Cameron][agnes].
+
+This work reimagines the ending to centre on Peter's growth from a self orientated view of the world to an understanding of his placement within an ecosystem. 
+
+Below is a recording of one of the rehearsals.
+
+<audio controls>
+  <source src="/assets/scores/music/ptwthrehearsalending.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+
+<a href="/assets/scores/music/symp-clear.png"><img src="/assets/scores/music/symp-clear.png" height="1033.5" width="620"/></a>
+
+[kat]:https://otherkat.com
+[blog]:https://blog.otherkat.com
+[pco]:https://peckhamchamberorchestra.co.uk/about
+[agnes]:https://agnescameron.info/
+[sbd]:https://www.researchgate.net/publication/228566588_Sympoietic_and_autopoietic_systems_A_new_distinction_for_self-organizing_systems
+[djh]:https://en.wikipedia.org/wiki/Donna_Haraway
+[ssasaswt]: https://www.jstor.org/stable/10.5749/j.ctt1qft070
+[mr]: https://more-roar.agnescameron.info/index.html
+
+<h2><a href="https://www.instagram.com/p/DCUsczEKMWK/">Interventons</a> and <a href="https://www.instagram.com/p/DJ_iptHKc7h/?img_index=1">workshops</a> with the <a href="https://lclo.otherkat.com/">London Community Laptop Orchestra</a> (2024 - )</h2>
+
+Since beginning in 2024, I’ve been running intervention performances, rehearsals and workshops as the London Community Laptop Orchestra. Including a performance at the British Library and our Ringtone Workshop.
+
+<p><img src="/assets/img/updates/ringtonework.jpeg" height="384" width="auto"/></p>
+
+[johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
+[galleryp]: https://gallery-puzic.com/en/
+[inflationary]: https://inflationaryassets.com/
+[agnes_cameron]: https://agnescameron.info/
+
+<h2><i><a href="https://otherkat.com/installation/2024-07-14-shedding-at-gallery-puzi%C4%87.html">shedding</a></i> at Gallery Puzić, Saarbruken (2024)</h2>
 
 *shedding* is a reworking of the piece *shedding femme* from 2021 in collaboration with artist [Agnes Cameron][agnes_cameron]. An examination of the ways in which feminine archetypes around fashion and presentation can entangle and constrain us, even lead us to a lost concept of the self. This piece was currated by [Johannes Birringer][johan] at [Gallery Puzić][galleryp] in Saarbruken, Germany.
 
@@ -25,12 +60,7 @@ permalink: /portfolio/
 
 <h2><i><a href="https://otherkat.com/performances/2019-12-07-mourning-for-a-dead-moon-with-the-dap-lab.html">mourning for a dead moon</a></i> with the DAP Lab at Artaud Performance Centre (2019)</h2>
 
-[*Mourning for a dead moon*][moon] is multimedia dance work addressing the climate crisis, performed by the [Design and Performance lab (DAP-Lab)][dap], 
-
-Directed by [Johannes Birringer][johan], with 
-garment design/art direction by [Michèle Danjoux][michele].
-Dancers/choreography by [Zhi Xu][zhi], [Macarena Ortúzar][macarena], [Yoko Ishiguro][yoko], and [Johannes Birringer][johan]; music/sound performance and live processing: [Kat Macdonald][otherkat], with Louie Marlow,and instrumental performer [Helenna Ren][helenna].
-Lighting by Charles Manister; Video/graphics programming by Johannes Birringer; additional electronics by [Maria Dada][maria].
+[*Mourning for a dead moon*][moon] is multimedia dance work addressing the climate crisis, performed by the [Design and Performance Lab (DAP-Lab)][dap]. During this project I acted as sound and sensory artist, providing an original score and working directly with the dancers to give them creative agency within the piece.
 
 Premiere: December 7, 2019, Artaud Performance Centre, London.
 
