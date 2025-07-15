@@ -19,7 +19,7 @@ Below is a recording of one of the rehearsals.
 Your browser does not support the audio element.
 </audio> 
 
-<a href="/assets/scores/music/symp-clear.png"><img src="/assets/scores/music/symp-clear.png" height="1033.5" width="620"/></a>
+<a href="/assets/img/updates/pwh-live.png"><img src="/assets/img/updates/pwh-live.png" height="336px" width="auto"/><a href="/assets/scores/music/symp-clear.png"><img src="/assets/scores/music/symp-clear.png" height="336px" width="auto"/></a>
 
 [kat]:https://otherkat.com
 [blog]:https://blog.otherkat.com
