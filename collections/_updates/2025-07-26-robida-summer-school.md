@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Robida Summer School"
-date:   2025-07-26 09:23:35 +0100
-postdate: July 2025
+title:  "Robida Academy Of Margins"
+date:   2025-08-01 09:23:35 +0100
+postdate: August 2025
 categories: blog
 ---
 
-i am going to be in Topolò with [Agnes][agnes], doing a workshop and installation as part of the [Robida Collectives Academy of Margins, Radio Gardening Summer School][robida], talking about Fanon, revolutions and technological revolutions. Listen to the presentation of the participants [here][here]!
+i took part in [Robida Collectives Academy of Margins, Radio Gardening Summer School][robida], talking about Fanon, revolutions and technology. As part of this we hosted and participated in a series of radio shows, the first of which is available [here][here].
 
 <a href="/assets/img/posters/radio-gardening-2.jpg"><img src="/assets/img/posters/radio-gardening-2.jpg" height="300" width="auto"/></a>
 
