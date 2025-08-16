@@ -4,6 +4,19 @@ title: gallery
 permalink: /gallery/
 ---
 
+<h2><i><a href="https://otherkat.com/installation/multi---band-excitation-(topolò-installation).html">Multi-Band Excitation: A New Piece For Radio</a></i> with <a href="https://agnescameron.info/">Agnes Cameron</a> and Robida Collective in Topolò, Italy (2025)</h2>
+<img src="/assets/img/multibandexcitation/mbework1.jpeg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/mbework2.jpeg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/mbework3.jpeg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/mbework4.jpeg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/mbeinstallkat.jpeg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/mbe1.jpeg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/mbe2.jpeg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/mbe3.jpeg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/mbe4.jpeg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/mbe5.jpeg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/mbe6.jpeg" height="300" width="auto"/>
+
 <h2>Live @ <a href="https://www.instagram.com/saom_ldn/">SAOM</a> 20 (2025) - <a href="/updates/2025-02-27-saom---live.md">◎</a></h2>
 <a href="/assets/img/live/saom-live.png"><img src="/assets/img/live/saom-live.png" height="336" width="270"/></a>
 <a href="/assets/img/live/saom-live2.png"><img src="/assets/img/live/saom-live2.png" height="336" width="270"/></a>
