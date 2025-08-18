@@ -34,7 +34,7 @@ layout: home
 <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
 		{% endfor %}
 <br>
-<a href="/installation/multi---band-excitation-(topolò-installation)"><img src="/assets/img/multibandexcitation/mbe2.jpeg" height="187.5" width="250"/></a> <a href="/installation/2024-07-14-shedding-at-gallery-puzić"><img src="/assets/img/shedding/performance.jpg" height="187.5" width="250"/></a> <a href="/installation/2018-09-11-she-:-they-:-he.html"><img src="/assets/img/shetheyhim/shetheyhesized.png" height="187.5" width="250"/></a>
+<a href="/installation/multi---band-excitation-(topolò-installation)"><img src="/assets/img/multibandexcitation/mbeinstallfilm.jpg" height="187.5" width="250"/></a> <a href="/installation/2024-07-14-shedding-at-gallery-puzić"><img src="/assets/img/shedding/performance.jpg" height="187.5" width="250"/></a> <a href="/installation/2018-09-11-she-:-they-:-he.html"><img src="/assets/img/shetheyhim/shetheyhesized.png" height="187.5" width="250"/></a>
 <br><br>
 <b><a href="/works">see more...</a></b>
 
