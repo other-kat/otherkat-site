@@ -93,9 +93,12 @@ imageContainer {
    top: 100px;
    left: 50vw;
 }
+h2 {
+   font-family: Cotham;
+}
 
 :root {
-   font-family: Helvetica;
+   font-family: Cotham;
    color: #1e1e1e;
    background-color: #FFFFFF;
 }

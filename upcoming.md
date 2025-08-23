@@ -4,12 +4,6 @@ title: upcoming
 permalink: /upcoming/
 ---
 
-<h2><a href="https://peckhamchamberorchestra.co.uk/">⚇ PECKHAM CHAMBER ORCHESTRA SUMMER CONCERT ⚇</a></h2>
-<p><b>Location: Copeland Park, 133 Copeland Rd, London SE15 3SN</b></p>
-<p><b>Date: 20th of August 2025</b></p>
-<p>I'm joining the <a href="https://peckhamchamberorchestra.co.uk/">Peckham Chamber Orchestra</a> for another term, both conducting and working with the artist <a href="https://www.benjijeffrey.com/">Benji Jeffrey</a> on something exciting. More info soon!</p>
-<a href="/assets/img/posters/pcosummer25.jpg"><img src="/assets/img/posters/pcosummer25.jpg" height="300" width="auto"/></a>
-<br>
 <h2><a href="https://lumbungradio.org/">⚇ LUMBUNG RADIO ASSEMBLY ⚇</a></h2>
 <p><b>Location: Berlin & Online</b></p>
 <p><b>Date: 1st - 5th of September 2025</b></p>
@@ -45,6 +39,12 @@ permalink: /upcoming/
 <br>
 <p>__________</p>
 <p><h2><b>ARCHIVE STARTING 03.25</b></h2></p>
+<br>
+<h2><a href="https://peckhamchamberorchestra.co.uk/">⚇ PECKHAM CHAMBER ORCHESTRA SUMMER CONCERT ⚇</a></h2>
+<p><b>Location: Copeland Park, 133 Copeland Rd, London SE15 3SN</b></p>
+<p><b>Date: 20th of August 2025</b></p>
+<p>I'm joining the <a href="https://peckhamchamberorchestra.co.uk/">Peckham Chamber Orchestra</a> for another term, both conducting and working with the artist <a href="https://www.benjijeffrey.com/">Benji Jeffrey</a> on something exciting. More info soon!</p>
+<a href="/assets/img/posters/pcosummer25.jpg"><img src="/assets/img/posters/pcosummer25.jpg" height="300" width="auto"/></a>
 <br>
 <h2><a href="https://robidacollective.com/projects/academy-of-margins/summer-school-of-the-academy-of-margins-2025">⚇ ROBIDA RADIO GARDENING SUMMER SCHOOL ⚇</a></h2>
 <p><b>Location: Topolò / Topolove</b></p>

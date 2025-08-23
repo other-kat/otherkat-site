@@ -21,7 +21,7 @@ layout: home
 <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
 		{% endfor %}
 <br>
-<a href="/performances/2025-04-16-peter-and-the-wolf-and-the-hedgehog-with-agnes-cameron-and-the-peckham-chamber-orchestra.html"><img src="/assets/img/updates/pwhsized.png" height="187.5" width="250"/></a> <a href="/works/2023-12-02-i'll-never-look-this-good-again"><img src="/assets/img/illneverlookthisgoodagain/clothesonsmall.png" height="187.5" width="250"/></a> <a href="/performances/2019-12-07-mourning-for-a-dead-moon-with-the-dap-lab"><img src="/assets/img/mourningforadeadmoon/Moon_Scene4.jpg" height="187.5" width="250"/></a>
+<a href="/performances/2025-04-16-peter-and-the-wolf-and-the-hedgehog-with-agnes-cameron-and-the-peckham-chamber-orchestra.html"><img src="/assets/img/updates/pwhsized.png" height="auto" width="30%"/></a> <a href="/works/2023-12-02-i'll-never-look-this-good-again"><img src="/assets/img/illneverlookthisgoodagain/clothesonsmall.png" height="auto" width="30%"/></a> <a href="/performances/2019-12-07-mourning-for-a-dead-moon-with-the-dap-lab"><img src="/assets/img/mourningforadeadmoon/Moon_Scene4.jpg" height="auto" width="30%"/></a>
 <br><br>
 <b><a href="/performances">see more...</a></b>
 
@@ -34,7 +34,7 @@ layout: home
 <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
 		{% endfor %}
 <br>
-<a href="/installation/multi---band-excitation-(topolò-installation)"><img src="/assets/img/multibandexcitation/mbeinstallfilm.jpg" height="187.5" width="250"/></a> <a href="/installation/2024-07-14-shedding-at-gallery-puzić"><img src="/assets/img/shedding/performance.jpg" height="187.5" width="250"/></a> <a href="/installation/2018-09-11-she-:-they-:-he.html"><img src="/assets/img/shetheyhim/shetheyhesized.png" height="187.5" width="250"/></a>
+<a href="/installation/multi---band-excitation-(topolò-installation)"><img src="/assets/img/multibandexcitation/mbeinstallfilm.jpg" height="auto" width="30%"/></a> <a href="/installation/2024-07-14-shedding-at-gallery-puzić"><img src="/assets/img/shedding/performance.jpg" height="auto" width="30%"/></a> <a href="/installation/2018-09-11-she-:-they-:-he.html"><img src="/assets/img/shetheyhim/shetheyhesized.png" height="auto" width="30%"/></a>
 <br><br>
 <b><a href="/works">see more...</a></b>
 

@@ -21,11 +21,16 @@ After this task, participants were then invited to 'hang out' and 'grab a beer',
 
 After this the radio's made during the workshop were then used as part of the installation.
 
-<p><img src="/assets/img/multibandexcitation/mbeworksign.jpeg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/mbework1.jpeg" height="300" width="auto"/></p>
-<p><img src="/assets/img/multibandexcitation/mbework2.jpeg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/mbework3.jpeg" height="300" width="auto"/></p>
-<p><img src="/assets/img/multibandexcitation/mbework4.jpeg" height="300" width="auto"/></p>
+Photos by <a href="https://antoniofrederico.com/">Antônio Frederico Lasalvia</a>
+
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio1.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio2.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio3.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio4.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio5.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio6.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio7.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio8.jpg" height="300" width="auto"/>
 
 [agnes_cameron]: https://agnescameron.info/
 [install]: https://otherkat.com/installation/multi---band-excitation-(topolò-installation).html
