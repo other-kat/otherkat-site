@@ -6,6 +6,44 @@ permalink: /portfolio/
 
 <h2><mark>portfolio of notable works</mark></h2>
 
+<h2><i><a href="https://otherkat.com/installation/2024-07-14-shedding-at-gallery-puzi%C4%87.html">Multi-Band Excitation: A New Piece For Radio</a></i> with <a href="https://agnescameron.info/">Agnes Cameron</a> at <a href="https://robidacollective.com/projects/academy-of-margins/summer-school-of-the-academy-of-margins-2025">Robida Collective</a>, Topolò (2025)</h2>
+
+*Multi-Band Excitation* is explored in three forms. an electronics workshop and 'hang out' to discuss theory, and an installation. The piece pulls from [Tetsuo Kogawa's][tk] writing and designs for an [FM Transmitter][tkdiagram], Fred Moten and Sefano Harney's [Undercommons][undercommons], Frantz Fanon's [writings on the Voice of Fighting Algeria][vofa] and [Radio Alice's][freealice] philosophy towards pirate radio.
+
+For a full reference library see our [are.na project channel][arena]. The first stage of the piece is the workshop and 'hangout', described [here][workshop]. You can find a description and archival materials of the installation [here][install].
+
+[agnes_cameron]: https://agnescameron.info/
+[install]: https://otherkat.com/installation/multi---band-excitation-(topolò-installation).html
+[workshop]: https://otherkat.com/rehearsals/
+[tk]: https://anarchy.translocal.jp/
+[tkdiagram]: https://anarchy.translocal.jp/radio/micro/howtotx.html
+[undercommons]: https://en.wikipedia.org/wiki/The_Undercommons
+[vofa]: https://www.are.na/block/37273598
+[freealice]: https://www.are.na/block/29403941
+[arena]:https://www.are.na/agnes-cameron/multi-band-excitation
+
+<audio controls>
+  <source src="/assets/scores/music/mbe-clip.mp3" type="audio/mpeg">
+Your browser does not support good sounds.
+</audio> 
+
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio1.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio2.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio3.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio4.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio5.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio6.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio7.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio8.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio1.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio2.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio3.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio4.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio5.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio6.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio7.jpg" height="auto" width="23%"/>
+<p><a href="/assets/img/multibandexcitation/mbeinstallfilm.jpg"><img src="/assets/img/multibandexcitation/mbeinstallfilm.jpg" height="auto" width="80%"/></a></p>
+
 <h2><i><a href="https://otherkat.com/installation/2024-07-14-shedding-at-gallery-puzi%C4%87.html">Sympoiesis</a></i> with the <a href="https://peckhamchamberorchestra.co.uk/about">Peckham Chamber Orchestra</a> (2025)</h2>
 
 Originally conceived as a new ending to *Peter And The Wolf And The Hedgehog*, an adaptation of Sergei Prokofiev's Peter And The Wolf by myself and [Agnes Cameron][agnes].
@@ -14,15 +52,6 @@ This work reimagines the ending to centre on Peter's growth from a self orientat
 
 Below is a recording of one of the rehearsals.
 
-<audio controls>
-  <source src="/assets/scores/music/ptwthrehearsalending.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio> 
-
-<a href="/assets/img/updates/pwh-live.png"><img src="/assets/img/updates/pwh-live.png" height="336px" width="auto"/><a href="/assets/scores/music/symp-clear.png"><img src="/assets/scores/music/symp-clear.png" height="336px" width="auto"/></a>
-
-[kat]:https://otherkat.com
-[blog]:https://blog.otherkat.com
 [pco]:https://peckhamchamberorchestra.co.uk/about
 [agnes]:https://agnescameron.info/
 [sbd]:https://www.researchgate.net/publication/228566588_Sympoietic_and_autopoietic_systems_A_new_distinction_for_self-organizing_systems
@@ -30,33 +59,31 @@ Your browser does not support the audio element.
 [ssasaswt]: https://www.jstor.org/stable/10.5749/j.ctt1qft070
 [mr]: https://more-roar.agnescameron.info/index.html
 
+<audio controls>
+  <source src="/assets/scores/music/ptwthrehearsalending.mp3" type="audio/mpeg">
+Your browser does not support good sounds.
+</audio> 
+
+<a href="/assets/img/updates/pwh-live.png"><img src="/assets/img/updates/pwh-live.png" height="auto" width="45%"/><a href="/assets/scores/music/symp-clear.png"><img src="/assets/scores/music/symp-clear.png" height="auto" width="45%"/></a>
+
 <h2><a href="https://www.instagram.com/p/DCUsczEKMWK/">Interventons</a> and <a href="https://www.instagram.com/p/DJ_iptHKc7h/?img_index=1">workshops</a> with the <a href="https://lclo.otherkat.com/">London Community Laptop Orchestra</a> (2024 - )</h2>
 
-Since beginning in 2024, I’ve been running intervention performances, rehearsals and workshops as the London Community Laptop Orchestra. Including a performance at the British Library and our Ringtone Workshop.
+Since 2024, I’ve been running intervention performances, rehearsals and workshops as the London Community Laptop Orchestra, both across London and abroad.
 
-<p><img src="/assets/img/updates/ringtonework.jpeg" height="384" width="auto"/></p>
+<p><a href="/assets/img/multibandexcitation/antonio/laptopantonio1.jpg"><img src="/assets/img/multibandexcitation/antonio/laptopantonio1.jpg" height="auto" width="50%"/></a></p>
+<p><img src="/assets/img/updates/ringtonework.jpeg" height="auto" width="50%"/></p>
 
-[johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
-[galleryp]: https://gallery-puzic.com/en/
-[inflationary]: https://inflationaryassets.com/
-[agnes_cameron]: https://agnescameron.info/
-
-<h2><i><a href="https://otherkat.com/installation/2024-07-14-shedding-at-gallery-puzi%C4%87.html">shedding</a></i> at Gallery Puzić, Saarbruken (2024)</h2>
+<h2><i><a href="https://otherkat.com/installation/2024-07-14-shedding-at-gallery-puzi%C4%87.html">shedding</a></i> at <a href="https://gallery-puzic.com/shedding-2/">Gallery Puzić</a>, Saarbruken (2024)</h2>
 
 *shedding* is a reworking of the piece *shedding femme* from 2021 in collaboration with artist [Agnes Cameron][agnes_cameron]. An examination of the ways in which feminine archetypes around fashion and presentation can entangle and constrain us, even lead us to a lost concept of the self. This piece was currated by [Johannes Birringer][johan] at [Gallery Puzić][galleryp] in Saarbruken, Germany.
 
-<p><img src="/assets/img/shedding/performance.jpg" height="375" width="500"/>
-<img src="/assets/img/shedding/feet.jpg" height="375" width="500"/></p>
-<img src="/assets/img/shedding/setup1.jpg" height="200" width="150"/>
-<img src="/assets/img/shedding/setup2.jpg" height="200" width="150"/> 
-<img src="/assets/img/shedding/holes.jpg" height="200" width="150"/>
-<img src="/assets/img/shedding/end1.jpg" height="200" width="150"/>
-<img src="/assets/img/shedding/end2.jpg" height="200" width="150"/>
-
-[johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
-[galleryp]: https://gallery-puzic.com/en/
-[inflationary]: https://inflationaryassets.com/
-[agnes_cameron]: https://agnescameron.info/
+<p><img src="/assets/img/shedding/performance.jpg" height="auto" width="40%"/>
+<img src="/assets/img/shedding/feet.jpg" height="auto" width="40%"/></p>
+<img src="/assets/img/shedding/setup1.jpg" height="auto" width="15%"/>
+<img src="/assets/img/shedding/setup2.jpg" height="auto" width="15%"/> 
+<img src="/assets/img/shedding/holes.jpg" height="auto" width="15%"/>
+<img src="/assets/img/shedding/end1.jpg" height="auto" width="15%"/>
+<img src="/assets/img/shedding/end2.jpg" height="auto" width="15%"/>
 
 <h2><i><a href="https://otherkat.com/performances/2019-12-07-mourning-for-a-dead-moon-with-the-dap-lab.html">mourning for a dead moon</a></i> with the DAP Lab at Artaud Performance Centre (2019)</h2>
 
@@ -64,10 +91,38 @@ Since beginning in 2024, I’ve been running intervention performances, rehearsa
 
 Premiere: December 7, 2019, Artaud Performance Centre, London.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I66-b21y8oE?si=5eEb2WstJO-_ZWuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img src="/assets/img/mourningforadeadmoon/Moon_Scene4.jpg" height="auto" width="40%"/>
+<img src="/assets/img/mourningforadeadmoon/Moon_Scene2.jpg" height="auto" width="40%"/>
 
-<img src="/assets/img/mourningforadeadmoon/Moon_Scene4.jpg" height="375" width="500"/>
-<img src="/assets/img/mourningforadeadmoon/Moon_Scene2.jpg" height="375" width="500"/>
+<h2><i><a href="https://otherkat.com/performances/2021-10-23-shedding-femme-at-detritus.html">shedding femme</a></i> at <a href="https://www.tensionfineart.co.uk/detritus-a-day-of-performance-at-tension-23rd-oct-2021/">Detritus, Tension Fine Art Gallery</a> (2021)</h2>
+
+Cutting away pieces of a patchwork connecting old clothes, <i>shedding femme</i> introspectively invited us to consider the selves we are constructed from, and the process of snipping our way free.
+
+The piece took the form of two segments. The first involved the artists performing in solitude, slowly cutting away the fabric. Later in the evening the piece was revisited, allowing the audience to take part in aiding the performer to cut away the patchwork dress.
+
+Throughout the performance a microphone was hung from the ceiling, taking the sounds from the audience and the cuts being made and grandulating the sounds through a custom software called MagSpect built by myself.
+
+<img src="/assets/img/sheddingfemme/midperformance.jpeg" height="auto" width="20%"/>
+<img src="/assets/img/sheddingfemme/endofpart1.jpeg" height="auto" width="20%"/> 
+<img src="/assets/img/sheddingfemme/end.jpeg" height="auto" width="20%"/>
+<img src="/assets/img/sheddingfemme/castoffs.jpeg" height="auto" width="20%"/>
+
+<h2><i><a href="https://otherkat.com/installation/2018-09-11-she-/-they-/-he">She / They / He</a></i> at Metafizikel, Artaud Performance Centre (2018)</h2>
+
+She / They / Him (2018) was proposed as an installation piece, taking ideas from Gendered Viewing / Radio and expanding them into a complete and longer work. The piece focused on my personal identity, with my body being an integral part of the work.
+
+<img src="/assets/img/shetheyhim/movement1.jpeg" height="auto" width="40%"/>
+<img src="/assets/img/shetheyhim/screen1.jpeg" height="auto" width="40%"/>
+<img src="/assets/img/shetheyhim/screen2.jpeg" height="auto" width="40%"/>
+<img src="/assets/img/shetheyhim/scorepost1.jpeg" height="auto" width="40%"/> 
+
+<h2><i><a href="https://otherkat.com/installation/2018-07-09-manipulated-labour-at-peopling">Manipulated Labour</a></i> at <a href="https://www.airsupplycollective.com/">Peopling The Palace (2018)</a> with Laura Bradley</h2>
+
+*Manipulated Labour* is a devised performance piece exploring the intimacy and interplay between couples falling outside of hetronormative and gender normative forms.
+
+<img src="/assets/img/manlab/video1.png" height="auto" width="30%"/>
+<img src="/assets/img/manlab/video2.png" height="auto" width="30%"/>
+<img src="/assets/img/manlab/colag1.png" height="auto" width="30%"/>
 
 [moon]: https://www.youtube.com/watch?v=I66-b21y8oE&ab_channel=horstjohannes
 [dap]: https://dap-lab.brunel.ac.uk/
@@ -78,27 +133,13 @@ Premiere: December 7, 2019, Artaud Performance Centre, London.
 [macarena]: https://mueoxford.wordpress.com/macarena-ortuzar/
 [yoko]: https://fromeastothebarbican.wordpress.com/artists/yoko-ishiguro/
 [maria]: http://www.mariadada.com/information.php
-
-<h2><i><a href="https://otherkat.com/works/2023-08-01-i-love-or-hate-everyday.html">I Love Or Hate Everyday</a></i> (2022-2023)</h2>
-
-A long form 400 day durational piece, exploring digital censorship, sexuality and digial personhood. The piece was featured in a variety of publications including Country and Home Magazines June 2022 issue.
-
-Full autoethnography describing the piece, available <a href="/writings/2023-11-27-Your-Post-Goes-Against-Our-Community-Guidelines/">here</a>.
-
-<a href="https://www.instagram.com/iloveorhateeveryday/">Link To Full Work</a>
-
-<img src="/assets/img/iloveorhateeveryday/instagram1.png" height="415" width="539"/>
-<img src="/assets/img/iloveorhateeveryday/instagram2.png" height="415" width="539"/> 
-
-<h2><i><a href="https://otherkat.com/performances/2021-10-23-shedding-femme-at-detritus.html">shedding femme</a></i> at Detritus, Tension Fine Art Gallery (2021)</h2>
-
-Cutting away pieces of a patchwork connecting old clothes, <i>shedding femme</i> introspectively invited us to consider the selves we are constructed from, and the process of snipping our way free.
-
-The piece took the form of two segments. The first involved the artists performing in solitude, slowly cutting away the fabric. Later in the evening the piece was revisited, allowing the audience to take part in aiding the performer to cut away the patchwork dress.
-
-Throughout the performance a microphone was hung from the ceiling, taking the sounds from the audience and the cuts being made and grandulating the sounds through a custom software called MagSpect built by myself.
-
-<img src="/assets/img/sheddingfemme/midperformance.jpeg" height="200" width="150"/>
-<img src="/assets/img/sheddingfemme/endofpart1.jpeg" height="200" width="150"/> 
-<img src="/assets/img/sheddingfemme/end.jpeg" height="200" width="150"/>
-<img src="/assets/img/sheddingfemme/castoffs.jpeg" height="200" width="150"/>
+[johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
+[galleryp]: https://gallery-puzic.com/en/
+[inflationary]: https://inflationaryassets.com/
+[agnes_cameron]: https://agnescameron.info/
+[johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
+[galleryp]: https://gallery-puzic.com/en/
+[inflationary]: https://inflationaryassets.com/
+[agnes_cameron]: https://agnescameron.info/
+[kat]:https://otherkat.com
+[blog]:https://blog.otherkat.com

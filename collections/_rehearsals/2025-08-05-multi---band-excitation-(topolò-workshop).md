@@ -7,7 +7,7 @@ categories: blog
 
 <h2><i>Multi-Band Excitation: A New Piece For Radio</i> with <a href="https://agnescameron.info/">Agnes Cameron</a> and Robida Collective in Topolò, Italy (2025)</h2>
 
-*Multi-Band Excitation* is explored in three forms. an electronics workshop and 'hang out' to discuss theory, and an installation. The piece pulls from [Tetsuo Kogawa's][tk] writing and designs for an [FM Transmitter][tkdiagram], Fred Moten and Sefano Harney's [Undercommons][undercommons], Franz Fanon's [writings on the Voice of Fighting Algeria][vofa] and [Radio Alice's][freealice] philosophy towards pirate radio.
+*Multi-Band Excitation* is explored in three forms. an electronics workshop and 'hang out' to discuss theory, and an installation. The piece pulls from [Tetsuo Kogawa's][tk] writing and designs for an [FM Transmitter][tkdiagram], Fred Moten and Sefano Harney's [Undercommons][undercommons], Frantz Fanon's [writings on the Voice of Fighting Algeria][vofa] and [Radio Alice's][freealice] philosophy towards pirate radio.
 
 For a full reference library see our [are.na project channel][arena]. This first performance was done as part of <a href="https://robidacollective.com/projects/academy-of-margins/summer-school-of-the-academy-of-margins-2025">Robida Collective's Radio Gardening Summer School</a>.
 

@@ -24,6 +24,8 @@ permalink: /collaborators/
 
 [Olivia Golding][olivia]
 
+[Robida Collective][robida]
+
 [The Peckham Chamber Orchestra][pco]
 
 [Telepresence Stage][telepresencestage]
@@ -43,3 +45,4 @@ permalink: /collaborators/
 [laura]: https://www.instagram.com/laura_bradley_/
 [benji]: https://www.benjijeffrey.com/
 [pco]: https://peckhamchamberorchestra.co.uk/
+[robida]: https://robidacollective.com/

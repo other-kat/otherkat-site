@@ -9,7 +9,7 @@ categories: blog
 
 <a href="/assets/img/multibandexcitation/mbeinstallfilm.jpg"><img src="/assets/img/multibandexcitation/mbeinstallfilm.jpg" height="300" width="auto"/></a>
 
-*Multi-Band Excitation* is explored in three forms. an electronics workshop and 'hang out' to discuss theory, and an installation. The piece pulls from [Tetsuo Kogawa's][tk] writing and designs for an [FM Transmitter][tkdiagram], Fred Moten and Sefano Harney's [Undercommons][undercommons], Franz Fanon's [writings on the Voice of Fighting Algeria][vofa] and [Radio Alice's][freealice] philosophy towards pirate radio.
+*Multi-Band Excitation* is explored in three forms. an electronics workshop and 'hang out' to discuss theory, and an installation. The piece pulls from [Tetsuo Kogawa's][tk] writing and designs for an [FM Transmitter][tkdiagram], Fred Moten and Sefano Harney's [Undercommons][undercommons], Frantz Fanon's [writings on the Voice of Fighting Algeria][vofa] and [Radio Alice's][freealice] philosophy towards pirate radio.
 
 For a full reference library see our [are.na project channel][arena]. The first stage of the piece is the workshop and 'hangout', described [here][workshop].
 
