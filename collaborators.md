@@ -4,6 +4,12 @@ title:  collaborators
 permalink: /collaborators/
 ---
 
+collaborators / accomplicies / friends
+
+professional / unprofessional
+
+published / unpublished
+
 [Agnes Cameron][agnes_cameron] 
 
 [Benji Jeffrey][benji]
@@ -26,11 +32,15 @@ permalink: /collaborators/
 
 [Robida Collective][robida]
 
-[The Peckham Chamber Orchestra][pco]
-
 [Telepresence Stage][telepresencestage]
 
+[The Peckham Chamber Orchestra][pco]
+
+[Timo Kreuser][timo]
+
 [Zhi Xu][zhi]
+
+this list will never have names removed - only added - isn't that nice :) 
 
 [johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
 [inflationary]: https://inflationaryassets.com/
@@ -46,3 +56,4 @@ permalink: /collaborators/
 [benji]: https://www.benjijeffrey.com/
 [pco]: https://peckhamchamberorchestra.co.uk/
 [robida]: https://robidacollective.com/
+[timo]: https://ausland.berlin/artist/timo-kreuser
