@@ -8,7 +8,7 @@ permalink: /upcoming/
 <p><b>Location: Berlin & Online</b></p>
 <p><b>Date: 1st - 5th of September 2025</b></p>
 <p>I'll be presenting <a href="https://agnescameron.info/">Agnes</a> and I's installation Multi-Band Excitation, as well as giving a talk with sound artists <a href="https://ausland.berlin/artist/timo-kreuser">Timo Kreuser</a></p>
-<a href="/assets/img/posters/lumbungradio.png"><img src="/assets/img/posters/lumbungradio.png" height="auto" width="50%"/></a>
+<a href="/assets/img/posters/multi-band-berlin.jpeg"><img src="/assets/img/posters/multi-band-berlin.jpeg" height="auto" width="50%"/></a>
 <br>
 <h2><a href="https://theworldtransformed.org/">⚇ THE WORLD TRANSFORMED FESTIVAL ⚇</a></h2>
 <p><b>Location: Hume, Manchester</b></p>
