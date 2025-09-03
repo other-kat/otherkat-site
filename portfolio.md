@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 <h2><i><a href="https://otherkat.com/installation/2024-07-14-shedding-at-gallery-puzi%C4%87.html">Multi-Band Excitation: A New Piece For Radio</a></i> with <a href="https://agnescameron.info/">Agnes Cameron</a> at <a href="https://robidacollective.com/projects/academy-of-margins/summer-school-of-the-academy-of-margins-2025">Robida Collective</a>, Topolò (2025)</h2>
 
-*Multi-Band Excitation* is explored in three forms. an electronics workshop and 'hang out' to discuss theory, and an installation. The piece pulls from [Tetsuo Kogawa's][tk] writing and designs for an [FM Transmitter][tkdiagram], Fred Moten and Sefano Harney's [Undercommons][undercommons], Frantz Fanon's [writings on the Voice of Fighting Algeria][vofa] and [Radio Alice's][freealice] philosophy towards pirate radio.
+An electronics workshop, theoretical discussion, and installation. Participants co-construct miniature FM transmitters—learning to read schematics, solder components, and generate signals—blurring the boundaries between maker, thinker, and listener. Drawing from [Tetsuo Kogawa’s][tk] DIY radio ethos and [designs][tkdiagram], [the Undercommons][undercommons], Frantz Fanon’s reflections on the [Voice of Fighting Algeria][vofa], and [Radio Alice’s][freealice] pirate media philosophy, the work invites a hands-on interrogation of transmission, agency, and collective intimacy.
 
 For a full reference library see our [are.na project channel][arena]. The first stage of the piece is the workshop and 'hangout', described [here][workshop]. You can find a description and archival materials of the installation [here][install].
 
@@ -48,7 +48,7 @@ Your browser does not support good sounds.
 
 Originally conceived as a new ending to *Peter And The Wolf And The Hedgehog*, an adaptation of Sergei Prokofiev's Peter And The Wolf by myself and [Agnes Cameron][agnes].
 
-This work reimagines the ending to centre on Peter's growth from a self orientated view of the world to an understanding of his placement within an ecosystem. 
+A reimagined conclusion to Peter and the Wolf, this piece traces Peter's journey toward ecological awareness—“growing from solitude into ecosystemic belonging.” Through orchestral textures, it collapses character and environment into a shared sonic habitat.
 
 Below is a recording of one of the rehearsals.
 
@@ -68,14 +68,14 @@ Your browser does not support good sounds.
 
 <h2><a href="https://www.instagram.com/p/DCUsczEKMWK/">Interventons</a> and <a href="https://www.instagram.com/p/DJ_iptHKc7h/?img_index=1">workshops</a> with the <a href="https://lclo.otherkat.com/">London Community Laptop Orchestra</a> (2024 - )</h2>
 
-Since 2024, I’ve been running intervention performances, rehearsals and workshops as the London Community Laptop Orchestra, both across London and abroad.
+Since 2024, I’ve led a series of inclusive, experimental presentations and participatory workshops with the London Community Laptop Orchestra—activating laptop-based music making at varied venues and contexts, aimed at collective improvisation and sonic exploration.
 
 <p><a href="/assets/img/multibandexcitation/antonio/laptopantonio1.jpg"><img src="/assets/img/multibandexcitation/antonio/laptopantonio1.jpg" height="auto" width="50%"/></a></p>
 <p><img src="/assets/img/updates/ringtonework.jpeg" height="auto" width="50%"/></p>
 
 <h2><i><a href="https://otherkat.com/installation/2024-07-14-shedding-at-gallery-puzi%C4%87.html">shedding</a></i> at <a href="https://gallery-puzic.com/shedding-2/">Gallery Puzić</a>, Saarbruken (2024)</h2>
 
-*shedding* is a reworking of the piece *shedding femme* from 2021 in collaboration with artist [Agnes Cameron][agnes_cameron]. An examination of the ways in which feminine archetypes around fashion and presentation can entangle and constrain us, even lead us to a lost concept of the self. This piece was currated by [Johannes Birringer][johan] at [Gallery Puzić][galleryp] in Saarbruken, Germany.
+A reworking of the 2021 piece *shedding femme*, this new version in collaboration with [Inflationary Assets][ia] probes the constraints of feminine archetypes—fashion as both armor and erasure. In a ritual-like stripping of patchwork, participants dismantle and reconstruct identity. A microphone captures every cut and breath; sound is algorithmically granular via my custom software, **MagSpect**, transforming fabric, texture, and touch into sonic memory.
 
 <p><img src="/assets/img/shedding/performance.jpg" height="auto" width="40%"/>
 <img src="/assets/img/shedding/feet.jpg" height="auto" width="40%"/></p>
@@ -85,11 +85,9 @@ Since 2024, I’ve been running intervention performances, rehearsals and worksh
 <img src="/assets/img/shedding/end1.jpg" height="auto" width="15%"/>
 <img src="/assets/img/shedding/end2.jpg" height="auto" width="15%"/>
 
-<h2><i><a href="https://otherkat.com/performances/2019-12-07-mourning-for-a-dead-moon-with-the-dap-lab.html">mourning for a dead moon</a></i> with the DAP Lab at Artaud Performance Centre (2019)</h2>
+<h2><i><a href="https://otherkat.com/performances/2019-12-07-mourning-for-a-dead-moon-with-the-dap-lab.html">mourning for a dead moon</a></i> with the <a href="https://dap-lab.brunel.ac.uk/">DAP Lab</a> at Artaud Performance Centre (2019)</h2>
 
-[*Mourning for a dead moon*][moon] is multimedia dance work addressing the climate crisis, performed by the [Design and Performance Lab (DAP-Lab)][dap]. During this project I acted as sound and sensory artist, providing an original score and working directly with the dancers to give them creative agency within the piece.
-
-Premiere: December 7, 2019, Artaud Performance Centre, London.
+A multimedia dance work addressing ecological urgency. As sound and sensor designer, I created an original score and embedded creative agency in performers—making visible the frictions between technology, bodies, and planetary grief.
 
 <img src="/assets/img/mourningforadeadmoon/Moon_Scene4.jpg" height="auto" width="40%"/>
 <img src="/assets/img/mourningforadeadmoon/Moon_Scene2.jpg" height="auto" width="40%"/>
@@ -143,3 +141,4 @@ She / They / Him (2018) was proposed as an installation piece, taking ideas from
 [agnes_cameron]: https://agnescameron.info/
 [kat]:https://otherkat.com
 [blog]:https://blog.otherkat.com
+[ia]:https://inflationaryassets.com/
