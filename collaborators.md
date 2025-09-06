@@ -10,7 +10,9 @@ professional / unprofessional
 
 published / unpublished
 
-[Agnes Cameron][agnes_cameron] 
+[Agnes Cameron][agnes_cameron]
+
+[Austin Philemon][austin]
 
 [Benji Jeffrey][benji]
 
@@ -38,6 +40,8 @@ published / unpublished
 
 [Timo Kreuser][timo]
 
+[Yasamin Ghalehnoie][yasamin]
+
 [Zhi Xu][zhi]
 
 this list will never have names removed - only added - isn't that nice :) 
@@ -57,3 +61,5 @@ this list will never have names removed - only added - isn't that nice :)
 [pco]: https://peckhamchamberorchestra.co.uk/
 [robida]: https://robidacollective.com/
 [timo]: https://ausland.berlin/artist/timo-kreuser
+[austin]: https://www.austinphilemon.com/
+[yasamin]: https://www.commonplaygrounds.com/
