@@ -4,11 +4,11 @@ title: upcoming
 permalink: /upcoming/
 ---
 
-<h2><a href="https://lumbungradio.org/">⚇ LUMBUNG RADIO ASSEMBLY ⚇</a></h2>
-<p><b>Location: Berlin & Online</b></p>
-<p><b>Date: 1st - 5th of September 2025</b></p>
-<p>I'll be presenting <a href="https://agnescameron.info/">Agnes</a> and I's installation Multi-Band Excitation, as well as giving a talk with sound artists <a href="https://ausland.berlin/artist/timo-kreuser">Timo Kreuser</a></p>
-<a href="/assets/img/posters/multi-band-berlin.jpeg"><img src="/assets/img/posters/multi-band-berlin.jpeg" height="auto" width="50%"/></a>
+<h2><a href="https://lclo.otherkat.com/">⚇ START UP - SOUNDS (LONDON COMMUNITY LAPTOP ORCHESTRA) ⚇</a></h2>
+<p><b>Location: London</b></p>
+<p><b>Date: 2nd of October 2025</b></p>
+<p>I'll be running a workshop and starter session for the LCLO to kick off our next project.</a></p>
+<a href="/assets/img/posters/lcloposteroct25.jpeg"><img src="/assets/img/posters/lcloposteroct25.jpeg" height="auto" width="50%"/></a>
 <br>
 <h2><a href="https://theworldtransformed.org/">⚇ THE WORLD TRANSFORMED FESTIVAL ⚇</a></h2>
 <p><b>Location: Hume, Manchester</b></p>
@@ -20,7 +20,7 @@ permalink: /upcoming/
 <p><b>Location: Holy Trinity Lutheran Church, 3 W 65th St. New York. NY 10023. United States</b></p>
 <p><b>Date: 18th of October 2025</b></p>
 <p>Alongside, Agnes Cameron and Austin Philemon, I'll be performing the Goldberg Variations, in tribute to Wendy Carlos.</p>
-<a href="/assets/img/posters/switchedon.JPG"><img src="/assets/img/posters/switchedon.JPG" height="auto" width="50%"/></a>
+<a href="/assets/img/posters/Goldbergposter.jpeg"><img src="/assets/img/posters/Goldbergposter.jpeg" height="auto" width="50%"/></a>
 <br>
 <h2><a href="/bathrooms/">⚇ BATHROOM STUDIES ⚇</a></h2>
 <p><b>Location: REVEALED ON DAY</b></p>
@@ -39,6 +39,12 @@ permalink: /upcoming/
 <br>
 <p>__________</p>
 <p><h2><b>ARCHIVE STARTING 03.25</b></h2></p>
+<br>
+<h2><a href="https://lumbungradio.org/">⚇ LUMBUNG RADIO ASSEMBLY ⚇</a></h2>
+<p><b>Location: Berlin & Online</b></p>
+<p><b>Date: 1st - 5th of September 2025</b></p>
+<p>I'll be presenting <a href="https://agnescameron.info/">Agnes</a> and I's installation Multi-Band Excitation, as well as giving a talk with sound artists <a href="https://ausland.berlin/artist/timo-kreuser">Timo Kreuser</a></p>
+<a href="/assets/img/posters/multi-band-berlin.jpeg"><img src="/assets/img/posters/multi-band-berlin.jpeg" height="auto" width="50%"/></a>
 <br>
 <h2><a href="https://peckhamchamberorchestra.co.uk/">⚇ PECKHAM CHAMBER ORCHESTRA SUMMER CONCERT ⚇</a></h2>
 <p><b>Location: Copeland Park, 133 Copeland Rd, London SE15 3SN</b></p>
