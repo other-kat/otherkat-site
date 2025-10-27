@@ -2,7 +2,7 @@
 layout: post
 title:  "Multi-Band Excitation - Lumbung Radio"
 date:   2025-09-05 09:23:35 +0100
-postdate: August 2025
+postdate: September 2025
 categories: blog
 ---
 
