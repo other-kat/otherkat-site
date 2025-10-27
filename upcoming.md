@@ -4,6 +4,13 @@ title: upcoming
 permalink: /upcoming/
 ---
 
+<h2><a href="https://lumbungradio.org/">⚇ ALL IS NOISE ⚇</a></h2>
+<p><b>Location: Online</b></p>
+<p><b>Date: 5pm (CET), 30th of October 2025</b></p>
+<p> My podcast with <a href="https://robidacollective.com/community/people/timo-kreuser">Timo Kreuser</a> will be broadcasting on <a href="https://lumbungradio.org/">Lumbung Radio</a> with a listening session to be hosted at <a href="https://www.instagram.com/20nine30/">20nine30</a>.
+</p>
+<a href="/assets/img/posters/allisnoise.png"><img src="/assets/img/posters/allisnoise.png" height="auto" width="50%"/></a>
+<br>
 <h2><a href="/bathrooms/">⚇ BATHROOM STUDIES ⚇</a></h2>
 <p><b>Location: REVEALED ON DAY</b></p>
 <p><b>Date: MULTIPLE - REVEALED SHORTLY BEFORE</b></p>
