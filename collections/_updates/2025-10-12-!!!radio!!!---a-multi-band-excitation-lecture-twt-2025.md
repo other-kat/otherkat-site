@@ -6,7 +6,7 @@ postdate: October 2025
 categories: blog
 ---
 
-[Agnes][agnes] and I presented an adapted lecture format of our piece Multi-Band Excitation at the The World Transformed Festival 2025.
+[Agnes][agnes] and I presented an adapted lecture format of our piece Multi-Band Excitation at [The World Transformed Festival 2025][twt].
 
 <a href="/assets/img/multibandexcitation/multilecturetwt.jpeg"><img src="/assets/img/multibandexcitation/multilecturetwt.jpeg" height="auto" width="50%"/></a>
 
@@ -15,3 +15,4 @@ categories: blog
 [pco]: https://peckhamchamberorchestra.co.uk/
 [here]: https://otherkat.com/rehearsals/2025-08-05-multi---band-excitation-(topolò-workshop).html
 [lumbung]:https://lumbungradio.org/
+[twt]:https://theworldtransformed.org/twt25/twt25programme/radio-a-multi-band-excitation-lecture/
