@@ -1,0 +1,151 @@
+---
+layout: score
+title:  portfolio-translated
+permalink: /portfolio-translated/
+---
+
+<h2><mark>作品集 Portfolio of Notable Works / 重要作品集</mark></h2>
+
+<h2><i><a href="https://otherkat.com/installation/2024-07-14-shedding-at-gallery-puzi%C4%87.html">Multi-Band Excitation: A New Piece For Radio</a></i> 与 <a href="https://agnescameron.info/">Agnes Cameron</a> 合作 <a href="https://robidacollective.com/projects/academy-of-margins/summer-school-of-the-academy-of-margins-2025">Robida Collective</a>, Topolò (2025)</h2>
+
+这是一场结合电子工作坊、理论讨论与装置艺术的综合实践。参与者共同构建微型 FM 发射机——学习阅读电路图、焊接元件、生成信号——模糊了制造者、思考者与聆听者之间的界限。
+该作品汲取了古川哲雄（Tetsuo Kogawa）的 DIY 广播理念与设计、《地下公社》（The Undercommons）、弗朗茨·法农（Frantz Fanon）对“阿尔及利亚之声”的思考，以及“爱丽丝电台”（Radio Alice）的海盗媒体哲学，邀请观众以亲手实践的方式审视传播、能动性与集体亲密性。
+
+[agnes_cameron]: https://agnescameron.info/
+[install]: https://otherkat.com/installation/multi---band-excitation-(topolò-installation).html
+[workshop]: https://otherkat.com/rehearsals/
+[tk]: https://anarchy.translocal.jp/
+[tkdiagram]: https://anarchy.translocal.jp/radio/micro/howtotx.html
+[undercommons]: https://en.wikipedia.org/wiki/The_Undercommons
+[vofa]: https://www.are.na/block/37273598
+[freealice]: https://www.are.na/block/29403941
+[arena]:https://www.are.na/agnes-cameron/multi-band-excitation
+
+<audio controls>
+  <source src="/assets/scores/music/mbe-clip.mp3" type="audio/mpeg">
+Your browser does not support good sounds.
+</audio> 
+
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio1.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio2.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio3.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio4.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio5.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio6.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio7.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio8.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio1.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio2.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio3.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio4.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio5.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio6.jpg" height="auto" width="23%"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio7.jpg" height="auto" width="23%"/>
+<p><a href="/assets/img/multibandexcitation/mbeinstallfilm.jpg"><img src="/assets/img/multibandexcitation/mbeinstallfilm.jpg" height="auto" width="80%"/></a></p>
+
+<h2><i><a href="https://otherkat.com/installation/2024-07-14-shedding-at-gallery-puzi%C4%87.html">Sympoiesis</a></i> 与 <a href="https://peckhamchamberorchestra.co.uk/about">Peckham Chamber Orchestra</a> (2025)</h2>
+
+原本构想为作品《彼得与狼与刺猬》的新结尾，该作品是我与 Agnes Cameron 共同改编自谢尔盖·普罗科菲耶夫的《彼得与狼》。
+这部重新想象的结尾追踪彼得通向生态觉醒的旅程——“从孤独成长为生态系统中的归属者”。通过管弦乐的纹理，角色与环境融为一个共享的声音栖息地。
+
+以下是一段排练录音。
+
+[pco]:https://peckhamchamberorchestra.co.uk/about
+[agnes]:https://agnescameron.info/
+[sbd]:https://www.researchgate.net/publication/228566588_Sympoietic_and_autopoietic_systems_A_new_distinction_for_self-organizing_systems
+[djh]:https://en.wikipedia.org/wiki/Donna_Haraway
+[ssasaswt]: https://www.jstor.org/stable/10.5749/j.ctt1qft070
+[mr]: https://more-roar.agnescameron.info/index.html
+
+<audio controls>
+  <source src="/assets/scores/music/ptwthrehearsalending.mp3" type="audio/mpeg">
+Your browser does not support good sounds.
+</audio> 
+
+<a href="/assets/img/updates/pwh-live.png"><img src="/assets/img/updates/pwh-live.png" height="auto" width="45%"/><a href="/assets/scores/music/symp-clear.png"><img src="/assets/scores/music/symp-clear.png" height="auto" width="45%"/></a>
+
+<h2><a href="https://www.instagram.com/p/DCUsczEKMWK/">Interventons</a> and <a href="https://www.instagram.com/p/DJ_iptHKc7h/?img_index=1">workshops</a> 与 <a href="https://lclo.otherkat.com/">London Community Laptop Orchestra</a> (2024 - )</h2>
+
+与伦敦社区笔记本电脑乐团的干预与工作坊
+
+自 2024 年起，我主持了一系列包容性、实验性的展示与参与式工作坊，与伦敦社区笔记本电脑乐团合作——在不同场地和语境中激发基于笔记本电脑的音乐创作，旨在促进集体即兴与声音探索。
+
+<p><a href="/assets/img/multibandexcitation/antonio/laptopantonio1.jpg"><img src="/assets/img/multibandexcitation/antonio/laptopantonio1.jpg" height="auto" width="50%"/></a></p>
+<p><img src="/assets/img/updates/ringtonework.jpeg" height="auto" width="50%"/></p>
+
+<h2><i><a href="https://otherkat.com/installation/2024-07-14-shedding-at-gallery-puzi%C4%87.html">shedding</a></i> 合作 <a href="https://gallery-puzic.com/shedding-2/">Gallery Puzić</a>, Saarbruken (2024)</h2>
+
+《脱壳》，萨尔布吕肯 Puzić 画廊（2024）
+
+本作品是对 2021 年作品《shedding femme》的重新演绎，与艺术团体 Inflationary Assets 合作完成。作品探讨女性原型的限制——时尚既是盔甲，也是抹除的手段。
+在类似仪式的拼布剥离中，参与者拆解并重构身份。一个麦克风捕捉每一次剪切与呼吸；声音通过我自制的软件 MagSpect 进行算法颗粒化，将布料、质感与触感转化为声音记忆。
+
+<p><img src="/assets/img/shedding/performance.jpg" height="auto" width="40%"/>
+<img src="/assets/img/shedding/feet.jpg" height="auto" width="40%"/></p>
+<img src="/assets/img/shedding/setup1.jpg" height="auto" width="15%"/>
+<img src="/assets/img/shedding/setup2.jpg" height="auto" width="15%"/> 
+<img src="/assets/img/shedding/holes.jpg" height="auto" width="15%"/>
+<img src="/assets/img/shedding/end1.jpg" height="auto" width="15%"/>
+<img src="/assets/img/shedding/end2.jpg" height="auto" width="15%"/>
+
+<h2><i><a href="https://otherkat.com/performances/2019-12-07-mourning-for-a-dead-moon-with-the-dap-lab.html">mourning for a dead moon</a></i> 与 <a href="https://dap-lab.brunel.ac.uk/">DAP Lab</a> 合作 Artaud Performance Centre (2019)</h2>
+
+与 DAP 实验室合作的《为死去的月亮哀悼》，阿尔托表演中心（2019）
+
+这是一部多媒体舞蹈作品，关注生态紧迫性。作为声音与传感设计师，我创作了原创配乐，并将创作能动性嵌入表演者之中——让技术、身体与地球哀悼之间的张力得以显现。
+
+<img src="/assets/img/mourningforadeadmoon/Moon_Scene4.jpg" height="auto" width="40%"/>
+<img src="/assets/img/mourningforadeadmoon/Moon_Scene2.jpg" height="auto" width="40%"/>
+
+<h2><i><a href="https://otherkat.com/performances/2021-10-23-shedding-femme-at-detritus.html">shedding femme</a></i> 合作 <a href="https://www.tensionfineart.co.uk/detritus-a-day-of-performance-at-tension-23rd-oct-2021/">Detritus, Tension Fine Art Gallery</a> (2021)</h2>
+
+通过剪去由旧衣缝合的拼布，《shedding femme》以内省的方式邀请我们思考自身是由何构成的，以及如何通过剪裁获得自由。
+
+作品分为两个阶段：
+第一阶段中，艺术家独自表演，缓慢剪去织物；
+在晚上的第二阶段，观众被邀请参与，帮助表演者剪除拼布裙。
+
+整个表演过程中，天花板上悬挂着一只麦克风，采集观众与剪切的声音，并通过我自制的软件 MagSpect 进行颗粒化处理，将这些声音转化为新的听觉体验。
+
+<img src="/assets/img/sheddingfemme/midperformance.jpeg" height="auto" width="20%"/>
+<img src="/assets/img/sheddingfemme/endofpart1.jpeg" height="auto" width="20%"/> 
+<img src="/assets/img/sheddingfemme/end.jpeg" height="auto" width="20%"/>
+<img src="/assets/img/sheddingfemme/castoffs.jpeg" height="auto" width="20%"/>
+
+<h2><i><a href="https://otherkat.com/installation/2018-09-11-she-/-they-/-he">She / They / He</a></i> 合作 Metafizikel, Artaud Performance Centre (2018)</h2>
+
+该装置作品基于《性别化的观看 / 广播》理念发展而来，扩展为更完整、更持久的创作。作品聚焦于我的个人身份，将我的身体作为作品不可分割的一部分。
+
+<img src="/assets/img/shetheyhim/movement1.jpeg" height="auto" width="40%"/>
+<img src="/assets/img/shetheyhim/screen1.jpeg" height="auto" width="40%"/>
+<img src="/assets/img/shetheyhim/screen2.jpeg" height="auto" width="40%"/>
+<img src="/assets/img/shetheyhim/scorepost1.jpeg" height="auto" width="40%"/> 
+
+<h2><i><a href="https://otherkat.com/installation/2018-07-09-manipulated-labour-at-peopling">Manipulated Labour</a></i> 合作 <a href="https://www.airsupplycollective.com/">Peopling The Palace (2018)</a> 与 Laura Bradley</h2>
+
+这是一部策划性表演作品，探讨超越异性恋与性别常规关系形式的亲密与互动。
+
+<img src="/assets/img/manlab/video1.png" height="auto" width="30%"/>
+<img src="/assets/img/manlab/video2.png" height="auto" width="30%"/>
+<img src="/assets/img/manlab/colag1.png" height="auto" width="30%"/>
+
+[moon]: https://www.youtube.com/watch?v=I66-b21y8oE&ab_channel=horstjohannes
+[dap]: https://dap-lab.brunel.ac.uk/
+[zhi]: https://zhixu.org/
+[otherkat]: https://otherkat.com/
+[michele]: https://performingdresslab.com/team-member/michele-danjoux/
+[helenna]: https://bura.brunel.ac.uk/bitstream/2438/13752/1/FulltextThesis.pdf
+[macarena]: https://mueoxford.wordpress.com/macarena-ortuzar/
+[yoko]: https://fromeastothebarbican.wordpress.com/artists/yoko-ishiguro/
+[maria]: http://www.mariadada.com/information.php
+[johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
+[galleryp]: https://gallery-puzic.com/en/
+[inflationary]: https://inflationaryassets.com/
+[agnes_cameron]: https://agnescameron.info/
+[johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
+[galleryp]: https://gallery-puzic.com/en/
+[inflationary]: https://inflationaryassets.com/
+[agnes_cameron]: https://agnescameron.info/
+[kat]:https://otherkat.com
+[blog]:https://blog.otherkat.com
+[ia]:https://inflationaryassets.com/
