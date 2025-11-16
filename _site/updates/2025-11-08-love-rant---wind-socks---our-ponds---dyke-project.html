@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link id="stylesheet" rel="stylesheet" href="/css/plainwhite.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>kat</title>
+</head>
+<header>
+  <h1>kat<a href="/bio/">⚇</a>
+  <nav>
+    <a href="/">home</a>
+  	 <a href="/bio/">bio</a>
+     <a href="/upcoming/">upcoming</a>
+      <a href="/works/">work_list</a>
+      <a href="/gallery/">gallery</a>
+      <a href="https://blog.otherkat.com/">blog</a>
+  </nav>
+</header>
+<body>
+    <main>
+      <article>
+        <p><a href="https://agnescameron.info/">Agnes</a> and I constructed a series of wind socks for the <a href="https://www.outsavvy.com/event/31280/whose-ponds-our-ponds-a-morning-of-trans-joy-and-community-on-the-heath">Our Ponds</a> <a href="https://www.instagram.com/thedykeproject/">Dyke Project</a> action at Hampstead Heath, with the slogans; Trans / Rights,  Learn / Love &amp; Our / Ponds. Additionally, I led a small piece called Love Rant, based on <a href="https://www.juliaserano.com/writings.html">Julia Serano’s essay</a> of the same name.</p>
+
+<p><a href="/assets/img/live/ponds.jpeg"><img src="/assets/img/live/ponds.jpeg" height="auto" width="50%" /></a></p>
+
+
+      </article>
+    </main>
+</body>
+<footer>
+      <p>_______________________________</p>
+      <img src="/assets/img/me/kattext.png" height="54px" width="108px" ALIGN="right"/>
+      <p><a href="/contact">contact</a></p>
+      <p><span id="datetime"></span>
+
+      <script>
+       // create a function to update the date and time
+       function updateDateTime() {
+            // create a new 'Date' object
+            const now = new Date();
+
+            //get the current date and time as a string
+            const currentDateTime = now.toLocaleString();
+
+            // update the 'textContent' property of the 'span' element with the 'id' of 'datetime'
+            document.querySelector('#datetime').textContent = currentDateTime;
+       }
+
+            //call the 'updateDateTime' function every second
+            setInterval(updateDateTime, 1000);
+      </script>
+</footer>
+</html>
