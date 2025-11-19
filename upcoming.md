@@ -4,16 +4,16 @@ title: upcoming
 permalink: /upcoming/
 ---
 
-<h2><a href="https://lumbungradio.org/">⚇ ALL IS NOISE ⚇</a></h2>
-<p><b>Location: Online</b></p>
-<p><b>Date: 5pm (CET), 30th of October 2025</b></p>
-<p> My podcast with <a href="https://robidacollective.com/community/people/timo-kreuser">Timo Kreuser</a> will be broadcasting on <a href="https://lumbungradio.org/">Lumbung Radio</a> with a listening session to be hosted at <a href="https://www.instagram.com/20nine30/">20nine30</a>.
+<h2><a href="https://luma.com/symkozub">⚇ LOW STAKES | HIGH SPIRITS ⚇</a></h2>
+<p><b>Location: Crypt of St Giles</b></p>
+<p><b>Date: 7pm (GMT), 2nd of December 2025</b></p>
+<p> Me and Agnes will be doing a little live set at this! Come along!
 </p>
-<a href="/assets/img/posters/allisnoise.png"><img src="/assets/img/posters/allisnoise.png" height="auto" width="50%"/></a>
+<a href="/assets/img/posters/lowstakes.jpg"><img src="/assets/img/posters/lowstakes.jpg" height="auto" width="50%"/></a>
 <br>
 <h2><a href="/bathrooms/">⚇ BATHROOM STUDIES ⚇</a></h2>
 <p><b>Location: REVEALED ON DAY</b></p>
-<p><b>Date: MULTIPLE - REVEALED SHORTLY BEFORE</b></p>
+<p><b>Date: 2026</b></p>
 <p> I'll be performing spontanous happenings in bathrooms in and outside of London as part of <a href="/bathrooms/">bathrooms (study).</a>
 </p>
 <a href="/assets/img/updates/bathrooms.png"><img src="/assets/img/updates/bathrooms.png" height="auto" width="50%"/></a>
@@ -22,6 +22,13 @@ permalink: /upcoming/
 <br>
 <p>__________</p>
 <p><h2><b>ARCHIVE STARTING 03.25</b></h2></p>
+<br>
+<h2><a href="https://lumbungradio.org/">⚇ ALL IS NOISE ⚇</a></h2>
+<p><b>Location: Online</b></p>
+<p><b>Date: 5pm (CET), 30th of October 2025</b></p>
+<p> My podcast with <a href="https://robidacollective.com/community/people/timo-kreuser">Timo Kreuser</a> will be broadcasting on <a href="https://lumbungradio.org/">Lumbung Radio</a> with a listening session to be hosted at <a href="https://www.instagram.com/20nine30/">20nine30</a>.
+</p>
+<a href="/assets/img/posters/allisnoise.png"><img src="/assets/img/posters/allisnoise.png" height="auto" width="50%"/></a>
 <br>
 <h2><a href="https://www.holytrinitynyc.org/switched-on-goldberg">⚇ SWITCHED ON: GOLDBERG ⚇</a></h2>
 <p><b>Location: Holy Trinity Lutheran Church, 3 W 65th St. New York. NY 10023. United States</b></p>
