@@ -11,7 +11,7 @@ layout: home
 		⚇<b> {{ post.title }} ( {{ post.postdate }} )</b> ⚇ {{ post.content }}
 		<br>
 		{% endfor %}
-
+<a href="/updates/">see more...</a>
 <h2>recent performances</h2>
  <div id="post">
 		{% assign performances = site.performances | sort: date | reverse %}
