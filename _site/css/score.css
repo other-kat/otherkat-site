@@ -97,6 +97,29 @@ footer {
    color: #000000;
    font-family: Cotham;
 }
+.accordion {
+  cursor: pointer;
+   color: #000000;
+   text-align: centre;
+   font-size: 2vw;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  background-color: #FBF719;
+  font-family: Cotham;
+}
+.active, .accordion:hover {
+  background-color: #FFFFFF;
+  color:#000000;
+}
+.panel {
+  padding: 0 10px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
 article {
    text-align: center;
    margin-left: 5px;

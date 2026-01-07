@@ -4,24 +4,24 @@ title: upcoming
 permalink: /upcoming/
 ---
 
+<h2><a href="/bathrooms/">⚇ NOISY SPACES @ PHREAKING ⚇</a></h2>
+<p><b>Location: ANNEX By The Koppel Project, 1 Tiverton Street, London SE1 6NT</b></p>
+<p><b>Date: 1pm (GMT), 11th of January 2026</b></p>
+<p> I'll be hosting my performance lecture / workshop Noisy Spaces as park of <a href="https://phreaking.co.uk/about.html">Phreaking Collectives</a> show <a href="https://phreaking.co.uk/">'does cloud compute (ever) precipitate'</a>. Tickets <a href="https://www.eventbrite.co.uk/e/noisy-spaces-workshop-by-kat-macdonald-tickets-1979652367522?aff=oddtdtcreator">here!</a>
+</p>
+<a href="/assets/img/posters/noisyspaces-phreaking.jpeg"><img src="/assets/img/posters/noisyspaces-phreaking.jpeg" height="auto" width="50%"/></a>
+<br>
+<br>
+<br>
+<p>__________</p>
+<p><h2><b>ARCHIVE STARTING 03.25</b></h2></p>
+<br>
 <h2><a href="https://luma.com/symkozub">⚇ LOW STAKES | HIGH SPIRITS ⚇</a></h2>
 <p><b>Location: Crypt of St Giles</b></p>
 <p><b>Date: 7pm (GMT), 2nd of December 2025</b></p>
 <p> Me and Agnes will be doing a little live set at this! Come along!
 </p>
 <a href="/assets/img/posters/lowstakes.jpg"><img src="/assets/img/posters/lowstakes.jpg" height="auto" width="50%"/></a>
-<br>
-<h2><a href="/bathrooms/">⚇ BATHROOM STUDIES ⚇</a></h2>
-<p><b>Location: REVEALED ON DAY</b></p>
-<p><b>Date: 2026</b></p>
-<p> I'll be performing spontanous happenings in bathrooms in and outside of London as part of <a href="/bathrooms/">bathrooms (study).</a>
-</p>
-<a href="/assets/img/updates/bathrooms.png"><img src="/assets/img/updates/bathrooms.png" height="auto" width="50%"/></a>
-<br>
-<br>
-<br>
-<p>__________</p>
-<p><h2><b>ARCHIVE STARTING 03.25</b></h2></p>
 <br>
 <h2><a href="https://lumbungradio.org/">⚇ ALL IS NOISE ⚇</a></h2>
 <p><b>Location: Online</b></p>
@@ -90,4 +90,10 @@ permalink: /upcoming/
 <p> I am running a workshop as part of the <a href="https://lclo.otherkat.com">London Community Laptop Orchestra</a> looking at the art of ringtone composition. This is in aid of a collaboration with artist <a href="https://www.benjijeffrey.com/">Benji Jeffrey</a> on a new piece for the Peckham Chamber Orchestra's Summer Concert.</p>
 <a href="/assets/img/posters/ringtoneworkshop.png"><img src="/assets/img/posters/ringtoneworkshop.png" height="auto" width="50%"/></a>
 <br>
-
+<h2><a href="/bathrooms/">⚇ BATHROOM STUDIES ⚇</a></h2>
+<p><b>Location: REVEALED ON DAY</b></p>
+<p><b>Date: 2026</b></p>
+<p> I'll be performing spontanous happenings in bathrooms in and outside of London as part of <a href="/bathrooms/">bathrooms (study).</a>
+</p>
+<a href="/assets/img/updates/bathrooms.png"><img src="/assets/img/updates/bathrooms.png" height="auto" width="50%"/></a>
+<br>
