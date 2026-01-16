@@ -6,7 +6,7 @@ postdate: January 2026
 categories: blog
 ---
 
-I led a performance lecture for [Phreaking Collectives][phreaking] show [does cloud compute (ever) precipitate][phreakingshow] at ANNEX by [The Koppel Project][koppel]!
+I led a performance lecture for [Phreaking Collective's][phreaking] show [does cloud compute (ever) precipitate][phreakingshow] at ANNEX by [The Koppel Project][koppel]!
 
 <a href="/assets/img/live/noisy-spaces-xach-hill.JPG"><img src="/assets/img/live/noisy-spaces-xach-hill.JPG" height="auto" width="50%"/></a>
 
