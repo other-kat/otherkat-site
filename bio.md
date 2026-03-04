@@ -4,7 +4,7 @@ title: bio
 permalink: /bio/
 ---
 
-[<img src="/assets/img/me/closeup.jpeg" height="auto" width="50%" ALIGN="right"/>](## "photo by Niamh Bennett")
+[<img src="/assets/img/me/nikosme.png" height="auto" width="50%" ALIGN="right"/>](## "photo by Nikos Antonio Kourous Vázquez")
 
 **Kat Macdonald's** work focuses on activations of agency and desire through collective performance, embodied in the conceptualisation and the creation of landscapes of desire.
 
@@ -20,7 +20,7 @@ permalink: /bio/
 
 **Previously know** or made work under the following names: Dee Kathleen Egan, A-Kin, <s>Drew Egan</s> and <s>Andrew Egan</s>.
 
-<a href="https://docs.google.com/spreadsheets/d/1JqpBOtxf0bm9doWVSXUzWrlF9gB2g6pVTU80cvIqGaI/edit?gid=0#gid=0">(kat)hleen macdonald - cv</a>
+<a href="https://docs.google.com/spreadsheets/d/1eW4Md4bzNPhESRkXUn-spO76hKSzAhRS2LxExu8XmCU/edit?usp=sharing">(kat)hleen macdonald - cv</a>
 
 [portfolio][portf]
 

@@ -10,6 +10,8 @@ professional / unprofessional
 
 published / unpublished
 
+all my idea's are made in community, so this list is a way of trying to represent some of that (thought it can never encompass everyone). if i was to give anyone special mention it would be my partner Agnes, as our relationship forever remains a space of bouncing around half formed opinions, ideas and thoughts.
+
 [Agnes Cameron][agnes_cameron]
 
 [Austin Philemon][austin]
