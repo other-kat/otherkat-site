@@ -16,13 +16,13 @@ permalink: /bio/
 
 **She runs the [London Community Laptop Orchestra][lclo] (2024 - ),** an all-abilities, community-organised laptop orchestra, inspired by groups such as the 1969 - 1974 [Scratch Orchestra][scratch], with a focus on [guerrilla performances][guerrilla], using the laptop as a tool for collective creative engagement.
 
-**She has worked as** an artist, a technician, a chef, a sales assistant, a social media manager, a bartender, an art handler, a communications manager, in IT, in convenience stores, in cafes, in galleries, in nightclubs, in advertising, in offices, out of offices, in the field, in the studio, in the garden and internationally.
+**She has worked as** an artist, a technician, a chef, a graphic designer, a web designer, a sales assistant, a social media manager, a bartender, an art handler, a kitchen porter, a communications manager, in IT, in convenience stores, in cafes, in galleries, in nightclubs, in advertising, in offices, out of offices, in the field, in the studio, in the garden and internationally.
 
 **Previously know** or made work under the following names: Dee Kathleen Egan, A-Kin, <s>Drew Egan</s> and <s>Andrew Egan</s>.
 
 <a href="https://docs.google.com/spreadsheets/d/1eW4Md4bzNPhESRkXUn-spO76hKSzAhRS2LxExu8XmCU/edit?usp=sharing">(kat)hleen macdonald - cv</a>
 
-[portfolio][portf]
+[portfolio][portf] - under maintenance
 
 [collaborators][collabs]
 
