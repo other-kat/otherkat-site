@@ -10,13 +10,15 @@ professional / unprofessional
 
 published / unpublished
 
-all my idea's are made in community, so this list is a way of trying to represent some of that (thought it can never encompass everyone). if i was to give anyone special mention it would be my partner Agnes, as our relationship forever remains a space of bouncing around half formed opinions, ideas and thoughts.
+all my ideas are made in community, so this list is a way of trying to represent some of that (thought it can never encompass everyone). if i was to give anyone special mention it would be my partner Agnes, as our relationship forever remains a space of bouncing around half formed opinions, ideas and thoughts.
 
 [Agnes Cameron][agnes_cameron]
 
 [Austin Philemon][austin]
 
 [Benji Jeffrey][benji]
+
+[Bint Mbareh][dina]
 
 [DAP Lab][dap]
 
@@ -28,13 +30,23 @@ all my idea's are made in community, so this list is a way of trying to represen
 
 [Laura Bradley][laura]
 
+[London Community Laptop Orchestra][lclo]
+
+[Lumbung Radio][lumbung]
+
 [Michéle Danjoux][michele]
 
 [Niamh Bennett][niamh]
 
 [Olivia Golding][olivia]
 
+[Peckham Chamber Orchestra][pco]
+
+[Phreaking Collective][phreaking]
+
 [Robida Collective][robida]
+
+[Sophie Mak-Schram][sophie]
 
 [Telepresence Stage][telepresencestage]
 
@@ -65,3 +77,9 @@ this list will never have names removed - only added - isn't that nice :)
 [timo]: https://ausland.berlin/artist/timo-kreuser
 [austin]: https://www.austinphilemon.com/
 [yasamin]: https://www.commonplaygrounds.com/
+[dina]: https://bintmbareh.today/
+[phreaking]: https://phreaking.co.uk/
+[sophie]: https://www.instagram.com/makschram/
+[lclo]: https://lclo.otherkat.com/
+[lumbung]: https://lumbungradio.org/
+[pco]: https://peckhamchamberorchestra.co.uk/
