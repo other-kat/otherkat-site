@@ -10,7 +10,7 @@ permalink: /bio/
 
 **Having received her MA in Experimental Music** from Brunel University in 2018, she has gone on to make work both within collectives and independently, having worked as the resident sound and sensor artist for the [Design And Performance Lab][dap] between 2017 - 2022 under the direction of choreographer and dance technologist [Johannes Birringer][johan] designing custom sound and visual software and working with wearable sensors.
 
-**Making between disciplines,** Kat works with sound, visuals, the web, sculptural work, choreography, scoring and performance, in addition to site-specific installations. **Her work has been shown** internationally at festivals such as DRNA, Lumbung Radio Assembly, Intimidades Públicas, The World Transformed, ICNOVA and more.
+**Making between disciplines,** Kat works with sound, visuals, the web, sculptural work, choreography, scoring and performance, in addition to site-specific installations. **Her work has been shown** internationally at festivals such as DRNA, Lumbung Radio Assembly, Intimidades Públicas (ICNOVA), The World Transformed, and more.
 
 **Her current practice explores** our engagements with space, both public and private, looking at the ways in which privatisation has affected our capacity for self-expression and protest.
 
@@ -25,6 +25,52 @@ permalink: /bio/
 [portfolio][portf] - under maintenance
 
 [collaborators][collabs]
+
+'_________________________________
+
+SELECTED EXHIBITIONS
+
+<p><i>shedding</i> at Gallery Puzic, Saarbruken, Germany - 2024</p>
+<p><i>Work, From Home</i> at Her Home, London, England - 2023</p>
+<p><i>Multi-Band Excitation</i> at Lumbung Radio Assembly, Berlin, Germany - 2025</p>
+<p><i>Multi-Band Excitation</i> at Robida Collective, Topolo, Italy - 2025</p>
+<p><i>Shedding Femme</i> at Detritus, Tension Fine Art, London, England - 2021</p>
+<p><i>She / They / He</i> at Metafizikel, Artaud Performance Centre, London, England - 2018</p>
+<p><i>Manipulated Labour</i> at Peopling The Palace, Peoples Palace, London, England - 2018</p>
+
+'_________________________________
+
+SELECTED PERFORMANCES
+
+<p><i>Noisy Spaces</i> at does cloud compute (ever) precipitate?, ANNEX, The Koppel Project, London, England - 2026</p>
+<p><i>Switched On: Goldberg</i> at Bach Vespers, Holy Trinity Lutheran Church, New York, USA - 2025</p>
+<p><i>Peter and The Wolf And The Hedgehog</i> with the Peckham Chamber Orchestra, Summer Concert, London, England - 2025</p>
+<p><i>a river of no one</i> with the DAP Lab at The Telepresence Stage, Online - 2022</p>
+<p><i>mourning for a dead moon</i> with the DAP Lab at the Artaud Performance Centre, London, England - 2019</p>
+<p><i>X-Body</i> at The Place, London, England - 2019</p>
+
+'_________________________________
+
+SELECTED FESTIVALS
+
+<p>Musica, Manchester, England - 2026</p>
+<p>The World Transformed, Manchester, England - 2025</p>
+<p>Lumbung Radio Assembly, Berlin, Germany - 2025</p>
+<p>Intimidades Públicas, ICNOVA, NOVA Communication Institute, Lisbon, Portugal - 2024</p>
+<p> Designing/Performing Agency for the Anthropocene, Berlin, Germany - 2021</p>
+
+'_________________________________
+
+IN RESIDENCY
+
+<p>Radio Gardening Summer School, Academy of Margins, Robida, Topolo, Italy - 2025</p>
+<p>Teleprencestage Research Project, Digital - 2022</p>
+
+'_________________________________
+
+IN PRINT
+
+<p><i>Narrowcasting: A Multi-Band Narrative</i>, TRANSMISSIONS: Radio Essays on Edges, Crossings and Narrowcasting Borderlands, Robida Collective - 2025</p>
 
 [kat-website]:https://otherkat.com
 [shed]: /performances/2024-07-14-shedding-at-gallery-puzić.html

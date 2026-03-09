@@ -4,6 +4,24 @@ title: gallery
 permalink: /gallery/
 ---
 
+<h2><i>Noisy Spaces @ The Koppel Project</i> with <a href="https://phreaking.co.uk/">Phreaking Collective</a> (2026) - Photos by <a href="https://nikos.kourous.net/">Nikos Kourous</a> & <a href="https://xachhill.com/index.html">Xach Hill</a></h2>
+<a href="/assets/img/me/nikosme.png"><img src="/assets/img/me/nikosme.png" height="auto" width="40%"/></a>
+<a href="/assets/img/noisyspaces/noisyspaces1.jpeg"><img src="/assets/img/noisyspaces/noisyspaces1.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/noisyspaces/noisyspaces2.jpeg"><img src="/assets/img/noisyspaces/noisyspaces2.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/noisyspaces/noisyspaces3.jpeg"><img src="/assets/img/noisyspaces/noisyspaces3.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/noisyspaces/noisyspaces4.jpeg"><img src="/assets/img/noisyspaces/noisyspaces4.jpeg" height="auto" width="40%"/></a>
+
+<h2><i>Radio Set @ <a href="https://luma.com/symkozub">Low Stakes | High Spirits</a></i> with <a href="https://agnescameron.info/">Agnes Cameron</a> (2025) - Photos by <a href="https://mizumasa.net/about.html">Masaru Mizuochi</a></h2>
+<a href="/assets/img/live/lowstakeslive6.jpeg"><img src="/assets/img/live/lowstakeslive6.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/live/lowstakeslive1.jpeg"><img src="/assets/img/live/lowstakeslive1.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/live/lowstakeslive5.jpeg"><img src="/assets/img/live/lowstakeslive5.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/live/lowstakeslive2.jpeg"><img src="/assets/img/live/lowstakeslive2.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/live/lowstakeslive3.jpeg"><img src="/assets/img/live/lowstakeslive3.jpeg" height="auto" width="80%"/></a>
+<video height="auto" width="80%" controls>
+  <source src="/assets/img/live/lowstakeslive.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 <h2><i><a href="https://otherkat.com/installation/multi---band-excitation-(topolò-installation).html">Multi-Band Excitation: A New Piece For Radio</a></i> with <a href="https://agnescameron.info/">Agnes Cameron</a> and Robida Collective in Topolò, Italy (2025) - Photos by <a href="https://antoniofrederico.com/">Antônio Frederico Lasalvia</a></h2>
 <img src="/assets/img/multibandexcitation/antonio/mbeworkantonio1.jpg" height="auto" width="20%"/>
 <img src="/assets/img/multibandexcitation/antonio/mbeworkantonio2.jpg" height="auto" width="20%"/>
