@@ -1,7 +1,7 @@
 ---
 layout: score
 title:  portfolio
-permalink: /portfolio/
+permalink: /portfolioprint/
 ---
 
 <h2><mark>portfolio of notable works</mark></h2>
@@ -34,11 +34,6 @@ For a full reference library see our [are.na project channel][arena]. The first 
 [freealice]: https://www.are.na/block/29403941
 [arena]:https://www.are.na/agnes-cameron/multi-band-excitation
 
-<audio controls>
-  <source src="/assets/scores/music/mbe-clip.mp3" type="audio/mpeg">
-Your browser does not support good sounds.
-</audio> 
-
 <img src="/assets/img/multibandexcitation/antonio/mbeworkantonio1.jpg" height="auto" width="23%"/>
 <img src="/assets/img/multibandexcitation/antonio/mbeworkantonio2.jpg" height="auto" width="23%"/>
 <img src="/assets/img/multibandexcitation/antonio/mbeworkantonio3.jpg" height="auto" width="23%"/>
@@ -70,11 +65,6 @@ Below is a recording of one of the rehearsals.
 [djh]:https://en.wikipedia.org/wiki/Donna_Haraway
 [ssasaswt]: https://www.jstor.org/stable/10.5749/j.ctt1qft070
 [mr]: https://more-roar.agnescameron.info/index.html
-
-<audio controls>
-  <source src="/assets/scores/music/ptwthrehearsalending.mp3" type="audio/mpeg">
-Your browser does not support good sounds.
-</audio> 
 
 <a href="/assets/img/updates/pwh-live.png"><img src="/assets/img/updates/pwh-live.png" height="auto" width="45%"/><a href="/assets/scores/music/symp-clear.png"><img src="/assets/scores/music/symp-clear.png" height="auto" width="45%"/></a>
 
@@ -126,13 +116,7 @@ She / They / Him (2018) was proposed as an installation piece, taking ideas from
 <img src="/assets/img/shetheyhim/screen2.jpeg" height="auto" width="40%"/>
 <img src="/assets/img/shetheyhim/scorepost1.jpeg" height="auto" width="40%"/> 
 
-<h2><i><a href="https://otherkat.com/installation/2018-07-09-manipulated-labour-at-peopling">Manipulated Labour</a></i> at <a href="https://www.airsupplycollective.com/">Peopling The Palace (2018)</a> with Laura Bradley</h2>
 
-*Manipulated Labour* is a devised performance piece exploring the intimacy and interplay between couples falling outside of hetronormative and gender normative forms.
-
-<img src="/assets/img/manlab/video1.png" height="auto" width="30%"/>
-<img src="/assets/img/manlab/video2.png" height="auto" width="30%"/>
-<img src="/assets/img/manlab/colag1.png" height="auto" width="30%"/>
 
 [moon]: https://www.youtube.com/watch?v=I66-b21y8oE&ab_channel=horstjohannes
 [dap]: https://dap-lab.brunel.ac.uk/
