@@ -6,9 +6,11 @@ permalink: /upcoming/
 <h2><a href="https://www.instagram.com/p/DVd5i_6iuX6/">⚇ AGAINST THE CLOCK</a> WITH <a href="https://bintmbareh.today/">BINT MBAREH</a> & <a href="https://lclo.otherkat.com/"> LCLO ⚇</a></h2>
 <p><b>Location: Vespers, Peckham</b></p>
 <p><b>Date: 20th of March 2026</b></p>
+<p><b>Time: 7pm</b></p>
 <p> Along with artist Bint Mbareh, I'll be leading the London Community Laptop Orchestra in a participatory performance. Bring a friend, bring a laptop.
 </p>
-<a href="/assets/img/live/noisy-spaces-xach-hill2.jpeg"><img src="/assets/img/live/noisy-spaces-xach-hill2.jpeg" height="auto" width="50%"/></a>
+<p><b><a href="https://gel.now/events/73">Ticket Link</a></b></p>
+<a href="/assets/img/posters/atcposter.jpeg"><img src="/assets/img/posters/atcposter.jpeg" height="auto" width="50%"/></a>
 <br>
 <p>__________</p>
 <p><h2><b>ARCHIVE STARTING 03.25</b></h2></p>
