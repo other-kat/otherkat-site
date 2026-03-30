@@ -6,13 +6,13 @@ permalink: /bio/
 
 [<img src="/assets/img/me/nikosme.png" height="auto" width="50%" ALIGN="right"/>](## "photo by Nikos Antonio Kourous Vázquez")
 
-**Kat Macdonald's** work focuses on activations of agency and desire through collective performance, pedagogy and antropology as represented in the creation of landscapes of desire.
+**Kat Macdonald's** work focuses on the use of technology to examine activitations of agency, particularly looking at space, community and pedagogy. Part of this is also engaging holistically with technology in analysing the ways it can shape our thinking and engagement.
 
 **Having received her MA in Experimental Music** from Brunel University in 2018, she has gone on to make work both within collectives and independently, having worked as the resident sound and sensor artist for the [Design And Performance Lab][dap] between 2017 - 2022 under the direction of choreographer and dance technologist [Johannes Birringer][johan] designing custom sound and visual software and working with wearable sensors. During this time a core concern of her practice was generative and indeterminate compositions, relying on live-data to create free-form sonic environments.
 
 **Making between disciplines,** Kat works with sound, visuals, the web, sculptural work, choreography, scoring and performance, in addition to site-specific installations. **Her work has been shown** internationally at festivals such as DRHA, Lumbung Radio Assembly, Intimidades Públicas (ICNOVA), The World Transformed, and more.
 
-**Her current practice explores** our engagements with space, both public and private, looking at the ways in which privatisation has affected our capacity for self-expression and protest. Through this she wishes to take seriously that which is lost in the aim of progress, to inform more holistic and nuanced understandings of contemporary landscapes.
+**Her current practice explores** our engagements with space, both public and private, looking at the ways in which privatisation has affected our capacity for self-expression and protest. She looks to create activations of agency and desire through collective performance, pedagogy and antropology as represented in the creation of landscapes of desire.
 
 **She runs the [London Community Laptop Orchestra][lclo] (2024 - ),** an all-abilities, community-organised laptop orchestra, inspired by groups such as the 1969 - 1974 [Scratch Orchestra][scratch], with a focus on [guerrilla performances][guerrilla], using the laptop as a tool for collective creative engagement.
 
