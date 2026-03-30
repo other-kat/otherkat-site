@@ -12,7 +12,7 @@ permalink: /bio/
 
 **Making between disciplines,** Kat works with sound, visuals, the web, sculptural work, choreography, scoring and performance, in addition to site-specific installations. **Her work has been shown** internationally at festivals such as DRHA, Lumbung Radio Assembly, Intimidades Públicas (ICNOVA), The World Transformed, and more.
 
-**Her current practice explores** our engagements with space, both public and private, looking at the ways in which privatisation has affected our capacity for self-expression and protest. She looks to create activations of agency and desire through collective performance, pedagogy and antropology as represented in the creation of landscapes of desire.
+**Her current practice explores** our engagements with space, both public and private, looking at the ways in which privatisation has affected our capacity for self-expression and protest. She looks to create activations of agency and desire through collective performance, pedagogy and anthropology as represented in the creation of landscapes of desire.
 
 **She runs the [London Community Laptop Orchestra][lclo] (2024 - ),** an all-abilities, community-organised laptop orchestra, inspired by groups such as the 1969 - 1974 [Scratch Orchestra][scratch], with a focus on [guerrilla performances][guerrilla], using the laptop as a tool for collective creative engagement.
 
