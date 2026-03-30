@@ -6,7 +6,7 @@ permalink: /bio/
 
 [<img src="/assets/img/me/nikosme.png" height="auto" width="50%" ALIGN="right"/>](## "photo by Nikos Antonio Kourous Vázquez")
 
-**Kat Macdonald's** work focuses on the use of technology to examine activitations of agency, particularly looking at space, community and pedagogy. Engaging holistically with technology to critique the ways in which it can shape culture and practice.
+**Kat Macdonald's** work focuses on the use of technology to examine activations of agency, particularly looking at space, community and pedagogy. Engaging holistically with technology to critique the ways in which it can shape culture and practice.
 
 **Having received her MA in Experimental Music** from Brunel University in 2018, she has gone on to make work both within collectives and independently, having worked as the resident sound and sensor artist for the [Design And Performance Lab][dap] between 2017 - 2022 under the direction of choreographer and dance technologist [Johannes Birringer][johan] designing custom sound and visual software and working with wearable sensors. During this time a core concern of her practice was generative and indeterminate compositions, relying on live-data to create free-form sonic environments.
 
