@@ -41,6 +41,11 @@ collections:
     output: true
   updates:
     output: true
+  scores:
+    output: true
+  writing:
+    output: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

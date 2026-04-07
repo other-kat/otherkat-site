@@ -76,6 +76,35 @@ footer {
   overflow: hidden;
   transition: max-height 0.2s ease-out;
 }
+.sel {
+  cursor: pointer;
+   text-align: left;
+   font-size: 2vw;
+  padding: 3px;
+  width: 100%;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  background-color: rgba(255, 255, 255, 0);
+}
+.sel.active {
+  background-color: #ff0000;
+  color: #FFFFFF;
+}
+.sel:hover {
+  background-color: #ff0000;
+  color:#FFFFFF;
+}
+.row {
+  display: flex;
+}
+.column {
+  flex: 50%;
+}
+.exp{
+ visibility:hidden;
+}
+
 article {
    text-align: left;
    margin-left: 5px;
@@ -96,6 +125,7 @@ imageContainer {
 }
 h2 {
    font-family: Cotham;
+   font-size: 3vw;
 }
 
 :root {
@@ -116,6 +146,9 @@ h2 {
    .accordion {
   color:#FFFFFF;
 }
+.sel {
+  color:#FFFFFF;
+}
    a {
       color: #a4dd00;
    }
@@ -126,6 +159,14 @@ h2 {
    font-size: 2vw;
 }
 .active, .accordion:hover {
+  background-color: #a4dd00;
+  color:#1e1e1e;
+}
+.sel.active {
+  background-color: #a4dd00;
+  color:#1e1e1e;
+}
+.sel:hover {
   background-color: #a4dd00;
   color:#1e1e1e;
 }
@@ -145,6 +186,9 @@ footer {
   }
   h1 {
    font-size: 6vw;
+  }
+  h2 {
+   font-size: 5vw;
   }
   nav a {
    font-size: 4vw;

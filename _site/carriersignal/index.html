@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link id="stylesheet" rel="stylesheet" href="/css/score.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>kat</title>
+</head>
+<body>
+    <main>
+      <article>
+        <h1><i>Carrier Signal</i></h1>
+
+<p>By <a href="https://otherkat.com">Kat Macdonald</a></p>
+
+<p>Duration: ~7 minutes</p>
+
+<p>Written for the UH Gamelan Ensemble</p>
+
+<p>Accessibility - <mark>Easy</mark></p>
+
+<p>Tuning (Based on Javanese Gamelan) - 1 = D / 2 = E (half flat) / 3 = F / 4 = A (half flat) / 5 = A / 6 = Bb / 7 = C</p>
+
+<p><a href="/assets/scores/music/carriersignal1.png"><img src="/assets/scores/music/carriersignal1.png" height="283" width="497" /></a></p>
+
+<p><a href="/assets/scores/music/carriersignal2.png"><img src="/assets/scores/music/carriersignal2.png" height="301" width="498" /></a></p>
+
+<p><a href="/scores/">return?</a></p>
+
+
+      </article>
+    </main>
+</body>
+<footer>
+      <p>_______________________________</p>
+      <p><a href="/contact">contact</a></p>
+      <p><span id="datetime"></span>
+
+      <script>
+       // create a function to update the date and time
+       function updateDateTime() {
+            // create a new 'Date' object
+            const now = new Date();
+
+            //get the current date and time as a string
+            const currentDateTime = now.toLocaleString();
+
+            // update the 'textContent' property of the 'span' element with the 'id' of 'datetime'
+            document.querySelector('#datetime').textContent = currentDateTime;
+       }
+
+            //call the 'updateDateTime' function every second
+            setInterval(updateDateTime, 1000);
+      </script>
+</footer>
+</html>
