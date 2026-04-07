@@ -6,7 +6,7 @@ permalink: /bio/
 
 [<img src="/assets/img/me/nikosme.png" height="auto" width="50%" ALIGN="right"/>](## "photo by Nikos Antonio Kourous Vázquez")
 
-**Kat Macdonald's** work focuses on the use of technology to examine activations of agency, particularly looking at space, community and pedagogy. Engaging holistically with technology to critique the ways in which it can shape culture and practice.
+**Kat Macdonald** is a London-based sound and performance artist exploring collective practice, desire and public space, through technology, transmission and performance. Her work focuses on the use of technology to examine activations of agency, particularly looking at space, community and pedagogy, engaging holistically with technology to critique the ways in which it can shape culture and practice.
 
 **Having received her MA in Experimental Music** from Brunel University in 2018, she has gone on to make work both within collectives and independently, having worked as the resident sound and sensor artist for the [Design And Performance Lab][dap] between 2017 - 2022 under the direction of choreographer and dance technologist [Johannes Birringer][johan] designing custom sound and visual software and working with wearable sensors. During this time a core concern of her practice was generative and indeterminate compositions, relying on live-data to create free-form sonic environments.
 
@@ -14,7 +14,7 @@ permalink: /bio/
 
 **Her current practice explores** our engagements with space, both public and private, looking at the ways in which privatisation has affected our capacity for self-expression and protest. She looks to create activations of agency and desire through collective performance, pedagogy and anthropology as represented in the creation of landscapes of desire.
 
-**She runs the [London Community Laptop Orchestra][lclo] (2024 - ),** an all-abilities, community-organised laptop orchestra, inspired by groups such as the 1969 - 1974 [Scratch Orchestra][scratch], with a focus on [guerrilla performances][guerrilla], using the laptop as a tool for collective creative engagement.
+**She is the founder and organiser of the [London Community Laptop Orchestra][lclo] (2024 - ),** an all-abilities, community-organised laptop orchestra, inspired by groups such as the 1969 - 1974 [Scratch Orchestra][scratch], with a focus on [guerrilla performances][guerrilla], using the laptop as a tool for collective creative engagement.
 
 **She has worked as** an artist, a technician, a chef, a graphic designer, a web designer, a sales assistant, a social media manager, a bartender, an art handler, a kitchen porter, a communications manager, in IT, in convenience stores, in cafes, in galleries, in nightclubs, in advertising, in offices, out of offices, in the field, in the studio, in the garden and internationally.
 
