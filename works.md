@@ -1,38 +1,65 @@
 ---
 layout: page
 title: works
-permalink: /works/
+permalink: /research/
 ---
 
-<section id="sounds" class="section">
-    <button class="accordion"><h2>sounds ☈</h2></button>
+<section id="collective practice" class="section">
+    <button class="accordion"><h2>collective practice ☈</h2></button>
 <div class="panel">
 	<br>
-<div id="post">
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3755397469/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/track/digital-forestry-wav">digital_forestry.wav by kat</a></iframe>
-
-<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=3220256511/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/rathausbells-wav">rathausbells.wav by kat</a></iframe>
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=598089467/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/track/internal-revolution-wav">internal_revolution.wav by kat</a></iframe>
-
-<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=244193756/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/26-05-24-wav">26_05_24.wav by kat</a></iframe>
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3836473507/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/track/shower-thoughts">shower_thoughts by kat</a></iframe>
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2571616401/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/swimming-in-a-puddle">Swimming In A Puddle by kat</a></iframe>
-
-<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=2528187894/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/rough-cuts">Rough Cuts by kat</a></iframe>
+<section id="collective practice sounds" class="section">
+    <button class="accordion"><article>sounds</article></button>
+	<div class="panel">
+	<br>
 
 <iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=1992473751/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/the-river-of-no-one-original-score">the river of no one - Original Score by kat</a></iframe>
 
 <iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=986813751/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/x-body-original-score">X-Body: Original Score by kat</a></iframe>
 
-<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3770452780/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/environments-ii">Environments II by kat</a></iframe>
+</div></section>
 
-<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=293523769/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/environments">Environments by kat</a></iframe>
+<section id="collective practice works" class="section">
+    <button class="accordion"><article>works</article></button>
+	<div class="panel">
+	<br>
+ <div id="post">
+		{% assign performances = site.performances | sort: date | reverse %}
+		{% if post.status == 'published' %}
+		{% endif %}
+		{% for post in performances limit:100  %}
+<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
+		{% endfor %}
+</div>
+</div></section>
 
-<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=4172223964/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/songs-to-sleep-i">Songs To Sleep: I by kat</a></iframe>
+<section id="collective practice writing" class="section">
+    <button class="accordion"><article>writing</article></button>
+	<div class="panel">
+	<br>
+
+</div></section>
+
+<br>
+
+</div></section>
+
+<section id="desire & identity" class="section">
+    <button class="accordion"><h2>desire & identity ☈</h2></button>
+<div class="panel">
+	<br>
+
+<section id="desire sounds" class="section">
+    <button class="accordion"><article>sounds</article></button>
+	<div class="panel">
+	<br>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=598089467/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/track/internal-revolution-wav">internal_revolution.wav by kat</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3836473507/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/track/shower-thoughts">shower_thoughts by kat</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2571616401/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/swimming-in-a-puddle">Swimming In A Puddle by kat</a></iframe>
 
 <iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=2893270393/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/reaching">Reaching by kat</a></iframe>
 
@@ -45,17 +72,12 @@ permalink: /works/
 <iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=1800306990/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/tit-envy">Tit Envy by kat</a></iframe>
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2257852684/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/track/n-i-k">N I K by kat</a></iframe>
-<br>
-<p><a href="https://freesound.org/people/other_kat/">samples</a></p>
-<p><a href="https://other-kat.bandcamp.com/">bandcamp</a></p>
-<br>
-</div>
-</div>
-</section>
 
-<section id="performances" class="section">
-    <button class="accordion"><h2>performances ☈</h2></button>
-<div class="panel">
+</div></section>
+
+<section id="desire works" class="section">
+    <button class="accordion"><article>works</article></button>
+	<div class="panel">
 	<br>
  <div id="post">
 		{% assign performances = site.performances | sort: date | reverse %}
@@ -65,56 +87,73 @@ permalink: /works/
 <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
 		{% endfor %}
 </div>
+</div></section>
+
+<section id="desire writing" class="section">
+    <button class="accordion"><article>writing</article></button>
+	<div class="panel">
+	<br>
+
+</div></section>
+
+<br>
+
 </div>
 </section>
 
-<section id="installations" class="section">
-    <button class="accordion"><h2>installations ☈</h2></button>
+<section id="collective practice" class="section">
+    <button class="accordion"><h2>public space ☈</h2></button>
 <div class="panel">
 	<br>
+
+<section id="public sounds" class="section">
+    <button class="accordion"><article>sounds</article></button>
+	<div class="panel">
+	<br>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3755397469/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/track/digital-forestry-wav">digital_forestry.wav by kat</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=3220256511/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/rathausbells-wav">rathausbells.wav by kat</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=244193756/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/26-05-24-wav">26_05_24.wav by kat</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=2528187894/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/rough-cuts">Rough Cuts by kat</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3770452780/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/environments-ii">Environments II by kat</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=293523769/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/environments">Environments by kat</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=4172223964/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://other-kat.bandcamp.com/album/songs-to-sleep-i">Songs To Sleep: I by kat</a></iframe>
+
+</div></section>
+
+<section id="public works" class="section">
+    <button class="accordion"><article>works</article></button>
+	<div class="panel">
+	<br>
  <div id="post">
-		{% assign installation = site.installation | sort: date | reverse %}
+		{% assign performances = site.performances | sort: date | reverse %}
 		{% if post.status == 'published' %}
 		{% endif %}
-		{% for post in installation limit:100  %}
+		{% for post in performances limit:100  %}
 <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
 		{% endfor %}
 </div>
-</div>
-</section>
+</div></section>
 
-<section id="video art" class="section">
-    <button class="accordion"><h2>video art ☈</h2></button>
-<div class="panel">
+<section id="public writing" class="section">
+    <button class="accordion"><article>writing</article></button>
+	<div class="panel">
 	<br>
- <div id="post">
-		{% assign video = site.video | sort: date | reverse %}
-		{% if post.status == 'published' %}
-		{% endif %}
-		{% for post in video limit:100  %}
-<a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br><br>
-		{% endfor %}
-</div>
-</div>
-</section>
 
-<section id="scores" class="section">
-    <button class="accordion"><h2>scores ☈</h2></button>
-<div class="panel">
-	<br>
-<div id="post">
-		{% assign scores = site.scores | sort: date | reverse %}
-		{% for post in scores limit:100  %}
-		{% if scores.status == 'Easy' %}
-		{% endif %}
-<a href="{{ post.url }}">{{ post.title }} - {{ post.postdate | date: "%Y" }}</a><br><br>
-		{% endfor %}
-</div>
-</div>
-</section>
+</div></section>
+
+<br>
+
+</div></section>
 
 <section id="experiments" class="section">
-    <button class="accordion"><h2>experiments / workshops ☈</h2></button>
+    <button class="accordion"><h2>experiments ☈</h2></button>
 <div class="panel">
 	<br>
  <div id="post">
@@ -125,35 +164,12 @@ permalink: /works/
 <a href="{{ post.url }}">{{ post.title }}</a><br><br>
 		{% endfor %}
 </div>
+
+<br>
+
 </div>
 </section>
 
-<section id="software" class="section">
-    <button class="accordion"><h2>software ☈</h2></button>
-<div class="panel">
-	<br>
- <div id="post">
-		{% assign software = site.software | sort: date | reverse %}
-		{% if post.status == 'published' %}
-		{% endif %}
-		{% for post in software limit:100  %}
-<a href="{{ post.url }}">{{ post.title }}</a><br><br>
-		{% endfor %}
-</div>
-</div>
-</section>
-
-<section id="writing" class="section">
-    <button class="accordion"><h2>writing ☈</h2></button>
-<div class="panel">
-	<br>
-	<a href="/writings/2026-01-15-narrowcasting---a-multi-band-narrative">Narrowcasting: A Multi-Band Narrative for Robida Collectives TRANSMISSIONS: Radio Essays on Edges, Crossings and Narrowcasting Borderlands publication.</a>
-<br>
-<br>
-<a href="/writings/2023-11-27-Your-Post-Goes-Against-Our-Community-Guidelines">Your Post Goes Against Our Community Guidelines: an I Love Or Hate Everyday (2022-2023) - Autoethnography</a>
-<br>
-</div>
-</section>
 <script>
     var acc = document.getElementsByClassName("accordion");
 var i;

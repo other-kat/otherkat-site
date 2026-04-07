@@ -31,27 +31,15 @@ plugins:
 collections_dir: collections
 
 collections:
-  performances:
+  collective:
     output: true
-  video:
+  desire:
     output: true
-  installation:
+  space:
     output: true
-  writings:
+  experiments:
     output: true
   updates:
-    output: true
-  projects:
-    output: true
-  software:
-    output: true
-  rehearsals:
-    output: true
-  scores:
-    output: true
-  progress:
-    output: true
-  notes:
     output: true
 
 # Exclude from processing.

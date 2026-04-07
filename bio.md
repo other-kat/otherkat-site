@@ -21,10 +21,14 @@ permalink: /bio/
 **Previously know** or made work under the following names: Dee Kathleen Egan, A-Kin, <s>Drew Egan</s> and <s>Andrew Egan</s>.
 
 <a href="https://docs.google.com/spreadsheets/d/1eW4Md4bzNPhESRkXUn-spO76hKSzAhRS2LxExu8XmCU/edit?usp=sharing">(kat)hleen macdonald - cv</a>
+<a href="https://other-kat.bandcamp.com/">bandcamp</a>
+<a href="https://freesound.org/people/other_kat/">samples</a>
 
 [portfolio][portf] - under maintenance
 
 [collaborators][collabs]
+
+
 
 '_________________________________
 
