@@ -41,56 +41,53 @@ layout: home
 </div>
 
 <script>
-console.log("script is running");
-</script>
+document.addEventListener("DOMContentLoaded", function () {
 
-<script>
-console.log("starting fetch...");
+  // Use proxy to avoid CORS issues
+  const feedURL = "https://api.allorigins.win/raw?url=" + encodeURIComponent("https://blog.otherkat.com/feed.xml");
 
-fetch('https://api.allorigins.win/raw?url=' + encodeURIComponent('https://blog.otherkat.com/feed.xml'))
-  .then(res => {
-    console.log("response:", res);
-    return res.text();
-  })
-  .then(str => {
-    console.log("got XML:", str.slice(0, 200)); // preview first 200 chars
+  fetch(feedURL)
+    .then(res => res.text())
+    .then(str => {
+      // Parse XML safely
+      const parser = new DOMParser();
+      const xml = parser.parseFromString(str, "application/xml");
 
-    const parser = new DOMParser();
-    const xml = parser.parseFromString(str, "text/xml");
+      const items = xml.querySelectorAll("item");
+      const container = document.getElementById("blog");
 
-    const items = xml.querySelectorAll("item");
-    console.log("items found:", items.length);
+      if (!container) return;
 
-    const container = document.getElementById("blog");
+      items.forEach((item, index) => {
+        if (index >= 2) return; // only 2 latest posts
 
-    if (!container) {
-      console.error("NO #blog ELEMENT FOUND");
-      return;
-    }
+        const title = item.querySelector("title")?.textContent || "Untitled";
+        const link = item.querySelector("link")?.textContent || "#";
+        const pubDate = item.querySelector("pubDate")?.textContent || "";
+        const date = pubDate ? new Date(pubDate) : null;
 
-    items.forEach((item, index) => {
-      if (index < 2) {
-        const title = item.querySelector("title")?.textContent;
-        const link = item.querySelector("link")?.textContent;
-        const dateText = item.querySelector("pubDate")?.textContent;
-
-        console.log("post:", title);
-
-        if (!title || !link || !dateText) return;
-
-        const date = new Date(dateText);
+        // Extract content / description safely
+        let content = item.querySelector("description")?.textContent || "";
+        // Strip HTML tags
+        const temp = document.createElement("div");
+        temp.innerHTML = content;
+        content = temp.textContent || "";
+        // Get first 50 words
+        const excerpt = content.split(/\s+/).slice(0, 50).join(" ") + (content ? "..." : "");
 
         container.innerHTML += `
-          <a href="${link}">
-            ${(date.getMonth()+1)}/${date.getFullYear().toString().slice(-2)}:
-            ${title} →
-          </a><br>
+          <div class="blog-preview">
+            <a href="${link}">
+              ${date ? (date.getMonth()+1) + "/" + date.getFullYear().toString().slice(-2) : ""}: 
+              ${title} →
+            </a>
+            <p>${excerpt}</p>
+          </div>
         `;
-      }
-    });
-  })
-  .catch(err => {
-    console.error("FETCH FAILED:", err);
-  });
+      });
+    })
+    .catch(err => console.error("Failed to fetch blog feed:", err));
+
+});
 </script>
 
