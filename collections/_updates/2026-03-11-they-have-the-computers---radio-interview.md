@@ -8,7 +8,7 @@ categories: blog
 
 the wonderful [Genia][genia] intereviewed me for their project on permacomputing and sound for [rtm.fm][rtmfm]! give it a [listen][here]!
 
-<a href="/assets/img/posters/theyhavethecomputers.png"><img src="/assets/img/posters/theyhavethecomputers.png" height="auto" width="50%"/></a>
+<a href="/assets/img/posters/theyhavethecomputers.png"><img src="/assets/img/posters/theyhavethecomputers.png" height="auto" width="40%"/></a>
 
 [genia]: https://www.instagram.com/evisachenko/
 [rtmfm]: https://rtm.fm/

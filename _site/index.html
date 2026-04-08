@@ -20,33 +20,85 @@
 <body>
     <main>
       <article>
-        <h2>updates</h2>
-<div id="post">
+        <div class="row">
+        <div class="column left">
+
+<h2>updates</h2>
+ <div id="post">
 		
 		
 		
 		⚇<b> they have the computers - radio interview ( March 2026 )</b> ⚇ <p>the wonderful <a href="https://www.instagram.com/evisachenko/">Genia</a> intereviewed me for their project on permacomputing and sound for <a href="https://rtm.fm/">rtm.fm</a>! give it a <a href="https://rtm.fm/listen/theyhavethecomputers/they-have-the-computers_mar26/">listen</a>!</p>
 
-<p><a href="/assets/img/posters/theyhavethecomputers.png"><img src="/assets/img/posters/theyhavethecomputers.png" height="auto" width="50%" /></a></p>
+<p><a href="/assets/img/posters/theyhavethecomputers.png"><img src="/assets/img/posters/theyhavethecomputers.png" height="auto" width="40%" /></a></p>
 
 
 		<br />
 		
 		⚇<b> noisy spaces - musica manchester university ( March 2026 )</b> ⚇ <p>I performed my performance lecture Noisy Spaces at Musica Festival hosted at Manchester University!</p>
 
-<p><a href="/assets/img/updates/musicalclo.jpeg"><img src="/assets/img/updates/musicalclo.jpeg" height="auto" width="50%" /></a></p>
+<p><a href="/assets/img/updates/musicalclo.jpeg"><img src="/assets/img/updates/musicalclo.jpeg" height="auto" width="40%" /></a></p>
 
 		<br />
 		
 		⚇<b> narrowcasting: a multi-band narrative ( January 2026 )</b> ⚇ <p><a href="https://agnescameron.info/">Agnes</a> and I wrote an essay / technical document / manifesto / assemblage text called Narrowcasting thats just been published in <a href="https://robidacollective.com/">Robida Collective’s</a> new book Transmissions: Radio Essays on Edges, Crossings and Narrowcasting Borderlands. Available <a href="https://robidacollective.com/projects/publications/transmissions-radio-essays-on-edges-crossings-and-narrowcasting-borderlands">here</a>!</p>
 
-<p><a href="/assets/img/updates/transmissions.png"><img src="/assets/img/updates/transmissions.png" height="auto" width="50%" /></a></p>
+<p><a href="/assets/img/updates/transmissions.png"><img src="/assets/img/updates/transmissions.png" height="auto" width="40%" /></a></p>
 
 
 		<br />
 		
 <a href="/updates/">see more...</a>
+
+</div></div>
+
+<div class="column right">
+
+<p><h2>upcoming</h2></p>
+
+<p>more performances coming soon</p>
+
+<p><a href="/upcoming/">see all...</a></p>
+
+<p>__________</p>
+
+<p><h2>blog</h2></p>
+
+<div id="blog"></div>
+
+<p><a href="https://blog.otherkat.com/">see all...</a></p>
+
+<p>__________</p>
+
 </div>
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+
+$.get('https://api.allorigins.win/get?url=' + encodeURIComponent('https://blog.otherkat.com/feed.xml'), function (response) {
+    const data = response.contents;
+    const xml = $(data);
+
+    xml.find("item").each(function (index) {
+        var post = $(this);
+        let date = new Date(post.find("pubDate").text());
+
+        if (index < 5) {
+            $('#blog').append(
+                `<a href="${post.find("link").text()}">
+                ${(date.getMonth() + 1)}/${date.getFullYear().toString().slice(-2)}:
+                ${post.find("title").text()} →
+                </a><br>`
+            );
+        }
+    });
+});
+
+</script>
+
 
       </article>
     </main>
