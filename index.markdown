@@ -40,28 +40,57 @@ layout: home
 
 </div>
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+console.log("script is running");
+</script>
 
 <script>
+console.log("starting fetch...");
 
-$.get('https://api.allorigins.win/get?url=' + encodeURIComponent('https://blog.otherkat.com/feed.xml'), function (response) {
-    const data = response.contents;
-    const xml = $(data);
+fetch('https://api.allorigins.win/raw?url=' + encodeURIComponent('https://blog.otherkat.com/feed.xml'))
+  .then(res => {
+    console.log("response:", res);
+    return res.text();
+  })
+  .then(str => {
+    console.log("got XML:", str.slice(0, 200)); // preview first 200 chars
 
-    xml.find("item").each(function (index) {
-        var post = $(this);
-        let date = new Date(post.find("pubDate").text());
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(str, "text/xml");
 
-        if (index < 5) {
-            $('#blog').append(
-                `<a href="${post.find("link").text()}">
-                ${(date.getMonth() + 1)}/${date.getFullYear().toString().slice(-2)}:
-                ${post.find("title").text()} →
-                </a><br>`
-            );
-        }
+    const items = xml.querySelectorAll("item");
+    console.log("items found:", items.length);
+
+    const container = document.getElementById("blog");
+
+    if (!container) {
+      console.error("NO #blog ELEMENT FOUND");
+      return;
+    }
+
+    items.forEach((item, index) => {
+      if (index < 2) {
+        const title = item.querySelector("title")?.textContent;
+        const link = item.querySelector("link")?.textContent;
+        const dateText = item.querySelector("pubDate")?.textContent;
+
+        console.log("post:", title);
+
+        if (!title || !link || !dateText) return;
+
+        const date = new Date(dateText);
+
+        container.innerHTML += `
+          <a href="${link}">
+            ${(date.getMonth()+1)}/${date.getFullYear().toString().slice(-2)}:
+            ${title} →
+          </a><br>
+        `;
+      }
     });
-});
-
+  })
+  .catch(err => {
+    console.error("FETCH FAILED:", err);
+  });
 </script>
 
