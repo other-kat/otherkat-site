@@ -1,0 +1,19 @@
+{% comment %}
+Fetches the latest 2 posts from blog RSS at build time
+{% endcomment %}
+
+{% capture rss_url %}https://blog.otherkat.com/feed.xml{% endcapture %}
+
+{% assign feed = rss_url | xml %} {# Using jekyll-xml plugin or xml filter #}
+
+{% for item in feed.channel.item limit:2 %}
+  {% assign title = item.title | xml_escape %}
+  {% assign link = item.link | xml_escape %}
+  {% assign description = item.description | strip_html | truncatewords:50 %}
+  {% assign pub_date = item.pubDate | date: "%m/%y" %}
+
+  <div class="blog-preview">
+    <a href="{{ link }}">{{ pub_date }}: {{ title }} →</a>
+    <p>{{ description }}</p>
+  </div>
+{% endfor %}

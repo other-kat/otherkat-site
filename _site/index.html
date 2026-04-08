@@ -7,7 +7,7 @@
 	<title>kat</title>
 </head>
 <header>
-  <h1>kat<a href="/collaborators/">⚇</a>
+  <h1 align="center">kat<a href="/collaborators/">⚇</a>
   <nav>
     <a href="/">home</a>
   	 <a href="/bio/">bio</a>
@@ -28,20 +28,20 @@
 		
 		⚇<b> they have the computers - radio interview ( March 2026 )</b> ⚇ <p>the wonderful <a href="https://www.instagram.com/evisachenko/">Genia</a> intereviewed me for their project on permacomputing and sound for <a href="https://rtm.fm/">rtm.fm</a>! give it a <a href="https://rtm.fm/listen/theyhavethecomputers/they-have-the-computers_mar26/">listen</a>!</p>
 
-<p><a href="/assets/img/posters/theyhavethecomputers.png"><img src="/assets/img/posters/theyhavethecomputers.png" height="auto" width="40%" /></a></p>
+<p><a href="/assets/img/posters/theyhavethecomputers.png"><img src="/assets/img/posters/theyhavethecomputers.png" height="auto" width="80%" /></a></p>
 
 
 		<br />
 		
 		⚇<b> noisy spaces - musica manchester university ( March 2026 )</b> ⚇ <p>I performed my performance lecture Noisy Spaces at Musica Festival hosted at Manchester University!</p>
 
-<p><a href="/assets/img/updates/musicalclo.jpeg"><img src="/assets/img/updates/musicalclo.jpeg" height="auto" width="40%" /></a></p>
+<p><a href="/assets/img/updates/musicalclo.jpeg"><img src="/assets/img/updates/musicalclo.jpeg" height="auto" width="80%" /></a></p>
 
 		<br />
 		
 		⚇<b> narrowcasting: a multi-band narrative ( January 2026 )</b> ⚇ <p><a href="https://agnescameron.info/">Agnes</a> and I wrote an essay / technical document / manifesto / assemblage text called Narrowcasting thats just been published in <a href="https://robidacollective.com/">Robida Collective’s</a> new book Transmissions: Radio Essays on Edges, Crossings and Narrowcasting Borderlands. Available <a href="https://robidacollective.com/projects/publications/transmissions-radio-essays-on-edges-crossings-and-narrowcasting-borderlands">here</a>!</p>
 
-<p><a href="/assets/img/updates/transmissions.png"><img src="/assets/img/updates/transmissions.png" height="auto" width="40%" /></a></p>
+<p><a href="/assets/img/updates/transmissions.png"><img src="/assets/img/updates/transmissions.png" height="auto" width="80%" /></a></p>
 
 
 		<br />
@@ -62,7 +62,7 @@
 
 <p><h2>blog</h2></p>
 
-<div id="blog"></div>
+<iframe src="https://blog.otherkat.com/" width="80%" height="50%"></iframe>
 
 <p><a href="https://blog.otherkat.com/">see all...</a></p>
 
@@ -71,57 +71,6 @@
 </div>
 
 </div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-
-  // Use proxy to avoid CORS issues
-  const feedURL = "https://api.allorigins.win/raw?url=" + encodeURIComponent("https://blog.otherkat.com/feed.xml");
-
-  fetch(feedURL)
-    .then(res => res.text())
-    .then(str => {
-      // Parse XML safely
-      const parser = new DOMParser();
-      const xml = parser.parseFromString(str, "application/xml");
-
-      const items = xml.querySelectorAll("item");
-      const container = document.getElementById("blog");
-
-      if (!container) return;
-
-      items.forEach((item, index) => {
-        if (index >= 2) return; // only 2 latest posts
-
-        const title = item.querySelector("title")?.textContent || "Untitled";
-        const link = item.querySelector("link")?.textContent || "#";
-        const pubDate = item.querySelector("pubDate")?.textContent || "";
-        const date = pubDate ? new Date(pubDate) : null;
-
-        // Extract content / description safely
-        let content = item.querySelector("description")?.textContent || "";
-        // Strip HTML tags
-        const temp = document.createElement("div");
-        temp.innerHTML = content;
-        content = temp.textContent || "";
-        // Get first 50 words
-        const excerpt = content.split(/\s+/).slice(0, 50).join(" ") + (content ? "..." : "");
-
-        container.innerHTML += `
-          <div class="blog-preview">
-            <a href="${link}">
-              ${date ? (date.getMonth()+1) + "/" + date.getFullYear().toString().slice(-2) : ""}: 
-              ${title} →
-            </a>
-            <p>${excerpt}</p>
-          </div>
-        `;
-      });
-    })
-    .catch(err => console.error("Failed to fetch blog feed:", err));
-
-});
-</script>
 
 
       </article>

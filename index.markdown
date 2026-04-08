@@ -30,7 +30,7 @@ layout: home
 
 <p><h2>blog</h2></p>
 
-<div id="blog"></div>
+<iframe src="https://blog.otherkat.com/" width="80%" height="50%"></iframe>
 
 <p><a href="https://blog.otherkat.com/">see all...</a></p>
 
@@ -39,55 +39,4 @@ layout: home
 </div>
 
 </div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-
-  // Use proxy to avoid CORS issues
-  const feedURL = "https://api.allorigins.win/raw?url=" + encodeURIComponent("https://blog.otherkat.com/feed.xml");
-
-  fetch(feedURL)
-    .then(res => res.text())
-    .then(str => {
-      // Parse XML safely
-      const parser = new DOMParser();
-      const xml = parser.parseFromString(str, "application/xml");
-
-      const items = xml.querySelectorAll("item");
-      const container = document.getElementById("blog");
-
-      if (!container) return;
-
-      items.forEach((item, index) => {
-        if (index >= 2) return; // only 2 latest posts
-
-        const title = item.querySelector("title")?.textContent || "Untitled";
-        const link = item.querySelector("link")?.textContent || "#";
-        const pubDate = item.querySelector("pubDate")?.textContent || "";
-        const date = pubDate ? new Date(pubDate) : null;
-
-        // Extract content / description safely
-        let content = item.querySelector("description")?.textContent || "";
-        // Strip HTML tags
-        const temp = document.createElement("div");
-        temp.innerHTML = content;
-        content = temp.textContent || "";
-        // Get first 50 words
-        const excerpt = content.split(/\s+/).slice(0, 50).join(" ") + (content ? "..." : "");
-
-        container.innerHTML += `
-          <div class="blog-preview">
-            <a href="${link}">
-              ${date ? (date.getMonth()+1) + "/" + date.getFullYear().toString().slice(-2) : ""}: 
-              ${title} →
-            </a>
-            <p>${excerpt}</p>
-          </div>
-        `;
-      });
-    })
-    .catch(err => console.error("Failed to fetch blog feed:", err));
-
-});
-</script>
 

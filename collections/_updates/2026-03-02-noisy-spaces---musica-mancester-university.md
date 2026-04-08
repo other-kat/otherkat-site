@@ -8,4 +8,4 @@ categories: blog
 
 I performed my performance lecture Noisy Spaces at Musica Festival hosted at Manchester University!
 
-<a href="/assets/img/updates/musicalclo.jpeg"><img src="/assets/img/updates/musicalclo.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/updates/musicalclo.jpeg"><img src="/assets/img/updates/musicalclo.jpeg" height="auto" width="80%"/></a>
