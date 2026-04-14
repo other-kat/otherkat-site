@@ -28,19 +28,19 @@ body {
    padding: 10px;
 }
 nav a {
-   color: #1e1e1e;
+   color: #A9A9A9;
    text-decoration: none;
    font-size: larger;
    font-size: 2vw;
 }
    a:hover {
-    color:#0000ee;
+    color:#ff0000;
     font-style: italic;
-    text-shadow: 0 0 1vw blue;
+    text-shadow: 0 0 1vw red;
     text-
 }
 a {
-   color: #0000ee;
+   color: #ff0000;
 }
 .profile h1 {
    text-align: center;
@@ -67,7 +67,7 @@ footer {
   background-color: rgba(255, 255, 255, 0);
 }
 .active, .accordion:hover {
-  background-color: #0000ee;
+  background-color: #ff0000;
   color:#FFFFFF;
 }
 .panel {
@@ -88,11 +88,11 @@ footer {
   background-color: rgba(255, 255, 255, 0);
 }
 .sel.active {
-  background-color: #0000ee;
+  background-color: #ff0000;
   color: #FFFFFF;
 }
 .sel:hover {
-  background-color: #0000ee;
+  background-color: #ff0000;
   color:#FFFFFF;
 }
 .row {
@@ -100,7 +100,6 @@ footer {
 }
 .column {
   flex: 50%;
-   padding: 3px;
 }
 .exp{
  visibility:hidden;
@@ -151,7 +150,7 @@ h2 {
   color:#FFFFFF;
 }
    a {
-      color: #40E0D0;
+      color: #a4dd00;
    }
    nav a {
    color: #FFFFFF;
@@ -160,19 +159,19 @@ h2 {
    font-size: 2vw;
 }
 .active, .accordion:hover {
-  background-color: #40E0D0;
+  background-color: #a4dd00;
   color:#1e1e1e;
 }
 .sel.active {
-  background-color: #40E0D0;
+  background-color: #a4dd00;
   color:#1e1e1e;
 }
 .sel:hover {
-  background-color: #40E0D0;
+  background-color: #a4dd00;
   color:#1e1e1e;
 }
    a:hover {
-    color:#40E0D0;
+    color:#a4dd00;
     text-shadow: 0 0 1vw white;
     text-
 }

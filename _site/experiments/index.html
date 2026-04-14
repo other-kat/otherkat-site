@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link id="stylesheet" rel="stylesheet" href="/css/plainwhite.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>kat</title>
+</head>
+<header>
+  <h1 align="center">kat<a href="/collaborators/">⚇</a>
+  <nav>
+    <a href="/">home</a>
+  	 <a href="/bio/">bio</a>
+      <a href="/research/">research</a>
+      <a href="/gallery/">gallery</a>
+  </nav>
+</header>
+<body>
+    <main>
+      <article>
+        <h2>experiments ☈</h2>
+
+<p>---</p>
+
+<p>This is a folder for experiments that have yet to take shape or are not directly relevant into Kat's current research.</p>
+
+<p>---</p>
+
+<div id="post">
+		
+		
+		
+<a href="/experiments/2019-06-19-mourning-for-a-dead-moon.html">mourning for a dead moon - rehearsal with the DAP Lab</a><br /><br />
+		
+<a href="/experiments/2019-01-05-matsutake.html">matsutake - rehearsal with the DAP Lab</a><br /><br />
+		
+<a href="/experiments/2018-11-19-whisper-room.html">whisper room - rehearsal with the DAP Lab</a><br /><br />
+		
+</div>
+<p>&lt;/div&gt;</p>
+
+<script>
+function toggleSection(id, btn) {
+
+    const sections = document.querySelectorAll('[id^="section"]');
+    sections.forEach(sec => sec.style.display = 'none');
+    const buttons = document.querySelectorAll('.sel');
+    buttons.forEach(b => b.classList.remove('active'));
+    const current = document.getElementById(id);
+    current.style.display = 'block';
+    btn.classList.add('active');
+}
+</script>
+
+<script>
+    var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
+
+      </article>
+    </main>
+</body>
+<footer>
+      <p>_______________________________</p>
+      <img src="/assets/img/me/kattext.png" height="54px" width="108px" ALIGN="right"/>
+      <p><a href="/contact">contact</a></p>
+      <p><span id="datetime"></span>
+
+      <script>
+       // create a function to update the date and time
+       function updateDateTime() {
+            // create a new 'Date' object
+            const now = new Date();
+
+            //get the current date and time as a string
+            const currentDateTime = now.toLocaleString();
+
+            // update the 'textContent' property of the 'span' element with the 'id' of 'datetime'
+            document.querySelector('#datetime').textContent = currentDateTime;
+       }
+
+            //call the 'updateDateTime' function every second
+            setInterval(updateDateTime, 1000);
+      </script>
+</footer>
+</html>
