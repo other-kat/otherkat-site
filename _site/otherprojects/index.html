@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link id="stylesheet" rel="stylesheet" href="/css/score.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>kat</title>
+</head>
+<body>
+    <main>
+      <article>
+        <h2>other projects</h2>
+
+<p><mark>other projects</mark> is a container for collective projects and experiments constructed by the artist <a href="otherkat.com">Kat Macdonald</a>. They work as</p>
+
+      </article>
+    </main>
+</body>
+<footer>
+      <p>_______________________________</p>
+      <p><a href="/contact">contact</a></p>
+      <p><span id="datetime"></span>
+
+      <script>
+       // create a function to update the date and time
+       function updateDateTime() {
+            // create a new 'Date' object
+            const now = new Date();
+
+            //get the current date and time as a string
+            const currentDateTime = now.toLocaleString();
+
+            // update the 'textContent' property of the 'span' element with the 'id' of 'datetime'
+            document.querySelector('#datetime').textContent = currentDateTime;
+       }
+
+            //call the 'updateDateTime' function every second
+            setInterval(updateDateTime, 1000);
+      </script>
+</footer>
+</html>
