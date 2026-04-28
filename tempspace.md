@@ -13,3 +13,7 @@ We plan to establish a week long show in Burgess Park, using a <mark>PORTABLE SP
 This is an open invitation to artists who would like to be involved, to join us in not just the show itself, but helping organise and rethink the gallery. Meetings will be held in person to organise the show and discuss its themes and structure.
 
 Our first meeting will be a walk through Burgess Park on Tuesday 28th of April from 6-8pm. We urge you to join if you can and if you know anyone who may also be interested, please send this on. 
+
+We'll be gathering at Camberwell Road entrance.
+
+<img src="/assets/img/posters/burgessposters.png" height="auto" width="80%"/>
