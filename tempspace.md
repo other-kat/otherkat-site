@@ -16,4 +16,6 @@ Our first meeting will be a walk through Burgess Park on Tuesday 28th of April f
 
 We'll be gathering at Camberwell Road entrance.
 
+Organising Chat <a href="https://chat.whatsapp.com/FHoB1cmxkE2ApLJayWJkUw?mode=gi_t">Here</a>
+
 <img src="/assets/img/posters/burgessposters.png" height="auto" width="80%"/>
