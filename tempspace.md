@@ -25,3 +25,13 @@ We will be meeting weekly on Tuesdays at the Camberwell Road / Walworth Road gat
 Organising Chat <a href="https://chat.whatsapp.com/FHoB1cmxkE2ApLJayWJkUw?mode=gi_t">Here</a>
 
 <img src="/assets/img/posters/burgessposters.png" height="auto" width="80%"/>
+
+Link Library:
+
+<a href="https://whitecolumns.org/exhibitions/anarchitecture-show/">whitecolumns.org/exhibitions/anarchitecture-show/</a>
+
+<a href="https://en.wikipedia.org/wiki/1968_movement_in_Italy">en.wikipedia.org/wiki/1968_movement_in_Italy</a>
+
+<a href="https://www.cara-nyc.org/research/notes-on-swept-house">cara-nyc.org/research/notes-on-swept-house</a>
+
+

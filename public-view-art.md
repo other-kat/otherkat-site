@@ -6,7 +6,7 @@ permalink: /public-view-art/
 
 <h1>Public View Art</h1>
 
-~> public view art should only happen with an open door (or even without walls).
+~> public view art should only happen with an open door (or even open plan).
 
 ~> public view art can only be enjoyed in community. your personal space doesn't matter.
 
