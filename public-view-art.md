@@ -6,7 +6,7 @@ permalink: /public-view-art/
 
 <h1>Public View Art</h1>
 
-~> public view art should only happen with an open door (or no door is preferred).
+~> public view art should only happen with an open door (or even without walls).
 
 ~> public view art can only be enjoyed in community. your personal space doesn't matter.
 
@@ -18,13 +18,11 @@ permalink: /public-view-art/
 
 ~> intelligence in public view art, is an admission of stupidity.
 
-~> public view art should be simple, with complexity in the cracks.
+~> public view art should aim for simplicity, with complexity in the cracks.
 
-~> the cracks are for the audience. get out of there!
+~> ---------------- < ~~~~~~~~~~~~~~~~
 
-~> ------ < ~~~~~~~~
-
-~> public view art cannot live forever, otherwise it ceases to be public view art.
+~> public view art cannot live forever.
 
 ~> you cannot live forever. stop trying.
 
