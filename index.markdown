@@ -24,8 +24,23 @@ layout: home
 
 <p><h2>upcoming</h2></p>
 
-<p>more performances coming soon</p>
+<p><a href="">⚇ ??? ⚇</a></p>
+<p><b>location: london</b></p>
+<p><b>date: <mark>22-24th may</mark></b></p>
 
+<p><a href="https://binprojects.net/">⚇ radio set (as bin projects) @ low stakes high spirits ⚇</a></p>
+<p><b>location: st giles crypt, peckham, london</b></p>
+<p><b>date: <mark>11th june</mark></b></p>
+
+<p><a href="https://www.benjijeffrey.com/ensembleugh">⚇ ensembleugh debut (with lclo) ⚇</a></p>
+<p><b>location: st giles, peckham, london</b></p>
+<p><b>date: <mark>18th june</mark></b></p>
+
+<p><a href="https://otherkat.com/temporaryspace/">⚇ temporary space portable gallery ⚇</a></p>
+<p><b>location: burgess park, london</b></p>
+<p><b>date: <mark>june</mark></b></p>
+
+<!-- <p>more performances coming soon</p> -->
 <p><a href="/upcoming/">see all...</a></p>
 
 <p>__________</p>
