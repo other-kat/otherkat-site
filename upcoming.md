@@ -3,10 +3,10 @@ layout: page
 title: upcoming
 permalink: /upcoming/
 ---
-<h2><a href="">⚇ ??? ⚇</a></h2>
-<p><b>Location: London</b></p>
-<p><b>Date: 22-24th May</b></p>
-<p> Mysterious thing happening on this date.
+<h2><a href="https://luma.com/w8zl87du?utm_id=97760_v0_s00_e0_tv3_a1denngq8zkpw2">⚇ IN/HUMAN INFRASTRUCTURES PRESENTED BY XENO FUTURISM  ⚇</a></h2>
+<p><b>Location: Gossamer Fog, Deptford, London</b></p>
+<p><b>Date: 24th May</b></p>
+<p> I'll be performing a new work on radio as part of the Sunday programme! 
 </p>
 <br>
 

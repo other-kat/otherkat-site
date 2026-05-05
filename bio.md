@@ -8,7 +8,7 @@ permalink: /bio/
 
 **Kat Macdonald** is a London-based sound and performance artist exploring collective practice, desire and public space through technology, transmission and performance. Her work focuses on the use of technology to examine activations of agency, particularly looking at space, community and pedagogy, engaging holistically with technology to critique the ways in which it can shape culture and practice.
 
-**Having received her MA in Experimental Music** from Brunel University in 2018, she has gone on to make work both within collectives and independently, having worked as the resident sound and sensor artist for the [Design And Performance Lab][dap] between 2017 - 2022 under the direction of choreographer and dance technologist [Johannes Birringer][johan] designing custom sound and visual software and working with wearable sensors. During this time a core concern of her practice was generative and indeterminate compositions, relying on live-data to create free-form sonic environments.
+**Having received her MA in Experimental Music** from Brunel University in 2018, she has gone on to make work both within collectives and independently, having worked as the resident sound and sensor artist for the [Design And Performance Lab][dap] between 2017 - 2022, under the direction of [Johannes Birringer][johan] and [Michèle Danjoux][danjoux], designing custom sound and visual software and working with wearable sensors. During this time a core concern of her practice was generative and indeterminate compositions, relying on live-data to create free-form sonic environments.
 
 **Making between disciplines,** Kat works with sound, visuals, the web, sculptural work, choreography, scoring and performance, in addition to site-specific installations. **Her work has been shown** internationally at festivals such as DRHA, Lumbung Radio Assembly, Intimidades Públicas (ICNOVA), The World Transformed, and more.
 
@@ -84,6 +84,7 @@ IN PRINT
 [lclo]:https://lclo.otherkat.com
 [collabs]: /collaborators/
 [johan]: https://en.wikipedia.org/wiki/Johannes_Birringer
+[danjoux]: https://researchers.arts.ac.uk/1211-michele-danjoux
 [dap]: https://dap-lab.brunel.ac.uk/arch.html
 [toto]: http://actingnow.co.uk/what-is-theatre-of-the-oppressed/
 [portf]: /portfolio/
