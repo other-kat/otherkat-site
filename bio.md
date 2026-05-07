@@ -36,10 +36,10 @@ permalink: /bio/
 
 SELECTED EXHIBITIONS
 
-<p><i>shedding</i> at Gallery Puzic, Saarbruken, Germany - 2024</p>
-<p><i>Work, From Home</i> at Her Home, London, England - 2023</p>
 <p><i>Multi-Band Excitation</i> at Lumbung Radio Assembly, Berlin, Germany - 2025</p>
 <p><i>Multi-Band Excitation</i> at Robida Collective, Topolo, Italy - 2025</p>
+<p><i>shedding</i> at Gallery Puzic, Saarbruken, Germany - 2024</p>
+<p><i>Work, From Home</i> at Her Home, London, England - 2023</p>
 <p><i>Shedding Femme</i> at Detritus, Tension Fine Art, London, England - 2021</p>
 <p><i>She / They / He</i> at Metafizikel, Artaud Performance Centre, London, England - 2018</p>
 <p><i>Manipulated Labour</i> at Peopling The Palace, Peoples Palace, London, England - 2018</p>
