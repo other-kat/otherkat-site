@@ -7,6 +7,9 @@ categories: blog
 
 <h2><i>Peter and The Wolf And The Hedgehog with <a href="https://agnescameron.info/">Agnes Cameron</a> and the <a href="https://peckhamchamberorchestra.co.uk/about">Peckham Chamber Orchestra</a></i> (2025)</h2>
 
+<a href="/assets/img/updates/pwh-live.png"><img src="/assets/img/updates/pwh-live.png" height="336px" width="270px"/>
+<a href="/assets/img/updates/symp-score.png"><img src="/assets/img/updates/symp-score.png" height="336px" width="270px"/>
+
 An adaptation of Sergei Prokofiev's Peter And The Wolf by myself and [Agnes Cameron][agnes].
 
 This work reimagines the ending to centre on Peter's growth from a self orientated view of the world to an understanding of his placement within an ecosystem. 
@@ -16,9 +19,6 @@ The new ending (titled <i>Sympoiesis</i>) refers to the word coined by [Beth Dem
 The original piece was set to text, matching the rest of the piece, however, this format is presented without the text. Additionally it is presented without precise instructions of entry times and, this is up to the performers but it is generally recommended to stagger entries by at least 1 full repetition.
 
 A full write up of Peter And The Wolf And [The Hedgehog][mr] will be published on [blog.otherkat.com][blog], detailing the full piece, process and the instrumentation we settled on.
-
-<a href="/assets/img/updates/pwh-live.png"><img src="/assets/img/updates/pwh-live.png" height="336px" width="270px"/>
-<a href="/assets/img/updates/symp-score.png"><img src="/assets/img/updates/symp-score.png" height="336px" width="270px"/>
 
 [kat]:https://otherkat.com
 [blog]:https://blog.otherkat.com

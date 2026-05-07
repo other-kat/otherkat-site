@@ -7,6 +7,15 @@ categories: blog
 
 <h2><i>Multi-Band Excitation: A New Piece For Radio</i> with <a href="https://agnescameron.info/">Agnes Cameron</a> and Robida Collective in Topolò, Italy (2025)</h2>
 
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio1.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio2.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio3.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio4.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio5.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio6.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio7.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio8.jpg" height="300" width="auto"/>
+
 *Multi-Band Excitation* is explored in three forms. an electronics workshop and 'hang out' to discuss theory, and an installation. The piece pulls from [Tetsuo Kogawa's][tk] writing and designs for an [FM Transmitter][tkdiagram], Fred Moten and Sefano Harney's [Undercommons][undercommons], Frantz Fanon's [writings on the Voice of Fighting Algeria][vofa] and [Radio Alice's][freealice] philosophy towards pirate radio.
 
 For a full reference library see our [are.na project channel][arena]. This first performance was done as part of <a href="https://robidacollective.com/projects/academy-of-margins/summer-school-of-the-academy-of-margins-2025">Robida Collective's Radio Gardening Summer School</a>.
@@ -22,15 +31,6 @@ After this task, participants were then invited to 'hang out' and 'grab a beer',
 After this the radio's made during the workshop were then used as part of the installation.
 
 Photos by <a href="https://antoniofrederico.com/">Antônio Frederico Lasalvia</a>
-
-<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio1.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio2.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio3.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio4.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio5.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio6.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio7.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeworkantonio8.jpg" height="300" width="auto"/>
 
 [agnes_cameron]: https://agnescameron.info/
 [install]: https://otherkat.com/installation/multi---band-excitation-(topolò-installation).html

@@ -9,6 +9,14 @@ categories: blog
 
 <a href="/assets/img/multibandexcitation/mbeinstallfilm.jpg"><img src="/assets/img/multibandexcitation/mbeinstallfilm.jpg" height="300" width="auto"/></a>
 
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio1.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio2.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio3.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio4.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio5.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio6.jpg" height="300" width="auto"/>
+<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio7.jpg" height="300" width="auto"/>
+
 *Multi-Band Excitation* is explored in three forms. an electronics workshop and 'hang out' to discuss theory, and an installation. The piece pulls from [Tetsuo Kogawa's][tk] writing and designs for an [FM Transmitter][tkdiagram], Fred Moten and Sefano Harney's [Undercommons][undercommons], Frantz Fanon's [writings on the Voice of Fighting Algeria][vofa] and [Radio Alice's][freealice] philosophy towards pirate radio.
 
 For a full reference library see our [are.na project channel][arena]. The first stage of the piece is the workshop and 'hangout', described [here][workshop].
@@ -30,14 +38,6 @@ The audience were provided with second hand radio receiver units and invited to 
 Some audience members decided to try 'collect' all the different broadcasts, while others gathered to find affective ways to distort the signal of the different broadcasts, turning the radio into an instrument. 
 
 Photos by <a href="https://antoniofrederico.com/">Antônio Frederico Lasalvia</a>
-
-<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio1.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio2.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio3.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio4.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio5.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio6.jpg" height="300" width="auto"/>
-<img src="/assets/img/multibandexcitation/antonio/mbeinstallantonio7.jpg" height="300" width="auto"/>
 
 [agnes_cameron]: https://agnescameron.info/
 [workshop]: https://otherkat.com/rehearsals/2025-08-05-multi---band-excitation-(topolò-workshop).html

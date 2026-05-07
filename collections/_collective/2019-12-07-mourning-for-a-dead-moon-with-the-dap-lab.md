@@ -7,6 +7,9 @@ categories: blog
 
 <h2><i>mourning for a dead moon</i> with the DAP Lab at Artaud Performance Centre (2019)</h2>
 
+<img src="/assets/img/mourningforadeadmoon/Moon_Scene4.jpg" height="375" width="500"/>
+<img src="/assets/img/mourningforadeadmoon/Moon_Scene2.jpg" height="375" width="500"/>
+
 [*Mourning for a dead moon*][moon] is multimedia dance work addressing the climate crisis, performed by the [Design and Performance lab (DAP-Lab)][dap], 
 
 Directed by [Johannes Birringer][johan], with 
@@ -17,9 +20,6 @@ Lighting by Charles Manister; Video/graphics programming by Johannes Birringer; 
 Premiere: December 7, 2019, Artaud Performance Centre, London.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I66-b21y8oE?si=5eEb2WstJO-_ZWuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<img src="/assets/img/mourningforadeadmoon/Moon_Scene4.jpg" height="375" width="500"/>
-<img src="/assets/img/mourningforadeadmoon/Moon_Scene2.jpg" height="375" width="500"/>
 
 [moon]: https://www.youtube.com/watch?v=I66-b21y8oE&ab_channel=horstjohannes
 [johan]: https://en.wikipedia.org/wiki/Johannes_Birringer

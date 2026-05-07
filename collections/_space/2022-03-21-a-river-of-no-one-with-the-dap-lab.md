@@ -7,6 +7,11 @@ categories: blog
 
 <h2><i>a river of no one</i> with the DAP Lab at The Telepresence Stage (2022)</h2>
 
+<img src="/assets/img/ariverofnoone/betweentheriver.png" height="385" width="756"/>
+<img src="/assets/img/ariverofnoone/intheriver.png" height="385" width="756"/>
+<img src="/assets/img/ariverofnoone/paintingtheriver.png" height="385" width="756"/>
+<img src="/assets/img/ariverofnoone/tracingtheriver.png" height="385" width="756"/>
+
 A real-time/live mix telepresence performance by [DAP-Lab][dap]. Available to watch [here][river].
 
 *a river of no one* is a meditation on the current climate crisis, linking regions and continents in a subtle & intimate exploration of “hydrocommons,” a shared ecological water and plant culture that needs to be imagined as a flow in which all life, not just human life, participates.
@@ -23,11 +28,6 @@ Additional performance by [Athina Bargkaoui][athina] & [Johannes Birringer][joha
 Technical direction: [Randall Packer][randall] with [Gregory T. Kuhn][greg] ([Third Space Network][thirdspace]).
 
 The [Telepresence Stage][telepresencestage] performance workshop is funded by the UK Arts & Humanities Research Council UKRI/AHRC COVID-19 Response Project: ‘Collaborative Solutions for the Performing Arts: A Telepresence Stage’).
-
-<img src="/assets/img/ariverofnoone/betweentheriver.png" height="385" width="756"/>
-<img src="/assets/img/ariverofnoone/intheriver.png" height="385" width="756"/>
-<img src="/assets/img/ariverofnoone/paintingtheriver.png" height="385" width="756"/>
-<img src="/assets/img/ariverofnoone/tracingtheriver.png" height="385" width="756"/>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/690708304?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The river of no one"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
