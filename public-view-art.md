@@ -8,13 +8,23 @@ permalink: /public-view-art/
 
 ~> public view art should only happen with an open door (or even open plan).
 
+~> there is no audience in public view art, only a community.
+
 ~> public view art can only be enjoyed in community. your personal space doesn't matter.
+
+~> if someone doesn't like public view art, they are still part of this community.
+
+~> if someone doesn't know about public view art, they are still part of this community.
+
+~> if someone doesn't hang around for public view art, they are still part of this community.
 
 ~> money does not aid in making public view art. it simply muddies the image.
 
 ~> public view art should endeavour to reveal. not obscure with jargon.
 
-~> if it's not personal or obsessive, you are doing it wrong.
+~> if public view art is not personal or obsessive, you are doing it wrong.
+
+~> public view art doesn't occupy existing community spaces, but works around and within them.
 
 ~> intelligence in public view art, is an admission of stupidity.
 
@@ -24,12 +34,12 @@ permalink: /public-view-art/
 
 ~> public view art cannot live forever.
 
-~> you cannot live forever. stop trying.
+~> in public view art, you cannot live forever. stop trying.
 
 ~> public view art can only be a grain of sand in someone else's life.
 
-<a href="/otherkat.com/">return?</a>
+~> the change caused by public view art happens slowly. It can't be rushed.
 
-[kat]:https://otherkat.com
-[lclo]:https://lclo.otherkat.com
-[free]: https://freesound.org
+~> public view art isn't about big images, but the small, the intimate, the caring.
+
+<a href="/otherkat.com/">return?</a>
