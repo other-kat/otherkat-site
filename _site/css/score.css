@@ -22,16 +22,27 @@ main {
    background-color: #FFFFFF;
    font-family: Cotham;
 }
+#videoback {
+   position: fixed;
+   right: 0;
+   bottom: 0;
+   min-width: 100%;
+   min-height: 100%;
+}
+marquee {
+   color:#000000;
+   text-shadow: 0 0 1vw white;
+}
 h1 {
    text-align: center;
    justify-content: center;
    margin: 5px;
    word-spacing: 5px;
    Padding: 2px;
+   width: 100%;
    font-size: smaller;
    font-size: 5vw;
    color: #000000;
-   background-color: #FFFFFF;
    font-family: Cotham;
 }
 /*header style*/
