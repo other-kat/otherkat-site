@@ -10,9 +10,11 @@ professional / unprofessional
 
 published / unpublished
 
-all my ideas are made in community, so this list is a way of trying to represent some of that (thought it can never encompass everyone). if i was to give anyone special mention it would be my partner Agnes, as our relationship forever remains a space of bouncing around half formed opinions, ideas and thoughts.
+all my ideas are made in community, so this list is a way of trying to represent some of that (thought it can never encompass everyone). if i was to give anyone special mention it would be my partner Agnes, as our relationship remains a safe space of bouncing around half formed opinions, ideas and thoughts.
 
 [Agnes Cameron][agnes_cameron]
+
+[Are.na Editorial][arena]
 
 [Austin Philemon][austin]
 
@@ -21,6 +23,8 @@ all my ideas are made in community, so this list is a way of trying to represent
 [Bint Mbareh][dina]
 
 [DAP Lab][dap]
+
+[Ensembleugh][ensemble]
 
 [Inflationary Assets][inflationary]
 
@@ -38,9 +42,13 @@ all my ideas are made in community, so this list is a way of trying to represent
 
 [Niamh Bennett][niamh]
 
+[Naive Weekly][naive]
+
 [Olivia Golding][olivia]
 
 [Peckham Chamber Orchestra][pco]
+
+[Peckham Digital][peckhamdig]
 
 [Phreaking Collective][phreaking]
 
@@ -49,8 +57,6 @@ all my ideas are made in community, so this list is a way of trying to represent
 [Sophie Mak-Schram][sophie]
 
 [Telepresence Stage][telepresencestage]
-
-[The Peckham Chamber Orchestra][pco]
 
 [Timo Kreuser][timo]
 
@@ -82,4 +88,7 @@ this list will never have names removed - only added - isn't that nice :)
 [sophie]: https://www.instagram.com/makschram/
 [lclo]: https://lclo.otherkat.com/
 [lumbung]: https://lumbungradio.org/
-[pco]: https://peckhamchamberorchestra.co.uk/
+[ensemble]:https://www.benjijeffrey.com/ensembleugh
+[peckhamdig]: https://peckhamdigital.org/
+[arena]:https://www.are.na/editorial
+[naive]: https://www.naiveweekly.com/
