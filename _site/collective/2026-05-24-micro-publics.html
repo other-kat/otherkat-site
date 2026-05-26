@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link id="stylesheet" rel="stylesheet" href="/css/plainwhite.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>kat</title>
+</head>
+<header>
+  <h1 align="center">kat<a href="/collaborators/">⚇</a>
+  <nav>
+    <a href="/">home</a>
+  	 <a href="/bio/">bio</a>
+      <a href="/research/">research</a>
+      <a href="/gallery/">gallery</a>
+      <a href="/contact/">contact</a>
+  </nav>
+</header>
+<body>
+    <main>
+      <article>
+        <h2><i>micro-publics</i> (2026)</h2>
+
+<p><img src="/assets/img/live/micropublics.jpeg" height="auto" width="80%" /></p>
+
+<p>Ash Amin coined the term micro publics as a response to racist talking points of the 1990’s and early 2000’s. An urban theorist, he saw localised and national plans that reinforce community boundaries and identities, as arming racist talking points around who had claim to ‘Englishness’ as a community identity. His counter was an increased attention on micro publics; localised social spaces that are rooted in the everyday cultural exchange of youth centres, parks, schools, cafes and community gardens.</p>
+
+<p>Discussing the revolutionary potential of radio, tracing the political intentions of the mini-FM movement to today, this work looks to how these idea’s can intersect with today’s political landscape and bring us closer to Deleuze and Guattari’s idea of a “molecular revolution”. The piece includes a performance lecture, immersed with a participatory radio installation.</p>
+
+<p>I performed the first iteration of a new work micro-publics debuted as part of <a href="https://xenofuturismmagazine.com/">In/Human by Xeno-Futurism</a> and taking place at <a href="https://www.gossamerfog.com/">Gossamer Fog</a>.</p>
+
+
+      </article>
+    </main>
+</body>
+<footer>
+      <p>_______________________________</p>
+      <img src="/assets/img/me/kattext.png" height="54px" width="108px" ALIGN="right"/>
+      <p><a href="/contact">contact</a></p>
+      <p><span id="datetime"></span>
+
+      <script>
+       // create a function to update the date and time
+       function updateDateTime() {
+            // create a new 'Date' object
+            const now = new Date();
+
+            //get the current date and time as a string
+            const currentDateTime = now.toLocaleString();
+
+            // update the 'textContent' property of the 'span' element with the 'id' of 'datetime'
+            document.querySelector('#datetime').textContent = currentDateTime;
+       }
+
+            //call the 'updateDateTime' function every second
+            setInterval(updateDateTime, 1000);
+      </script>
+</footer>
+</html>
