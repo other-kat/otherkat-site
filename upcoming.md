@@ -3,12 +3,6 @@ layout: page
 title: upcoming
 permalink: /upcoming/
 ---
-<h2><a href="https://luma.com/w8zl87du?utm_id=97760_v0_s00_e0_tv3_a1denngq8zkpw2">⚇ IN/HUMAN INFRASTRUCTURES PRESENTED BY XENO FUTURISM  ⚇</a></h2>
-<p><b>Location: Gossamer Fog, Deptford, London</b></p>
-<p><b>Date: 24th May</b></p>
-<p> I'll be performing a new work on radio as part of the Sunday programme! 
-</p>
-<br>
 
 <h2><a href="https://binprojects.net/">⚇ RADIO SET (AS BIN PROJECTS) @ LOW STAKES HIGH SPIRITS ⚇</a></h2>
 <p><b>Location: St Giles Crypt, London</b></p>
@@ -33,6 +27,12 @@ permalink: /upcoming/
 
 <p>__________</p>
 <p><h2><b>ARCHIVE STARTING 03.25</b></h2></p>
+<br>
+<h2><a href="https://luma.com/w8zl87du?utm_id=97760_v0_s00_e0_tv3_a1denngq8zkpw2">⚇ IN/HUMAN INFRASTRUCTURES PRESENTED BY XENO FUTURISM  ⚇</a></h2>
+<p><b>Location: Gossamer Fog, Deptford, London</b></p>
+<p><b>Date: 24th May</b></p>
+<p> I'll be performing a new work on radio as part of the Sunday programme! 
+</p>
 <br>
 
 <h2><a href="https://www.instagram.com/p/DVd5i_6iuX6/">⚇ AGAINST THE CLOCK</a> WITH <a href="https://bintmbareh.today/">BINT MBAREH</a> & <a href="https://lclo.otherkat.com/"> LCLO ⚇</a></h2>

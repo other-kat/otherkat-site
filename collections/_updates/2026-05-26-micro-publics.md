@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "micro-publics @ In/Human hosted by Gossamer Fog"
+title:  "micro-publics @ In/Human Infrastructures hosted by Gossamer Fog"
 date:   2026-05-26 09:23:35 +0100
 postdate: May 2026
 categories: blog
