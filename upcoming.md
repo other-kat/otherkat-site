@@ -4,13 +4,6 @@ title: upcoming
 permalink: /upcoming/
 ---
 
-<h2><a href="https://binprojects.net/">⚇ ENSEMBLEUGH X LCLO ⚇</a></h2>
-<p><b>Location: St Giles, Peckham, London</b></p>
-<p><b>Date: 18th June</b></p>
-<p> LCLO will be showing some new works at Ensembleugh's debut concert in Peckham
-</p>
-<br>
-
 <h2><a href="https://www.instagram.com/p/DZc9sjbirg-/">⚇ MICRO-PUBLICS @ LONDON SCHOOL OF SOLARPUNK ⚇</a></h2>
 <p><b>Location: Bold Tendencies, Peckham, London</b></p>
 <p><b>Date: 1st July</b></p>
@@ -18,22 +11,28 @@ permalink: /upcoming/
 </p>
 <br>
 
-<h2><a href="https://binprojects.net/">⚇ ENSEMBLEUGH X LCLO ⚇</a></h2>
-<p><b>Location: St Giles, Peckham, London</b></p>
-<p><b>Date: 18th June</b></p>
-<p> LCLO will be showing some new works at Ensembleugh's debut concert in Peckham
+<h2><a href="https://otherkat.com/temporaryspace/">⚇ TRIAL RUN - TEMPORARY SPACE PORTABLE GALLERY ⚇</a></h2>
+<p><b>Location: Burgess Park, London</b></p>
+<p><b>Date: 5th July</b></p>
+<p> TEMPORARY SPACE | PORTABLE GALLERY is a collectively organised art show in Burgess Park, we will be hosting a trial run!
 </p>
 <br>
 
 <h2><a href="https://otherkat.com/temporaryspace/">⚇ TEMPORARY SPACE PORTABLE GALLERY ⚇</a></h2>
 <p><b>Location: Burgess Park, London</b></p>
 <p><b>Date: August</b></p>
-<p> TEMPORARY SPACE | PORTABLE GALLERY is a collectively organised art show in Burgess Park, taking place sometime in JUNE 2026 with the aim of rethinking institutional art structures through the methods of public art and collective gathering.
+<p> TEMPORARY SPACE | PORTABLE GALLERY is a collectively organised art show in Burgess Park, taking place sometime in AUGUST 2026 with the aim of rethinking institutional art structures through the methods of public art and collective gathering.
 </p>
 <br>
 
 <p>__________</p>
 <p><h2><b>ARCHIVE STARTING 03.25</b></h2></p>
+<br>
+<h2><a href="https://binprojects.net/">⚇ ENSEMBLEUGH X LCLO ⚇</a></h2>
+<p><b>Location: St Giles, Peckham, London</b></p>
+<p><b>Date: 18th June</b></p>
+<p> LCLO will be showing some new works at Ensembleugh's debut concert in Peckham
+</p>
 <br>
 <h2><a href="https://binprojects.net/">⚇ RADIO SET (AS BIN PROJECTS) @ LOW STAKES HIGH SPIRITS ⚇</a></h2>
 <p><b>Location: St Giles Crypt, London</b></p>

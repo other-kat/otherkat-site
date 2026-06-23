@@ -24,13 +24,13 @@ layout: home
 
 <p><h2>upcoming</h2></p>
 
-<p><a href="https://www.benjijeffrey.com/ensembleugh">⚇ ensembleugh debut (with lclo) ⚇</a></p>
-<p><b>location: st giles, peckham, london</b></p>
-<p><b>date: <mark>18th june</mark></b></p>
-
 <p><a href="https://www.instagram.com/p/DZc9sjbirg-/">⚇ micro-publics @ london school of solarpunk ⚇</a></p>
 <p><b>location: bold tendencies, peckham, london</b></p>
 <p><b>date: <mark>1st july</mark></b></p>
+
+<p><a href="https://www.benjijeffrey.com/ensembleugh">⚇ trial run of temporary space portable gallery ⚇</a></p>
+<p><b>location: burgess park, london</b></p>
+<p><b>date: <mark>5th july</mark></b></p>
 
 <p><a href="https://otherkat.com/temporaryspace/">⚇ temporary space portable gallery ⚇</a></p>
 <p><b>location: burgess park, london</b></p>
