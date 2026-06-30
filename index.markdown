@@ -32,9 +32,17 @@ layout: home
 <p><b>location: burgess park, london</b></p>
 <p><b>date: <mark>5th july</mark></b></p>
 
+<p><a href="https://www.instagram.com/p/DZc9sjbirg-/">⚇ ringtone workshop @ can we start again ⚇</a></p>
+<p><b>location: 55 kennington oval, london</b></p>
+<p><b>date: <mark>9th july</mark></b></p>
+
 <p><a href="https://otherkat.com/temporaryspace/">⚇ temporary space portable gallery ⚇</a></p>
 <p><b>location: burgess park, london</b></p>
 <p><b>date: <mark>august</mark></b></p>
+
+<p><a href="https://www.instagram.com/p/DZc9sjbirg-/">⚇ london community laptop orchestra @ creative intelligence ⚇</a></p>
+<p><b>location: queen elizabeth hall, southbank centre, london</b></p>
+<p><b>date: <mark>13th september</mark></b></p>
 
 <!-- <p>more performances coming soon</p> -->
 <p><a href="/upcoming/">see all...</a></p>

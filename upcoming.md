@@ -18,10 +18,24 @@ permalink: /upcoming/
 </p>
 <br>
 
+<h2><a href="https://www.instagram.com/p/DZc9sjbirg-/">⚇ RINGTONE WORKSHOP @ CAN WE START AGAIN BY PHREAKING COLLECTIVE ⚇</a></h2>
+<p><b>Location: 55 Kennington Oval, London</b></p>
+<p><b>Date: 9th July</b></p>
+<p> I'll be presenting a revision of my <I>Ringtone Workshop</I> as part of Phreaking Collectives Summer show, Can We Start Again!
+</p>
+<br>
+
 <h2><a href="https://otherkat.com/temporaryspace/">⚇ TEMPORARY SPACE PORTABLE GALLERY ⚇</a></h2>
 <p><b>Location: Burgess Park, London</b></p>
 <p><b>Date: August</b></p>
 <p> TEMPORARY SPACE | PORTABLE GALLERY is a collectively organised art show in Burgess Park, taking place sometime in AUGUST 2026 with the aim of rethinking institutional art structures through the methods of public art and collective gathering.
+</p>
+<br>
+
+<h2><a href="https://www.instagram.com/p/DZc9sjbirg-/">⚇ LONDON COMMUNITY LAPTOP ORCHESTRA @ CREATIVE INTELLIGENCE FESTIVAL ⚇</a></h2>
+<p><b>Location: QUEEN ELIZABETH HALL, SOUTHBANK CENTRE, LONDON</b></p>
+<p><b>Date: 13th September</b></p>
+<p> Myself and the London Community Laptop Orchestra will be staging a collective action in the foyer of the Queen Elizabeth Hall as part of the Creative Intelligence festival, organised by Peckham Digital and the Southbank Centre.
 </p>
 <br>
 
