@@ -4,6 +4,43 @@ title: gallery
 permalink: /gallery/
 ---
 
+<h2><i>micro-publics</i> with <a href="https://phreaking.co.uk/">The London School of Solarpunk</a> (2026)</h2>
+<a href="/assets/img/micropublics/micro4.jpeg"><img src="/assets/img/micropublics/micro4.jpeg" height="auto" width="80%"/></a>
+<a href="/assets/img/micropublics/micro1.jpeg"><img src="/assets/img/micropublics/micro1.jpeg" height="auto" width="20%"/></a>
+<a href="/assets/img/micropublics/micro2.jpeg"><img src="/assets/img/micropublics/micro2.jpeg" height="auto" width="20%"/></a>
+<a href="/assets/img/micropublics/micro3.jpeg"><img src="/assets/img/micropublics/micro3.jpeg" height="auto" width="20%"/></a>
+
+<h2><i>Trial Run</i> of <a href="https://phreaking.co.uk/">Temporary Space Portable Gallery</a> (2026)</h2>
+<a href="/assets/img/live/tempsketch.png"><img src="/assets/img/live/tempsketch.png" height="auto" width="40%"/></a>
+<a href="/assets/img/live/burgesssketch.png"><img src="/assets/img/live/burgesssketch.png" height="auto" width="40%"/></a>
+<a href="/assets/img/live/trialrundraw.jpeg"><img src="/assets/img/live/trialrundraw.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/live/trailrun.jpeg"><img src="/assets/img/live/trailrun.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/live/trialrunpart.jpeg"><img src="/assets/img/live/trialrunpart.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/live/trialrunpart1.jpeg"><img src="/assets/img/live/trialrunpart1.jpeg" height="auto" width="40%"/></a>
+
+<h2><i>Radio Set @ <a href="https://luma.com/symkozub">Low Stakes | High Spirits</a></i> with <a href="https://agnescameron.info/">Agnes Cameron</a> <a href="">as bin projects</a> (2026)</h2>
+<a href="/assets/img/live/radioset.jpeg"><img src="/assets/img/live/radioset.jpeg" height="auto" width="80%"/></a>
+
+<h2><i>micro-publics</i> at <a href="https://xenofuturismmagazine.com/">@ In/Human Infrastructures</a> hosted at <a href="https://www.gossamerfog.com/">Gossamer Fog</a> (2026)</h2>
+<a href="/assets/img/micropublics/microsketch1.png"><img src="/assets/img/micropublics/microsketch1.png" height="auto" width="20%"/></a>
+<a href="/assets/img/micropublics/microsketch2.png"><img src="/assets/img/micropublics/microsketch2.png" height="auto" width="20%"/></a>
+<a href="/assets/img/micropublics/microsketch3.png"><img src="/assets/img/micropublics/microsketch3.png" height="auto" width="20%"/></a>
+<a href="/assets/img/micropublics/microsketch4.png"><img src="/assets/img/micropublics/microsketch4.png" height="auto" width="20%"/></a>
+
+<a href="/assets/img/micropublics/1micro1.jpeg"><img src="/assets/img/micropublics/1micro1.jpeg" height="auto" width="80%"/></a>
+<a href="/assets/img/micropublics/1micro2.jpeg"><img src="/assets/img/micropublics/1micro2.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/live/micropublics.jpeg"><img src="/assets/img/live/micropublics.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/micropublics/1micro3.jpeg"><img src="/assets/img/micropublics/1micro3.jpeg" height="auto" width="40%"/></a>
+<a href="/assets/img/micropublics/1micro4.jpeg"><img src="/assets/img/micropublics/1micro4.jpeg" height="auto" width="40%"/></a>
+
+<a href="/assets/img/micropublics/microscreen1.png"><img src="/assets/img/micropublics/microscreen1.png" height="auto" width="10%"/></a>
+<a href="/assets/img/micropublics/microscreen2.png"><img src="/assets/img/micropublics/microscreen2.png" height="auto" width="10%"/></a>
+<a href="/assets/img/micropublics/microscreen3.png"><img src="/assets/img/micropublics/microscreen3.png" height="auto" width="10%"/></a>
+<a href="/assets/img/micropublics/microscreen4.png"><img src="/assets/img/micropublics/microscreen4.png" height="auto" width="10%"/></a>
+<a href="/assets/img/micropublics/microscreen5.png"><img src="/assets/img/micropublics/microscreen5.png" height="auto" width="10%"/></a>
+<a href="/assets/img/micropublics/microscreen6.png"><img src="/assets/img/micropublics/microscreen6.png" height="auto" width="10%"/></a>
+<a href="/assets/img/micropublics/microscreenend.png"><img src="/assets/img/micropublics/microscreenend.png" height="auto" width="10%"/></a>
+
 <h2><i>Noisy Spaces @ The Koppel Project</i> with <a href="https://phreaking.co.uk/">Phreaking Collective</a> (2026) - Photos by <a href="https://nikos.kourous.net/">Nikos Kourous</a> & <a href="https://xachhill.com/index.html">Xach Hill</a></h2>
 <a href="/assets/img/me/nikosme.png"><img src="/assets/img/me/nikosme.png" height="auto" width="40%"/></a>
 <a href="/assets/img/noisyspaces/noisyspaces1.jpeg"><img src="/assets/img/noisyspaces/noisyspaces1.jpeg" height="auto" width="40%"/></a>

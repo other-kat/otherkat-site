@@ -4,27 +4,6 @@ title: upcoming
 permalink: /upcoming/
 ---
 
-<h2><a href="https://www.instagram.com/p/DZc9sjbirg-/">⚇ MICRO-PUBLICS @ LONDON SCHOOL OF SOLARPUNK ⚇</a></h2>
-<p><b>Location: Bold Tendencies, Peckham, London</b></p>
-<p><b>Date: 1st July</b></p>
-<p> I'll be showing some more of my work <I>micro-publics</I> as part of London School Of Solarpunk's Outdoor Lecture Series!
-</p>
-<br>
-
-<h2><a href="https://otherkat.com/temporaryspace/">⚇ TRIAL RUN - TEMPORARY SPACE PORTABLE GALLERY ⚇</a></h2>
-<p><b>Location: Burgess Park, London</b></p>
-<p><b>Date: 5th July</b></p>
-<p> TEMPORARY SPACE | PORTABLE GALLERY is a collectively organised art show in Burgess Park, we will be hosting a trial run!
-</p>
-<br>
-
-<h2><a href="https://www.instagram.com/p/DZc9sjbirg-/">⚇ RINGTONE WORKSHOP @ CAN WE START AGAIN BY PHREAKING COLLECTIVE ⚇</a></h2>
-<p><b>Location: 55 Kennington Oval, London</b></p>
-<p><b>Date: 9th July</b></p>
-<p> I'll be presenting a revision of my <I>Ringtone Workshop</I> as part of Phreaking Collectives Summer show, Can We Start Again!
-</p>
-<br>
-
 <h2><a href="https://otherkat.com/temporaryspace/">⚇ TEMPORARY SPACE PORTABLE GALLERY ⚇</a></h2>
 <p><b>Location: Burgess Park, London</b></p>
 <p><b>Date: August</b></p>
@@ -42,6 +21,27 @@ permalink: /upcoming/
 <p>__________</p>
 <p><h2><b>ARCHIVE STARTING 03.25</b></h2></p>
 <br>
+<h2><a href="https://www.instagram.com/p/DZc9sjbirg-/">⚇ RINGTONE WORKSHOP @ CAN WE START AGAIN BY PHREAKING COLLECTIVE ⚇</a></h2>
+<p><b>Location: 55 Kennington Oval, London</b></p>
+<p><b>Date: 9th July</b></p>
+<p> I'll be presenting a revision of my <I>Ringtone Workshop</I> as part of Phreaking Collectives Summer show, Can We Start Again!
+</p>
+<br>
+
+<h2><a href="https://otherkat.com/temporaryspace/">⚇ TRIAL RUN - TEMPORARY SPACE PORTABLE GALLERY ⚇</a></h2>
+<p><b>Location: Burgess Park, London</b></p>
+<p><b>Date: 5th July</b></p>
+<p> TEMPORARY SPACE | PORTABLE GALLERY is a collectively organised art show in Burgess Park, we will be hosting a trial run!
+</p>
+<br>
+
+<h2><a href="https://www.instagram.com/p/DZc9sjbirg-/">⚇ MICRO-PUBLICS @ LONDON SCHOOL OF SOLARPUNK ⚇</a></h2>
+<p><b>Location: Bold Tendencies, Peckham, London</b></p>
+<p><b>Date: 1st July</b></p>
+<p> I'll be showing some more of my work <I>micro-publics</I> as part of London School Of Solarpunk's Outdoor Lecture Series!
+</p>
+<br>
+
 <h2><a href="https://binprojects.net/">⚇ ENSEMBLEUGH X LCLO ⚇</a></h2>
 <p><b>Location: St Giles, Peckham, London</b></p>
 <p><b>Date: 18th June</b></p>

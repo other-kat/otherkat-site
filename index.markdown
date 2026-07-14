@@ -2,7 +2,7 @@
 layout: home
 ---
 
-**Kat Macdonald** is a London-based sound and performance artist exploring collective practice, desire and public space through technology, transmission and performance. She is the founder of the <a href="https://lclo.otherkat.com">London Community Laptop Orchestra</a> and a long time member of the <a href="https://dap-lab.brunel.ac.uk/arch.html">Design And Performance Lab (DAP Lab)</a>. **Her work has been shown** internationally at festivals such as DRHA, Lumbung Radio Assembly, Intimidades Públicas (ICNOVA), The World Transformed, and <a href="/bio/#exhibitions">more.</a>
+**Kat Macdonald** is a London-based sound and performance artist exploring collective practice and public space through technology, transmission and alternative pedagogies. She is the founder of the <a href="https://lclo.otherkat.com">London Community Laptop Orchestra</a> and a long time member of the <a href="https://dap-lab.brunel.ac.uk/arch.html">Design And Performance Lab (DAP Lab)</a>. **Her work has been shown** internationally at festivals such as DRHA, Lumbung Radio Assembly, Intimidades Públicas (ICNOVA), The World Transformed, and <a href="/bio/#exhibitions">more.</a>
 
 <div class="row">
         <div class="column left">
@@ -23,18 +23,6 @@ layout: home
 <div class="column right">
 
 <p><h2>upcoming</h2></p>
-
-<p><a href="https://www.instagram.com/p/DZc9sjbirg-/">⚇ micro-publics @ london school of solarpunk ⚇</a></p>
-<p><b>location: bold tendencies, peckham, london</b></p>
-<p><b>date: <mark>1st july</mark></b></p>
-
-<p><a href="https://www.benjijeffrey.com/ensembleugh">⚇ trial run of temporary space portable gallery ⚇</a></p>
-<p><b>location: burgess park, london</b></p>
-<p><b>date: <mark>5th july</mark></b></p>
-
-<p><a href="https://www.instagram.com/p/DZc9sjbirg-/">⚇ ringtone workshop @ can we start again ⚇</a></p>
-<p><b>location: 55 kennington oval, london</b></p>
-<p><b>date: <mark>9th july</mark></b></p>
 
 <p><a href="https://otherkat.com/temporaryspace/">⚇ temporary space portable gallery ⚇</a></p>
 <p><b>location: burgess park, london</b></p>
