@@ -4,7 +4,18 @@ title: gallery
 permalink: /gallery/
 ---
 
-<h2><i>micro-publics</i> with <a href="https://phreaking.co.uk/">The London School of Solarpunk</a> (2026)</h2>
+<h2><i>ringtone workshop</i> with <a href="https://phreaking.co.uk/">Phreaking Collective</a> (2026) - Photos by <a href="https://xachhill.com/index.html">Xach Hill</a></h2>
+<a href="/assets/img/live/ringtone.jpg"><img src="/assets/img/live/ringtone.jpg" height="auto" width="30%"/></a>
+<a href="/assets/img/ringtone/ring1.jpg"><img src="/assets/img/ringtone/ring1.jpg" height="auto" width="30%"/></a>
+<a href="/assets/img/ringtone/ring3.jpg"><img src="/assets/img/ringtone/ring3.jpg" height="auto" width="30%"/></a>
+<a href="/assets/img/ringtone/ring2.jpg"><img src="/assets/img/ringtone/ring2.jpg" height="auto" width="30%"/></a>
+<a href="/assets/img/ringtone/ring4.jpg"><img src="/assets/img/ringtone/ring4.jpg" height="auto" width="30%"/></a>
+<a href="/assets/img/ringtone/ring5.jpg"><img src="/assets/img/ringtone/ring5.jpg" height="auto" width="30%"/></a>
+<a href="/assets/img/ringtone/ring6.jpg"><img src="/assets/img/ringtone/ring6.jpg" height="auto" width="30%"/></a>
+<a href="/assets/img/ringtone/ring7.jpg"><img src="/assets/img/ringtone/ring7.jpg" height="auto" width="30%"/></a>
+<a href="/assets/img/ringtone/ring8.jpg"><img src="/assets/img/ringtone/ring8.jpg" height="auto" width="30%"/></a>
+
+<h2><i>micro-publics</i> with <a href="https://solarpunk.london/">The London School of Solarpunk</a> (2026)</h2>
 <a href="/assets/img/micropublics/micro4.jpeg"><img src="/assets/img/micropublics/micro4.jpeg" height="auto" width="80%"/></a>
 <a href="/assets/img/micropublics/micro1.jpeg"><img src="/assets/img/micropublics/micro1.jpeg" height="auto" width="20%"/></a>
 <a href="/assets/img/micropublics/micro2.jpeg"><img src="/assets/img/micropublics/micro2.jpeg" height="auto" width="20%"/></a>
@@ -26,13 +37,11 @@ permalink: /gallery/
 <a href="/assets/img/micropublics/microsketch2.png"><img src="/assets/img/micropublics/microsketch2.png" height="auto" width="20%"/></a>
 <a href="/assets/img/micropublics/microsketch3.png"><img src="/assets/img/micropublics/microsketch3.png" height="auto" width="20%"/></a>
 <a href="/assets/img/micropublics/microsketch4.png"><img src="/assets/img/micropublics/microsketch4.png" height="auto" width="20%"/></a>
-
 <a href="/assets/img/micropublics/1micro1.jpeg"><img src="/assets/img/micropublics/1micro1.jpeg" height="auto" width="80%"/></a>
 <a href="/assets/img/micropublics/1micro2.jpeg"><img src="/assets/img/micropublics/1micro2.jpeg" height="auto" width="40%"/></a>
 <a href="/assets/img/live/micropublics.jpeg"><img src="/assets/img/live/micropublics.jpeg" height="auto" width="40%"/></a>
 <a href="/assets/img/micropublics/1micro3.jpeg"><img src="/assets/img/micropublics/1micro3.jpeg" height="auto" width="40%"/></a>
 <a href="/assets/img/micropublics/1micro4.jpeg"><img src="/assets/img/micropublics/1micro4.jpeg" height="auto" width="40%"/></a>
-
 <a href="/assets/img/micropublics/microscreen1.png"><img src="/assets/img/micropublics/microscreen1.png" height="auto" width="10%"/></a>
 <a href="/assets/img/micropublics/microscreen2.png"><img src="/assets/img/micropublics/microscreen2.png" height="auto" width="10%"/></a>
 <a href="/assets/img/micropublics/microscreen3.png"><img src="/assets/img/micropublics/microscreen3.png" height="auto" width="10%"/></a>
