@@ -40,8 +40,6 @@ layout: home
 <p><b>location: peckham, london</b></p>
 <p><b>date: <mark>october</mark></b></p>
 
-NOISY SPACES @ PECKHAM DIGITAL FESTIVAL
-
 <!-- <p>more performances coming soon</p> -->
 <p><a href="/upcoming/">see all...</a></p>
 
