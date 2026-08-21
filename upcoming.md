@@ -11,6 +11,14 @@ permalink: /upcoming/
 </p>
 <br>
 
+<h2><a href="https://luma.com/egmzjz9m">⚇ WHAT IS A DIGITAL MICRO PUBLIC? @ TERMITE SPACE ⚇</a></h2>
+<p><b>Location: TERMITE SPACE, APIARY STUDIOS, HACKNEY</b></p>
+<p><b>Date: 5th September</b></p>
+<p> Following from Kat’s research into micro publics and the mini-fm radio movement of the 1980s, this event poses the question: "what constitutes a digital micro public?"
+The event will begin with a performance lecture by Kat Macdonald on the links between the Mini-Fm movement and the sociological concept of micro publics as a starting point for applying these ideas to digital environments. Following the lecture, we will break for a meal, during which you are encouraged to share digital spaces (imagined or existing) which you think capture a form of micro public. Our hope is that through this, we can collectively outline commonalities that these spaces hold, to build an aesthetic language to better identify a digital micro public.
+</p>
+<br>
+
 <h2><a href="https://www.southbankcentre.co.uk/whats-on/get-your-hands-dirty-with-creative-tech/">⚇ LONDON COMMUNITY LAPTOP ORCHESTRA @ CREATIVE INTELLIGENCE FESTIVAL ⚇</a></h2>
 <p><b>Location: QUEEN ELIZABETH HALL, SOUTHBANK CENTRE, LONDON</b></p>
 <p><b>Date: 13th September</b></p>

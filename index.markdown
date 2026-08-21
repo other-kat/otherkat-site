@@ -28,6 +28,10 @@ layout: home
 <p><b>location: vespers club, peckham, london</b></p>
 <p><b>date: <mark>27th august</mark></b></p>
 
+<p><a href="https://luma.com/egmzjz9m">⚇ what is a digital micro public? @ termite space ⚇</a></p>
+<p><b>location: termite space, apairy studios, hackney</b></p>
+<p><b>date: <mark>5th september</mark></b></p>
+
 <p><a href="https://www.southbankcentre.co.uk/whats-on/get-your-hands-dirty-with-creative-tech/">⚇ london community laptop orchestra @ creative intelligence ⚇</a></p>
 <p><b>location: queen elizabeth hall, southbank centre, london</b></p>
 <p><b>date: <mark>13th september</mark></b></p>
