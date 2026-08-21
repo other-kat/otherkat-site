@@ -2,7 +2,7 @@
 layout: home
 ---
 
-**Kat Macdonald** is a London-based sound and performance artist exploring collective practice and public space through technology, transmission and alternative pedagogies. She is the founder of the <a href="https://lclo.otherkat.com">London Community Laptop Orchestra</a> and a long time member of the <a href="https://dap-lab.brunel.ac.uk/arch.html">Design And Performance Lab (DAP Lab)</a>. **Her work has been shown** internationally at festivals such as DRHA, Lumbung Radio Assembly, Intimidades Públicas (ICNOVA), The World Transformed, and <a href="/bio/#exhibitions">more.</a>
+**Kat Macdonald** is a London-based sound and performance artist exploring collective practice and public space through technology, transmission and alternative pedagogies. She is the founder of the <a href="https://lclo.otherkat.com">London Community Laptop Orchestra</a> and a long time member of the <a href="https://dap-lab.brunel.ac.uk/arch.html">Design And Performance Lab (DAP Lab)</a>. **Her work has been shown** internationally at festivals such as Creative Intelligence @ The Southbank Centre, Lumbung Radio Assembly, Intimidades Públicas (ICNOVA), The World Transformed, and <a href="/bio/#exhibitions">more.</a>
 
 <div class="row">
         <div class="column left">
