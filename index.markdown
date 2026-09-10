@@ -24,14 +24,6 @@ layout: home
 
 <p><h2>upcoming</h2></p>
 
-<p><a href="https://www.instagram.com/p/Dbc5KR0DXP8/">⚇ algofund by peckham digital (under bin projects) ⚇</a></p>
-<p><b>location: vespers club, peckham, london</b></p>
-<p><b>date: <mark>27th august</mark></b></p>
-
-<p><a href="https://luma.com/egmzjz9m">⚇ what is a digital micro public? @ termite space ⚇</a></p>
-<p><b>location: termite space, apairy studios, hackney</b></p>
-<p><b>date: <mark>5th september</mark></b></p>
-
 <p><a href="https://www.southbankcentre.co.uk/whats-on/get-your-hands-dirty-with-creative-tech/">⚇ london community laptop orchestra @ creative intelligence ⚇</a></p>
 <p><b>location: queen elizabeth hall, southbank centre, london</b></p>
 <p><b>date: <mark>13th september</mark></b></p>
@@ -42,7 +34,7 @@ layout: home
 
 <p><a href="https://peckhamdigital.org/">⚇ noisy spaces @ pekcham digital festival ⚇</a></p>
 <p><b>location: peckham, london</b></p>
-<p><b>date: <mark>october</mark></b></p>
+<p><b>date: <mark>23rd october</mark></b></p>
 
 <!-- <p>more performances coming soon</p> -->
 <p><a href="/upcoming/">see all...</a></p>
