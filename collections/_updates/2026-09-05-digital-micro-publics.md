@@ -8,4 +8,6 @@ categories: blog
 
 I led a lecture / workshop at [Termite][term] begining research into the topic of "what is a digital micro public?"
 
+<img src="/assets/img/live/termite.jpeg" height="auto" width="80%"/>
+
 [term]: https://www.termite.works/

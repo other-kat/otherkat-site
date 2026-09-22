@@ -24,13 +24,9 @@ layout: home
 
 <p><h2>upcoming</h2></p>
 
-<p><a href="https://www.southbankcentre.co.uk/whats-on/get-your-hands-dirty-with-creative-tech/">⚇ london community laptop orchestra @ creative intelligence ⚇</a></p>
-<p><b>location: queen elizabeth hall, southbank centre, london</b></p>
-<p><b>date: <mark>13th september</mark></b></p>
-
-<p><a href="https://thephotographersgallery.org.uk/whats-on/i-miss-the-internet">⚇ i miss the internet @ the photographers gallery ⚇</a></p>
-<p><b>location: ramillies street, london</b></p>
-<p><b>date: <mark>17th september</mark></b></p>
+<p><a href="https://peckhamdigital.org/">⚇ time to listen by field notes berlin ⚇</a></p>
+<p><b>location: berlin</b></p>
+<p><b>date: <mark>5th october</mark></b></p>
 
 <p><a href="https://peckhamdigital.org/">⚇ noisy spaces @ pekcham digital festival ⚇</a></p>
 <p><b>location: peckham, london</b></p>
