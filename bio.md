@@ -36,18 +36,18 @@ permalink: /bio/
 
 SELECTED EXHIBITIONS
 
-<p><i>Multi-Band Excitation</i> at Lumbung Radio Assembly, Berlin, Germany - 2025</p>
-<p><i>Multi-Band Excitation</i> at Robida Collective, Topolo, Italy - 2025</p>
-<p><i>shedding</i> at Gallery Puzic, Saarbruken, Germany - 2024</p>
-<p><i>Work, From Home</i> at Her Home, London, England - 2023</p>
+<p><i>I Miss The Internet</i> at The Photographers Gallery, London, England - 2026</p>
+<p><i>Creative Intelligence</i> at The Southbank Centre, London, England - 2026</p>
+<p><i>In/Human Infrastructures</i> at Gossamer Fog, London, England - 2026</p>
+<p><i>Radio Gardening</i> at Robida Collective, Topolo, Italy - 2025</p>
 <p><i>Shedding Femme</i> at Detritus, Tension Fine Art, London, England - 2021</p>
-<p><i>She / They / He</i> at Metafizikel, Artaud Performance Centre, London, England - 2018</p>
 <p><i>Manipulated Labour</i> at Peopling The Palace, Peoples Palace, London, England - 2018</p>
 
 '_________________________________
 
 SELECTED PERFORMANCES
 
+<p><i>Digital Micro Publics</i> at Termite Space, London, England - 2026</p>
 <p><i>Noisy Spaces</i> at does cloud compute (ever) precipitate?, ANNEX, The Koppel Project, London, England - 2026</p>
 <p><i>Switched On: Goldberg</i> at Bach Vespers, Holy Trinity Lutheran Church, New York, USA - 2025</p>
 <p><i>Peter and The Wolf And The Hedgehog</i> with the Peckham Chamber Orchestra, Summer Concert, London, England - 2025</p>
@@ -59,9 +59,11 @@ SELECTED PERFORMANCES
 
 SELECTED FESTIVALS
 
+<p>Creative Intelligence, London, England - 2026</p>
+<p>London School Of Solarpunk Summer Lecture Series, London, England - 2026</p>
 <p>Musica, Manchester, England - 2026</p>
 <p>The World Transformed, Manchester, England - 2025</p>
-<p>Lumbung Radio Assembly, Berlin, Germany - 2025</p>
+<p>20 Days Of Commons, Lumbung Radio Assembly, Berlin, Germany - 2025</p>
 <p>Intimidades Públicas, ICNOVA, NOVA Communication Institute, Lisbon, Portugal - 2024</p>
 <p> Designing/Performing Agency for the Anthropocene, Berlin, Germany - 2021</p>
 
