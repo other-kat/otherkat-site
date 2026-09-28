@@ -28,9 +28,13 @@ all my ideas are made in community, so this list is a way of trying to represent
 
 [Inflationary Assets][inflationary]
 
+[Izzy Hemmings][izzy]
+
 [Jess Crooks][jess]
 
 [Johannes Birringer][johan]
+
+[Jonathan W. Y. Gray][jonathan]
 
 [Laura Bradley][laura]
 
@@ -40,7 +44,7 @@ all my ideas are made in community, so this list is a way of trying to represent
 
 [Michéle Danjoux][michele]
 
-[Niamh Bennett][niamh]
+[Tadhg Bennett][niamh]
 
 [Naive Weekly][naive]
 
@@ -57,6 +61,8 @@ all my ideas are made in community, so this list is a way of trying to represent
 [Sophie Mak-Schram][sophie]
 
 [Telepresence Stage][telepresencestage]
+
+[Termite][termite]
 
 [Timo Kreuser][timo]
 
@@ -92,3 +98,6 @@ this list will never have names removed - only added - isn't that nice :)
 [peckhamdig]: https://peckhamdigital.org/
 [arena]:https://www.are.na/editorial
 [naive]: https://www.naiveweekly.com/
+[izzy]: https://www.iso-bel.computer/
+[termite]: https://www.termite.works/
+[jonathan]: https://jonathangray.org/

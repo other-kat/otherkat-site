@@ -10,7 +10,7 @@ permalink: /bio/
 
 **Having received her MA in Experimental Music** from Brunel University in 2018, she has gone on to make work both within collectives and independently, having worked as the resident sound and sensor artist for the [Design And Performance Lab][dap] between 2017 - 2022, under the direction of [Johannes Birringer][johan] and [Michèle Danjoux][danjoux], designing custom sound and visual software and working with wearable sensors. During this time a core concern of her practice was generative and indeterminate compositions, relying on live-data to create free-form sonic environments.
 
-**Making between disciplines,** Kat works with sound, visuals, the web, sculptural work, choreography, scoring and performance, in addition to site-specific installations. **Her work has been shown** internationally at festivals such as Creative Intelligence @ The Southbank Centre, Lumbung Radio Assembly, Intimidades Públicas (ICNOVA), The World Transformed, and more.
+**Making between disciplines,** Kat works with sound, visuals, the web, sculptural work, choreography, scoring and performance, in addition to site-specific installations. **Her work has been shown** internationally at festivals such as Creative Intelligence, 20 Days Of Commons (Lumbung Radio Assembly 2025), Intimidades Públicas (ICNOVA), The World Transformed, and more.
 
 **Her current practice explores** our engagements with space, both public and private, looking at the ways in which privatisation has affected our capacity for self-expression and protest. She looks to create activations of agency and desire through collective performance, pedagogy and anthropology as represented in the creation of landscapes of desire.
 
@@ -37,7 +37,7 @@ permalink: /bio/
 SELECTED EXHIBITIONS
 
 <p><i>I Miss The Internet</i> at The Photographers Gallery, London, England - 2026</p>
-<p><i>Creative Intelligence</i> at The Southbank Centre, London, England - 2026</p>
+<p><mark><a href="https://londoncommunitylaptoporchestra.net/">(LCLO)</a></mark> <i>Creative Intelligence</i> at The Southbank Centre, London, England - 2026</p>
 <p><i>In/Human Infrastructures</i> at Gossamer Fog, London, England - 2026</p>
 <p><i>Radio Gardening</i> at Robida Collective, Topolo, Italy - 2025</p>
 <p><i>Shedding Femme</i> at Detritus, Tension Fine Art, London, England - 2021</p>
@@ -59,7 +59,7 @@ SELECTED PERFORMANCES
 
 SELECTED FESTIVALS
 
-<p>Creative Intelligence, London, England - 2026</p>
+<p><mark><a href="https://londoncommunitylaptoporchestra.net/">(LCLO)</a></mark> Creative Intelligence, London, England - 2026</p>
 <p>London School Of Solarpunk Summer Lecture Series, London, England - 2026</p>
 <p>Musica, Manchester, England - 2026</p>
 <p>The World Transformed, Manchester, England - 2025</p>
