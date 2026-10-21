@@ -2,7 +2,7 @@
 layout: home
 ---
 
-**Kat Macdonald** is a London-based sound and performance artist exploring collective practice and public space through technology, transmission and alternative pedagogies. She is the founder of the <a href="https://lclo.otherkat.com">London Community Laptop Orchestra</a> and a long time member of the <a href="https://dap-lab.brunel.ac.uk/arch.html">Design And Performance Lab (DAP Lab)</a>. **Her work has been shown** internationally at festivals such as Creative Intelligence, 20 Days Of Commons (Lumbung Radio Assembly 2025), Intimidades Públicas (ICNOVA), The World Transformed and <a href="/bio/#exhibitions">more.</a>
+**Kat Macdonald** is a London-based sound and media artist exploring collective practice and technology. She is the founder of the <a href="https://lclo.otherkat.com">London Community Laptop Orchestra</a> and a long time member of the <a href="https://dap-lab.brunel.ac.uk/arch.html">Design And Performance Lab (DAP Lab)</a>. **Her work has been shown** internationally at festivals such as Creative Intelligence, 20 Days Of Commons (Lumbung Radio Assembly 2025), Intimidades Públicas (ICNOVA), The World Transformed and <a href="/bio/#exhibitions">more.</a>
 
 <div class="row">
         <div class="column left">
@@ -23,10 +23,6 @@ layout: home
 <div class="column right">
 
 <p><h2>upcoming</h2></p>
-
-<p><a href="https://peckhamdigital.org/">⚇ time to listen by field notes berlin ⚇</a></p>
-<p><b>location: berlin</b></p>
-<p><b>date: <mark>5th october</mark></b></p>
 
 <p><a href="https://peckhamdigital.org/">⚇ noisy spaces @ pekcham digital festival ⚇</a></p>
 <p><b>location: peckham, london</b></p>

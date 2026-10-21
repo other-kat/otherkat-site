@@ -8,7 +8,7 @@ categories: blog
 
 I presented the warm up piece from the [London Community Laptop Orchestra][lclo] at the [Photographers Gallery][photographers] as part of [Error 417 Foundations][error] "i miss the internet" event.
 
-<img src="/assets/img/live/photographers.jpeg" height="auto" width="80%"/>
+<img src="/assets/img/photos/photogal3.jpeg" height="auto" width="80%"/>
 
 [error]: https://error417.expectation.fail/
 [lclo]: https://londoncommunitylaptoporchestra.net/

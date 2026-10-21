@@ -4,6 +4,13 @@ title: gallery
 permalink: /gallery/
 ---
 
+<h2><i>warm up</i> at <a href="https://thephotographersgallery.org.uk/whats-on/i-miss-the-internet">The Photographers Gallery</a> (2026) - Photos by <a href="https://www.instagram.com/gray_carmen/">Carmen Gray</a></h2>
+<a href="/assets/img/photos/photogal1.jpeg"><img src="/assets/img/photos/photogal1.jpeg" height="auto" width="30%"/></a>
+<a href="/assets/img/photos/photogal2.jpeg"><img src="/assets/img/photos/photogal2.jpeg" height="auto" width="30%"/></a>
+<a href="/assets/img/photos/photogal3.jpeg"><img src="/assets/img/photos/photogal3.jpeg" height="auto" width="30%"/></a>
+<a href="/assets/img/photos/photogal4.jpeg"><img src="/assets/img/photos/photogal4.jpeg" height="auto" width="30%"/></a>
+<a href="/assets/img/photos/photogal5.jpeg"><img src="/assets/img/photos/photogal5.jpeg" height="auto" width="30%"/></a>
+
 <h2><i>ringtone workshop</i> with <a href="https://phreaking.co.uk/">Phreaking Collective</a> (2026) - Photos by <a href="https://xachhill.com/index.html">Xach Hill</a></h2>
 <a href="/assets/img/live/ringtone.jpg"><img src="/assets/img/live/ringtone.jpg" height="auto" width="30%"/></a>
 <a href="/assets/img/ringtone/ring1.jpg"><img src="/assets/img/ringtone/ring1.jpg" height="auto" width="30%"/></a>

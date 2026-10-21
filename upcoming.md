@@ -4,13 +4,6 @@ title: upcoming
 permalink: /upcoming/
 ---
 
-<h2><a href="https://peckhamdigital.org/">⚇ TIME TO LISTEN BY FIELD NOTES BERLIN ⚇</a></h2>
-<p><b>Location: Berlin</b></p>
-<p><b>Date: 5th October</b></p>
-<p> I'll be doing a short presentation as part of Time To Listen 2026 in Berlin!
-</p>
-<br>
-
 <h2><a href="https://peckhamdigital.org/">⚇ NOISY SPACES @ PECKHAM DIGITAL FESTIVAL ⚇</a></h2>
 <p><b>Location: Peckham, London</b></p>
 <p><b>Date: 23rd October</b></p>
@@ -20,6 +13,13 @@ permalink: /upcoming/
 
 <p>__________</p>
 <p><h2><b>ARCHIVE STARTING 03.25</b></h2></p>
+<br>
+
+<h2><a href="https://peckhamdigital.org/">⚇ TIME TO LISTEN BY FIELD NOTES BERLIN ⚇</a></h2>
+<p><b>Location: Berlin</b></p>
+<p><b>Date: 5th October</b></p>
+<p> I'll be doing a short presentation as part of Time To Listen 2026 in Berlin!
+</p>
 <br>
 
 <h2><a href="https://thephotographersgallery.org.uk/whats-on/i-miss-the-internet">⚇ I MISS THE INTERNET @ THE PHOTOGRAPHERS GALLERY ⚇</a></h2>
