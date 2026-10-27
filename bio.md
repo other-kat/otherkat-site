@@ -10,7 +10,7 @@ Kat Macdonald is a London-based sound and media artist exploring collective prac
 
 Making between disciplines, Kat works with sound, visuals, the web, sculptural work, choreography, scoring and performance, in addition to site-specific installations, often engaging with technology to critique the ways in which it can shape culture and practice.
 
-She is the founder and organiser of the [London Community Laptop Orchestra][lclo] (2024 - ), an all-abilities, community-organised laptop collective and research project. The LCLO takes social/ technological theory and infrastructure, and represents them through collective participatory actions. The project is site specific, seeking to grow through replication and deviation, rather than touring, borrowing from the principles of the decentralised web and 'open source' cultures. 
+She is the founder and organiser of the [London Community Laptop Orchestra][lclo] (2024 - ), an all-abilities, community-organised laptop collective and research project. The LCLO takes social/ technological theory and infrastructure, and represents them through collective participatory actions. The project is site specific, seeking to grow through 'branching' and deviation, rather than touring, borrowing from the principles of the decentralised web and 'open source' cultures. 
 
 Her current practice explores inner city living and spaces of community, looking at how public space and micro publics (sites of everyday cultural exchange) play a role in holding and building communities and networks of care. Her work looks at how these spaces are changing in response to technology and privatisation, influencing our relationship to otherness.
 
