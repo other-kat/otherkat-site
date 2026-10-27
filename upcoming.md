@@ -4,15 +4,15 @@ title: upcoming
 permalink: /upcoming/
 ---
 
+<p>__________</p>
+<p><h2><b>ARCHIVE STARTING 03.25</b></h2></p>
+<br>
+
 <h2><a href="https://peckhamdigital.org/">⚇ NOISY SPACES @ PECKHAM DIGITAL FESTIVAL ⚇</a></h2>
 <p><b>Location: Peckham, London</b></p>
 <p><b>Date: 23rd October</b></p>
 <p> I'll be performing Noisy Spaces at Peckham Digital 2026!
 </p>
-<br>
-
-<p>__________</p>
-<p><h2><b>ARCHIVE STARTING 03.25</b></h2></p>
 <br>
 
 <h2><a href="https://peckhamdigital.org/">⚇ TIME TO LISTEN BY FIELD NOTES BERLIN ⚇</a></h2>
