@@ -26,8 +26,6 @@ Previously know or made work under the following names: Dee Kathleen Egan, A-Kin
 
 <a href="/assets/pdf/(Kat)hleenMacdonaldSelectedWorks.pdf">selected works</a>
 
-[portfolio][portf] - under maintenance
-
 [collaborators][collabs]
 
 
